@@ -74,7 +74,7 @@ const ktvnLessons: Lesson[] = [
     description: "Xuất nguyên liệu đi gia công, phí gia công vào giá thành, nhận lại thành phẩm; nhận gia công cho bên khác.", file: "ke-toan-vn/kt-26-gia-cong.md" },
   { slug: "kt-27-chi-phi-san-xuat", courseId: "KT-VN", title: "Luồng chi phí sản xuất: từ lệnh sản xuất đến thành phẩm", shortTitle: "Chi phí sản xuất", chapter: "kt-ch5", order: 27, available: true,
     description: "Chi phí NVL, nhân công, sản xuất chung tập hợp vào 154, nhập kho thành phẩm, bút toán từng bước.", file: "ke-toan-vn/kt-27-chi-phi-san-xuat.md" },
-  { slug: "kt-28-gia-thanh", courseId: "KT-VN", title: "Tính giá thành: các phương án cần chốt với khách", shortTitle: "Giá thành", chapter: "kt-ch5", order: 28, available: false,
+  { slug: "kt-28-gia-thanh", courseId: "KT-VN", title: "Tính giá thành: các phương án cần chốt với khách", shortTitle: "Giá thành", chapter: "kt-ch5", order: 28, available: true,
     description: "Đối tượng tính giá thành, phân bổ sản xuất chung, dở dang, giá định mức và thực tế.", file: "ke-toan-vn/kt-28-gia-thanh.md" },
   { slug: "kt-29-vong-doi-tscd", courseId: "KT-VN", title: "Vòng đời tài sản cố định: ghi nhận, khấu hao, thanh lý", shortTitle: "Vòng đời TSCĐ", chapter: "kt-ch6", order: 29, available: false,
     description: "Ghi nhận, nguyên giá, XDCB dở dang, khấu hao, nâng cấp, điều chuyển, thanh lý, nhượng bán.", file: "ke-toan-vn/kt-29-vong-doi-tscd.md" },
