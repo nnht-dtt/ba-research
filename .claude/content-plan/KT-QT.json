@@ -156,7 +156,7 @@
         "Quyết định 345/QĐ-BTC năm 2020",
         "KPMG Việt Nam, Differences between Vietnamese GAAP and IFRS (2025)"
       ],
-      "status": "in-progress",
+      "status": "done",
       "note": ""
     },
     {
@@ -241,7 +241,7 @@
         "Odoo 19 Documentation (odoo.com/documentation/19.0), eCommerce và marketplace connectors"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: voucher sàn tài trợ, doanh thu trước/sau voucher"
     },
     {
       "slug": "ktqt-14-phi-san-cong-thanh-toan",
@@ -254,7 +254,7 @@
         "VAS 01, nguyên tắc dồn tích và phù hợp"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: Điều 9 NĐ 254 bản gốc; phí cổng TT vào 641 hay 642"
     },
     {
       "slug": "ktqt-15-doi-soat-san-cod",
@@ -267,7 +267,7 @@
         "Odoo 19 Documentation (odoo.com/documentation/19.0), Bank reconciliation"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: TK 131 chi tiết theo sàn hay 1388; dùng TK 113"
     },
     {
       "slug": "ktqt-16-hoa-don-kenh-online",
@@ -280,7 +280,7 @@
         "Nghị định 117/2025/NĐ-CP (phạm vi: hộ, cá nhân kinh doanh trên sàn)"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: văn bản gốc NĐ 254, TT 91; mốc chuyển quyền sở hữu với COD; hoá đơn tổng hợp"
     },
     {
       "slug": "ktqt-17-vat-eu-uk",

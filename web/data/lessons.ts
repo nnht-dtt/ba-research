@@ -132,7 +132,7 @@ const ktqtLessons: Lesson[] = [
     description: "Tỷ giá giao dịch, tỷ giá ghi sổ đích danh và bình quân, nguồn tỷ giá, chênh lệch khi thanh toán và cuối kỳ.", file: "ke-toan-tap-doan/ktqt-05-giao-dich-ngoai-te.md" },
   { slug: "ktqt-06-don-vi-tien-te-chuyen-doi", courseId: "KT-QT", title: "Đơn vị tiền tệ kế toán, đồng tiền chức năng và chuyển đổi BCTC", shortTitle: "Đơn vị tiền tệ", chapter: "ktqt-ch2", order: 6, available: true,
     description: "Điều kiện dùng ngoại tệ làm đơn vị tiền tệ kế toán theo TT99, đồng tiền chức năng và trình bày theo IAS 21, chuyển đổi BCTC, chênh lệch chuyển đổi.", file: "ke-toan-tap-doan/ktqt-06-don-vi-tien-te-chuyen-doi.md" },
-  { slug: "ktqt-07-vas-ifrs", courseId: "KT-QT", title: "VAS và IFRS: khác biệt chính và lộ trình áp dụng", shortTitle: "VAS và IFRS", chapter: "ktqt-ch3", order: 7, available: false,
+  { slug: "ktqt-07-vas-ifrs", courseId: "KT-QT", title: "VAS và IFRS: khác biệt chính và lộ trình áp dụng", shortTitle: "VAS và IFRS", chapter: "ktqt-ch3", order: 7, available: true,
     description: "Khác biệt cách tiếp cận và các điểm trọng yếu, lộ trình QĐ 345.", file: "ke-toan-tap-doan/ktqt-07-vas-ifrs.md" },
   { slug: "ktqt-08-dieu-chinh-vas-ifrs", courseId: "KT-QT", title: "Các điều chỉnh VAS sang IFRS thường gặp và dữ liệu hệ thống cần có", shortTitle: "Điều chỉnh VAS–IFRS", chapter: "ktqt-ch3", order: 8, available: false,
     description: "IFRS 16, IFRS 15, IFRS 9, IAS 16, IAS 12, IAS 37; mỗi điều chỉnh cần dữ liệu gì.", file: "ke-toan-tap-doan/ktqt-08-dieu-chinh-vas-ifrs.md" },
