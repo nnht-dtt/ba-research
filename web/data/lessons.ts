@@ -68,7 +68,7 @@ const ktvnLessons: Lesson[] = [
     description: "FIFO, bình quân, đích danh; kê khai thường xuyên và kiểm kê định kỳ; định giá tự động và xuất âm kho.", file: "ke-toan-vn/kt-23-dinh-gia-ton-kho.md" },
   { slug: "kt-24-kiem-ke-du-phong", courseId: "KT-VN", title: "Kiểm kê, điều chỉnh tồn kho và dự phòng giảm giá", shortTitle: "Kiểm kê, dự phòng", chapter: "kt-ch5", order: 24, available: true,
     description: "Chênh lệch kiểm kê, xuất huỷ, giá trị thuần có thể thực hiện, dữ liệu để trích dự phòng.", file: "ke-toan-vn/kt-24-kiem-ke-du-phong.md" },
-  { slug: "kt-25-kho-thue-ngoai-kho-san", courseId: "KT-VN", title: "Kho thuê ngoài, kho trên sàn, kho ảo và hàng gửi đi", shortTitle: "Kho thuê ngoài, kho sàn", chapter: "kt-ch5", order: 25, available: false,
+  { slug: "kt-25-kho-thue-ngoai-kho-san", courseId: "KT-VN", title: "Kho thuê ngoài, kho trên sàn, kho ảo và hàng gửi đi", shortTitle: "Kho thuê ngoài, kho sàn", chapter: "kt-ch5", order: 25, available: true,
     description: "Hàng nằm ở kho bên thứ ba vẫn thuộc doanh nghiệp, hàng gửi bán, kho ảo để quản lý; pháp nhân sở hữu kho.", file: "ke-toan-vn/kt-25-kho-thue-ngoai-kho-san.md" },
   { slug: "kt-26-gia-cong", courseId: "KT-VN", title: "Gia công: thuê ngoài gia công và nhận gia công", shortTitle: "Gia công", chapter: "kt-ch5", order: 26, available: false,
     description: "Xuất nguyên liệu đi gia công, phí gia công vào giá thành, nhận lại thành phẩm; nhận gia công cho bên khác.", file: "ke-toan-vn/kt-26-gia-cong.md" },
