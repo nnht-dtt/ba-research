@@ -157,7 +157,7 @@
         "KPMG Việt Nam, Differences between Vietnamese GAAP and IFRS (2025)"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: VFRS ban hành chưa; mốc bắt buộc IFRS; TT118/2026 (IFC)"
     },
     {
       "slug": "ktqt-08-dieu-chinh-vas-ifrs",
@@ -171,7 +171,7 @@
         "Deloitte Việt Nam, From VAS to IFRS"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: cơ sở tính thuế IAS 12"
     },
     {
       "slug": "ktqt-09-mapping-coa-tap-doan",
@@ -185,7 +185,7 @@
         "KPMG Việt Nam, Conversion to IFRS"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: tiêu chí tách mapping 1-nhiều; cột quản trị bảng mapping; trình bày lại số so sánh"
     },
     {
       "slug": "ktqt-10-kien-truc-so-hai-chuan",
@@ -199,7 +199,7 @@
         "Deloitte Việt Nam, From VAS to IFRS"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: Odoo Multi-Ledgers làm sổ song song cho một pháp nhân; COA thay thế với TT99 Điều 11, 28"
     },
     {
       "slug": "ktqt-11-giao-dich-cong-ty-me",
@@ -214,7 +214,7 @@
         "IAS 24"
       ],
       "status": "done",
-      "note": ""
+      "note": "NĐ 255/2026 thay NĐ 132/2020; TT89/2026 thay TT103/2014 (chưa đọc gốc); Cần xác nhận: TK 3339 hay 3338"
     },
     {
       "slug": "ktqt-12-bao-cao-cho-tap-doan",
@@ -227,7 +227,7 @@
         "Deloitte Việt Nam, From VAS to IFRS"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: giới hạn chênh lệch ngày báo cáo IFRS 10 phụ lục B"
     },
     {
       "slug": "ktqt-13-doanh-thu-kenh-online",
