@@ -42,7 +42,7 @@ const ktvnLessons: Lesson[] = [
     description: "Sổ chi tiết theo khách hàng, nhà cung cấp, vật tư, tài sản; đối chiếu sổ con với sổ cái; mẫu sổ TT99.", file: "ke-toan-vn/kt-10-so-con-so-cai.md" },
   { slug: "kt-11-but-toan-tong-hop-dieu-chinh", courseId: "KT-VN", title: "Bút toán tổng hợp, huỷ và điều chỉnh chứng từ", shortTitle: "Điều chỉnh chứng từ", chapter: "kt-ch2", order: 11, available: false,
     description: "Bút toán nhập tay trên sổ cái, sửa sai bằng bút toán đảo hay điều chỉnh, hoá đơn điều chỉnh, quy định sửa sổ.", file: "ke-toan-vn/kt-11-but-toan-tong-hop-dieu-chinh.md" },
-  { slug: "kt-12-quy-trinh-mua-hang", courseId: "KT-VN", title: "Quy trình mua hàng: bước nào sinh bút toán", shortTitle: "Quy trình mua hàng", chapter: "kt-ch3", order: 12, available: false,
+  { slug: "kt-12-quy-trinh-mua-hang", courseId: "KT-VN", title: "Quy trình mua hàng: bước nào sinh bút toán", shortTitle: "Quy trình mua hàng", chapter: "kt-ch3", order: 12, available: true,
     description: "Đề nghị mua, đơn mua, nhận hàng, hoá đơn, thanh toán; thời điểm ghi nhận; đối chiếu ba chiều.", file: "ke-toan-vn/kt-12-quy-trinh-mua-hang.md" },
   { slug: "kt-13-mua-hang-nhap-khau", courseId: "KT-VN", title: "Chi phí mua, trả hàng, chiết khấu và hàng nhập khẩu", shortTitle: "Tình huống mua hàng", chapter: "kt-ch3", order: 13, available: false,
     description: "Chi phí mua phân bổ vào giá nhập (landed cost), chiết khấu, trả hàng, thuế nhập khẩu, VAT hàng nhập khẩu.", file: "ke-toan-vn/kt-13-mua-hang-nhap-khau.md" },
