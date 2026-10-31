@@ -26,7 +26,7 @@ const ktvnLessons: Lesson[] = [
     description: "Ba tầng văn bản, tầng nào quyết định cấu hình hệ thống, VFRS/IFRS nằm ở đâu.", file: "ke-toan-vn/kt-02-khung-phap-ly.md" },
   { slug: "kt-03-che-do-ke-toan", courseId: "KT-VN", title: "Chế độ kế toán doanh nghiệp: TT99, TT133, TT58", shortTitle: "Chế độ kế toán", chapter: "kt-ch1", order: 3, available: true,
     description: "Đối tượng áp dụng, thay đổi của TT99 so với TT200 tác động tới hệ thống, quyền tự thiết kế tài khoản, chứng từ, sổ.", file: "ke-toan-vn/kt-03-che-do-ke-toan.md" },
-  { slug: "kt-04-nguyen-tac-ke-toan", courseId: "KT-VN", title: "Các nguyên tắc kế toán chi phối thiết kế hệ thống", shortTitle: "Nguyên tắc VAS 01", chapter: "kt-ch1", order: 4, available: false,
+  { slug: "kt-04-nguyen-tac-ke-toan", courseId: "KT-VN", title: "Các nguyên tắc kế toán chi phối thiết kế hệ thống", shortTitle: "Nguyên tắc VAS 01", chapter: "kt-ch1", order: 4, available: true,
     description: "Dồn tích, giá gốc, phù hợp, nhất quán, thận trọng, trọng yếu và hệ quả lên thời điểm ghi nhận, định giá, khoá kỳ.", file: "ke-toan-vn/kt-04-nguyen-tac-ke-toan.md" },
   { slug: "kt-05-chinh-sach-quy-che", courseId: "KT-VN", title: "Chính sách kế toán và quy chế kế toán nội bộ", shortTitle: "Chính sách kế toán", chapter: "kt-ch1", order: 5, available: false,
     description: "Chính sách kế toán gồm những gì, khi nào doanh nghiệp phải có quy chế kế toán nội bộ, thay đổi chính sách và ước tính.", file: "ke-toan-vn/kt-05-chinh-sach-quy-che.md" },
