@@ -130,7 +130,7 @@ const ktqtLessons: Lesson[] = [
     description: "Cộng ngang, loại trừ khoản đầu tư và giao dịch nội bộ, lãi chưa thực hiện, lợi ích cổ đông không kiểm soát.", file: "ke-toan-tap-doan/ktqt-04-bctc-hop-nhat.md" },
   { slug: "ktqt-05-giao-dich-ngoai-te", courseId: "KT-QT", title: "Giao dịch ngoại tệ, tỷ giá xuất quỹ và đánh giá lại cuối kỳ", shortTitle: "Ngoại tệ", chapter: "ktqt-ch2", order: 5, available: true,
     description: "Tỷ giá giao dịch, tỷ giá ghi sổ đích danh và bình quân, nguồn tỷ giá, chênh lệch khi thanh toán và cuối kỳ.", file: "ke-toan-tap-doan/ktqt-05-giao-dich-ngoai-te.md" },
-  { slug: "ktqt-06-don-vi-tien-te-chuyen-doi", courseId: "KT-QT", title: "Đơn vị tiền tệ kế toán, đồng tiền chức năng và chuyển đổi BCTC", shortTitle: "Đơn vị tiền tệ", chapter: "ktqt-ch2", order: 6, available: false,
+  { slug: "ktqt-06-don-vi-tien-te-chuyen-doi", courseId: "KT-QT", title: "Đơn vị tiền tệ kế toán, đồng tiền chức năng và chuyển đổi BCTC", shortTitle: "Đơn vị tiền tệ", chapter: "ktqt-ch2", order: 6, available: true,
     description: "Điều kiện dùng ngoại tệ làm đơn vị tiền tệ kế toán theo TT99, đồng tiền chức năng và trình bày theo IAS 21, chuyển đổi BCTC, chênh lệch chuyển đổi.", file: "ke-toan-tap-doan/ktqt-06-don-vi-tien-te-chuyen-doi.md" },
   { slug: "ktqt-07-vas-ifrs", courseId: "KT-QT", title: "VAS và IFRS: khác biệt chính và lộ trình áp dụng", shortTitle: "VAS và IFRS", chapter: "ktqt-ch3", order: 7, available: false,
     description: "Khác biệt cách tiếp cận và các điểm trọng yếu, lộ trình QĐ 345.", file: "ke-toan-tap-doan/ktqt-07-vas-ifrs.md" },
