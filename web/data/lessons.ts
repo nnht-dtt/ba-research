@@ -62,7 +62,7 @@ const ktvnLessons: Lesson[] = [
     description: "Hàng khuyến mại có và không thu tiền, voucher, quà tặng, combo nhiều SKU: hạch toán, phân bổ doanh thu, hoá đơn.", file: "ke-toan-vn/kt-20-khuyen-mai-voucher-combo.md" },
   { slug: "kt-21-cong-no-phai-thu", courseId: "KT-VN", title: "Công nợ phải thu và dự phòng phải thu khó đòi", shortTitle: "Công nợ phải thu", chapter: "kt-ch4", order: 21, available: true,
     description: "Theo dõi theo khách và hoá đơn, tuổi nợ, đối trừ, trích dự phòng và dữ liệu cần có.", file: "ke-toan-vn/kt-21-cong-no-phai-thu.md" },
-  { slug: "kt-22-thue-gtgt-dau-ra", courseId: "KT-VN", title: "Thuế GTGT đầu ra và quyết toán VAT cuối kỳ", shortTitle: "VAT đầu ra", chapter: "kt-ch4", order: 22, available: false,
+  { slug: "kt-22-thue-gtgt-dau-ra", courseId: "KT-VN", title: "Thuế GTGT đầu ra và quyết toán VAT cuối kỳ", shortTitle: "VAT đầu ra", chapter: "kt-ch4", order: 22, available: true,
     description: "VAT theo thuế suất, bù trừ đầu vào, báo cáo hệ thống cần cung cấp cho kê khai.", file: "ke-toan-vn/kt-22-thue-gtgt-dau-ra.md" },
   { slug: "kt-23-dinh-gia-ton-kho", courseId: "KT-VN", title: "Định giá hàng tồn kho và giá vốn trong hệ thống", shortTitle: "Định giá tồn kho", chapter: "kt-ch5", order: 23, available: false,
     description: "FIFO, bình quân, đích danh; kê khai thường xuyên và kiểm kê định kỳ; định giá tự động và xuất âm kho.", file: "ke-toan-vn/kt-23-dinh-gia-ton-kho.md" },
