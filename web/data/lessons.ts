@@ -126,7 +126,7 @@ const ktqtLessons: Lesson[] = [
     description: "Thông tin cần thu thập cho từng pháp nhân, quan hệ sở hữu, chuẩn mực địa phương, đơn vị tiền tệ hạch toán, năm tài chính khác nhau.", file: "ke-toan-tap-doan/ktqt-02-danh-muc-phap-nhan.md" },
   { slug: "ktqt-03-giao-dich-noi-bo", courseId: "KT-QT", title: "Giao dịch nội bộ: mua bán, chi hộ thu hộ, cho vay nội bộ", shortTitle: "Giao dịch nội bộ", chapter: "ktqt-ch1", order: 3, available: true,
     description: "Các loại giao dịch giữa pháp nhân, tài khoản dùng (136/336 với đơn vị phụ thuộc, 131/331/1283/341 giữa pháp nhân độc lập), đối chiếu số dư nội bộ.", file: "ke-toan-tap-doan/ktqt-03-giao-dich-noi-bo.md" },
-  { slug: "ktqt-04-bctc-hop-nhat", courseId: "KT-QT", title: "Báo cáo tài chính hợp nhất: logic và dữ liệu cần chuẩn bị", shortTitle: "BCTC hợp nhất", chapter: "ktqt-ch1", order: 4, available: false,
+  { slug: "ktqt-04-bctc-hop-nhat", courseId: "KT-QT", title: "Báo cáo tài chính hợp nhất: logic và dữ liệu cần chuẩn bị", shortTitle: "BCTC hợp nhất", chapter: "ktqt-ch1", order: 4, available: true,
     description: "Cộng ngang, loại trừ khoản đầu tư và giao dịch nội bộ, lãi chưa thực hiện, lợi ích cổ đông không kiểm soát.", file: "ke-toan-tap-doan/ktqt-04-bctc-hop-nhat.md" },
   { slug: "ktqt-05-giao-dich-ngoai-te", courseId: "KT-QT", title: "Giao dịch ngoại tệ, tỷ giá xuất quỹ và đánh giá lại cuối kỳ", shortTitle: "Ngoại tệ", chapter: "ktqt-ch2", order: 5, available: true,
     description: "Tỷ giá giao dịch, tỷ giá ghi sổ đích danh và bình quân, nguồn tỷ giá, chênh lệch khi thanh toán và cuối kỳ.", file: "ke-toan-tap-doan/ktqt-05-giao-dich-ngoai-te.md" },
