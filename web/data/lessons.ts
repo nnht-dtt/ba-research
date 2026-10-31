@@ -156,7 +156,7 @@ const ktqtLessons: Lesson[] = [
     description: "Bán từ xa B2C, ba chế độ OSS, IOSS cho hàng giá trị thấp, khi nào sàn chịu trách nhiệm thu VAT, dữ liệu hệ thống cần.", file: "ke-toan-tap-doan/ktqt-17-vat-eu-uk.md" },
   { slug: "ktqt-18-sales-tax-my", courseId: "KT-QT", title: "Sales tax Mỹ: economic nexus và marketplace facilitator", shortTitle: "Sales tax Mỹ", chapter: "ktqt-ch5", order: 18, available: true,
     description: "Sau vụ Wayfair, ngưỡng nexus theo bang, sàn thu và nộp thay, người bán còn nghĩa vụ gì, dữ liệu theo bang.", file: "ke-toan-tap-doan/ktqt-18-sales-tax-my.md" },
-  { slug: "ktqt-19-thue-da-quoc-gia", courseId: "KT-QT", title: "Nghĩa vụ thuế của tập đoàn bán hàng ở nhiều quốc gia", shortTitle: "Thuế đa quốc gia", chapter: "ktqt-ch5", order: 19, available: false,
+  { slug: "ktqt-19-thue-da-quoc-gia", courseId: "KT-QT", title: "Nghĩa vụ thuế của tập đoàn bán hàng ở nhiều quốc gia", shortTitle: "Thuế đa quốc gia", chapter: "ktqt-ch5", order: 19, available: true,
     description: "Các loại thuế theo pháp nhân và quốc gia (loại thuế, ai kê khai, tần suất), thuế do sàn khấu trừ hoặc thu hộ, cách hệ thống áp thuế theo nơi bán.", file: "ke-toan-tap-doan/ktqt-19-thue-da-quoc-gia.md" },
   { slug: "ktqt-20-case-tap-doan-da-kenh", courseId: "KT-QT", title: "Ví dụ tổng hợp: tập đoàn đa quốc gia bán hàng đa kênh", shortTitle: "Ví dụ tổng hợp", chapter: "ktqt-ch6", order: 20, available: false,
     description: "Đi qua một tập đoàn giả định: các pháp nhân, giao dịch nội bộ, ngoại tệ, doanh thu sàn, thuế và báo cáo cho công ty mẹ, nối các bài trong khoá.", file: "ke-toan-tap-doan/ktqt-20-case-tap-doan-da-kenh.md" },
