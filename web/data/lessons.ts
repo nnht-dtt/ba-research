@@ -150,7 +150,7 @@ const ktqtLessons: Lesson[] = [
     description: "Phí trừ theo đơn và phí cuối kỳ, ghi nhận khi phát sinh đơn hay khi quyết toán, tài khoản chi phí, hoá đơn của sàn.", file: "ke-toan-tap-doan/ktqt-14-phi-san-cong-thanh-toan.md" },
   { slug: "ktqt-15-doi-soat-san-cod", courseId: "KT-QT", title: "Đối soát quyết toán sàn, cổng thanh toán, COD và sao kê ngân hàng", shortTitle: "Đối soát sàn, COD", chapter: "ktqt-ch4", order: 15, available: true,
     description: "Phải thu sàn và tiền đang chuyển, đối chiếu đơn – quyết toán – sao kê, chênh lệch thường gặp, tự động hoá đối soát.", file: "ke-toan-tap-doan/ktqt-15-doi-soat-san-cod.md" },
-  { slug: "ktqt-16-hoa-don-kenh-online", courseId: "KT-QT", title: "Hoá đơn điện tử cho bán hàng online", shortTitle: "Hoá đơn online", chapter: "ktqt-ch4", order: 16, available: false,
+  { slug: "ktqt-16-hoa-don-kenh-online", courseId: "KT-QT", title: "Hoá đơn điện tử cho bán hàng online", shortTitle: "Hoá đơn online", chapter: "ktqt-ch4", order: 16, available: true,
     description: "Xuất theo đơn hay gộp cuối ngày, ai xuất hoá đơn, dữ liệu đơn hàng khác hoá đơn, xử lý đơn huỷ, hoàn.", file: "ke-toan-tap-doan/ktqt-16-hoa-don-kenh-online.md" },
   { slug: "ktqt-17-vat-eu-uk", courseId: "KT-QT", title: "VAT EU và UK khi bán hàng xuyên biên giới: OSS, IOSS, sàn là người bán được coi là", shortTitle: "VAT EU, UK", chapter: "ktqt-ch5", order: 17, available: true,
     description: "Bán từ xa B2C, ba chế độ OSS, IOSS cho hàng giá trị thấp, khi nào sàn chịu trách nhiệm thu VAT, dữ liệu hệ thống cần.", file: "ke-toan-tap-doan/ktqt-17-vat-eu-uk.md" },
