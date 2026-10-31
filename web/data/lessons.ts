@@ -34,7 +34,7 @@ const ktvnLessons: Lesson[] = [
     description: "Năm nhóm yếu tố BCTC, điều kiện ghi nhận, tài khoản có số dư và tài khoản tạm thời.", file: "ke-toan-vn/kt-06-phuong-trinh-ke-toan.md" },
   { slug: "kt-07-ghi-so-kep", courseId: "KT-VN", title: "Ghi sổ kép, Nợ/Có và đọc một bút toán", shortTitle: "Ghi sổ kép", chapter: "kt-ch2", order: 7, available: true,
     description: "Tài khoản chữ T, quy tắc ghi theo loại tài khoản, đọc bút toán nhiều dòng do hệ thống sinh.", file: "ke-toan-vn/kt-07-ghi-so-kep.md" },
-  { slug: "kt-08-he-thong-tai-khoan-tt99", courseId: "KT-VN", title: "Hệ thống tài khoản TT99 và tài khoản BA hay gặp", shortTitle: "Hệ thống tài khoản", chapter: "kt-ch2", order: 8, available: false,
+  { slug: "kt-08-he-thong-tai-khoan-tt99", courseId: "KT-VN", title: "Hệ thống tài khoản TT99 và tài khoản BA hay gặp", shortTitle: "Hệ thống tài khoản", chapter: "kt-ch2", order: 8, available: true,
     description: "Chín loại tài khoản, tài khoản mới, bỏ, đổi tên so với TT200, tài khoản nào gắn với phân hệ nào.", file: "ke-toan-vn/kt-08-he-thong-tai-khoan-tt99.md" },
   { slug: "kt-09-chung-tu-hoa-don", courseId: "KT-VN", title: "Chứng từ kế toán, chứng từ điện tử và hoá đơn điện tử", shortTitle: "Chứng từ và hoá đơn", chapter: "kt-ch2", order: 9, available: false,
     description: "Nội dung bắt buộc của chứng từ, chứng từ hệ thống phải in hoặc lưu, hoá đơn điện tử và điểm tích hợp với nhà cung cấp hoá đơn.", file: "ke-toan-vn/kt-09-chung-tu-hoa-don.md" },
