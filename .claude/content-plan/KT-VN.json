@@ -146,7 +146,7 @@
         "VAS 01, phần các yếu tố BCTC",
         "Giáo trình Nguyên lý kế toán (đề cương CTU, UFM, Sao Đỏ)"
       ],
-      "status": "in-progress",
+      "status": "done",
       "note": ""
     },
     {
@@ -373,7 +373,7 @@
         "Odoo 19 Documentation (odoo.com/documentation/19.0), Inventory valuation"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: xuất âm kho; chênh lệch chi phí chuẩn - thực tế"
     },
     {
       "slug": "kt-24-kiem-ke-du-phong",
@@ -399,7 +399,7 @@
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 156, 157"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: kho sàn TK 156 hay 157; TT99 không còn TK ngoài bảng"
     },
     {
       "slug": "kt-26-gia-cong",
@@ -412,7 +412,7 @@
         "VAS 02"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: TK ngoài bảng (PL III vẫn nhắc); Odoo giữ vật tư gia công ở 152"
     },
     {
       "slug": "kt-27-chi-phi-san-xuat",
@@ -440,7 +440,7 @@
         "Đề cương Kế toán tài chính 1 – HVNH (ACT02A), mục 3.3"
       ],
       "status": "done",
-      "note": ""
+      "note": "Nguồn mỏng: đề cương chỉ nêu tên phương pháp, không công thức"
     },
     {
       "slug": "kt-29-vong-doi-tscd",

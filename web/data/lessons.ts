@@ -30,7 +30,7 @@ const ktvnLessons: Lesson[] = [
     description: "Dồn tích, giá gốc, phù hợp, nhất quán, thận trọng, trọng yếu và hệ quả lên thời điểm ghi nhận, định giá, khoá kỳ.", file: "ke-toan-vn/kt-04-nguyen-tac-ke-toan.md" },
   { slug: "kt-05-chinh-sach-quy-che", courseId: "KT-VN", title: "Chính sách kế toán và quy chế kế toán nội bộ", shortTitle: "Chính sách kế toán", chapter: "kt-ch1", order: 5, available: false,
     description: "Chính sách kế toán gồm những gì, khi nào doanh nghiệp phải có quy chế kế toán nội bộ, thay đổi chính sách và ước tính.", file: "ke-toan-vn/kt-05-chinh-sach-quy-che.md" },
-  { slug: "kt-06-phuong-trinh-ke-toan", courseId: "KT-VN", title: "Tài sản, nguồn vốn, doanh thu, chi phí và phương trình kế toán", shortTitle: "Phương trình kế toán", chapter: "kt-ch2", order: 6, available: false,
+  { slug: "kt-06-phuong-trinh-ke-toan", courseId: "KT-VN", title: "Tài sản, nguồn vốn, doanh thu, chi phí và phương trình kế toán", shortTitle: "Phương trình kế toán", chapter: "kt-ch2", order: 6, available: true,
     description: "Năm nhóm yếu tố BCTC, điều kiện ghi nhận, tài khoản có số dư và tài khoản tạm thời.", file: "ke-toan-vn/kt-06-phuong-trinh-ke-toan.md" },
   { slug: "kt-07-ghi-so-kep", courseId: "KT-VN", title: "Ghi sổ kép, Nợ/Có và đọc một bút toán", shortTitle: "Ghi sổ kép", chapter: "kt-ch2", order: 7, available: false,
     description: "Tài khoản chữ T, quy tắc ghi theo loại tài khoản, đọc bút toán nhiều dòng do hệ thống sinh.", file: "ke-toan-vn/kt-07-ghi-so-kep.md" },
