@@ -32,7 +32,7 @@ const ktvnLessons: Lesson[] = [
     description: "Chính sách kế toán gồm những gì, khi nào doanh nghiệp phải có quy chế kế toán nội bộ, thay đổi chính sách và ước tính.", file: "ke-toan-vn/kt-05-chinh-sach-quy-che.md" },
   { slug: "kt-06-phuong-trinh-ke-toan", courseId: "KT-VN", title: "Tài sản, nguồn vốn, doanh thu, chi phí và phương trình kế toán", shortTitle: "Phương trình kế toán", chapter: "kt-ch2", order: 6, available: true,
     description: "Năm nhóm yếu tố BCTC, điều kiện ghi nhận, tài khoản có số dư và tài khoản tạm thời.", file: "ke-toan-vn/kt-06-phuong-trinh-ke-toan.md" },
-  { slug: "kt-07-ghi-so-kep", courseId: "KT-VN", title: "Ghi sổ kép, Nợ/Có và đọc một bút toán", shortTitle: "Ghi sổ kép", chapter: "kt-ch2", order: 7, available: false,
+  { slug: "kt-07-ghi-so-kep", courseId: "KT-VN", title: "Ghi sổ kép, Nợ/Có và đọc một bút toán", shortTitle: "Ghi sổ kép", chapter: "kt-ch2", order: 7, available: true,
     description: "Tài khoản chữ T, quy tắc ghi theo loại tài khoản, đọc bút toán nhiều dòng do hệ thống sinh.", file: "ke-toan-vn/kt-07-ghi-so-kep.md" },
   { slug: "kt-08-he-thong-tai-khoan-tt99", courseId: "KT-VN", title: "Hệ thống tài khoản TT99 và tài khoản BA hay gặp", shortTitle: "Hệ thống tài khoản", chapter: "kt-ch2", order: 8, available: false,
     description: "Chín loại tài khoản, tài khoản mới, bỏ, đổi tên so với TT200, tài khoản nào gắn với phân hệ nào.", file: "ke-toan-vn/kt-08-he-thong-tai-khoan-tt99.md" },
