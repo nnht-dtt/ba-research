@@ -116,8 +116,62 @@ const ktvnChapters: Chapter[] = [
   { id: "kt-ch8", courseId: "KT-VN", title: "Chương 8 — Khoá sổ và bộ báo cáo tài chính (Record-to-Report)", lessonSlugs: ["kt-36-quy-trinh-khoa-so", "kt-37-thue-tndn", "kt-38-he-thong-bctc", "kt-39-bao-cao-tinh-hinh-tai-chinh", "kt-40-bao-cao-ket-qua-kinh-doanh", "kt-41-luu-chuyen-tien-te", "kt-42-thuyet-minh-bctc"], category: "foundation" },
 ];
 
-export const lessons: Lesson[] = [...guideLessons, ...ktvnLessons];
-export const chapters: Chapter[] = [...guideChapters, ...ktvnChapters];
+// =====================================================================
+// KT-QT — Kế toán tập đoàn đa quốc gia và bán hàng xuyên biên giới
+// =====================================================================
+const ktqtLessons: Lesson[] = [
+  { slug: "ktqt-01-mo-hinh-da-cong-ty", courseId: "KT-QT", title: "Mô hình đa công ty và loại báo cáo tương ứng", shortTitle: "Mô hình đa công ty", chapter: "ktqt-ch1", order: 1, available: false,
+    description: "Chi nhánh phụ thuộc, công ty con, liên doanh, liên kết; BCTC riêng, tổng hợp, hợp nhất; hệ quả lên thiết kế công ty trong ERP.", file: "ke-toan-tap-doan/ktqt-01-mo-hinh-da-cong-ty.md" },
+  { slug: "ktqt-02-danh-muc-phap-nhan", courseId: "KT-QT", title: "Danh mục pháp nhân đa quốc gia: chuẩn mực, tiền tệ, năm tài chính, kỳ khoá sổ", shortTitle: "Danh mục pháp nhân", chapter: "ktqt-ch1", order: 2, available: false,
+    description: "Thông tin cần thu thập cho từng pháp nhân, quan hệ sở hữu, chuẩn mực địa phương, đơn vị tiền tệ hạch toán, năm tài chính khác nhau.", file: "ke-toan-tap-doan/ktqt-02-danh-muc-phap-nhan.md" },
+  { slug: "ktqt-03-giao-dich-noi-bo", courseId: "KT-QT", title: "Giao dịch nội bộ: mua bán, chi hộ thu hộ, cho vay nội bộ", shortTitle: "Giao dịch nội bộ", chapter: "ktqt-ch1", order: 3, available: false,
+    description: "Các loại giao dịch giữa pháp nhân, tài khoản dùng (136/336 với đơn vị phụ thuộc, 131/331/1283/341 giữa pháp nhân độc lập), đối chiếu số dư nội bộ.", file: "ke-toan-tap-doan/ktqt-03-giao-dich-noi-bo.md" },
+  { slug: "ktqt-04-bctc-hop-nhat", courseId: "KT-QT", title: "Báo cáo tài chính hợp nhất: logic và dữ liệu cần chuẩn bị", shortTitle: "BCTC hợp nhất", chapter: "ktqt-ch1", order: 4, available: false,
+    description: "Cộng ngang, loại trừ khoản đầu tư và giao dịch nội bộ, lãi chưa thực hiện, lợi ích cổ đông không kiểm soát.", file: "ke-toan-tap-doan/ktqt-04-bctc-hop-nhat.md" },
+  { slug: "ktqt-05-giao-dich-ngoai-te", courseId: "KT-QT", title: "Giao dịch ngoại tệ, tỷ giá xuất quỹ và đánh giá lại cuối kỳ", shortTitle: "Ngoại tệ", chapter: "ktqt-ch2", order: 5, available: false,
+    description: "Tỷ giá giao dịch, tỷ giá ghi sổ đích danh và bình quân, nguồn tỷ giá, chênh lệch khi thanh toán và cuối kỳ.", file: "ke-toan-tap-doan/ktqt-05-giao-dich-ngoai-te.md" },
+  { slug: "ktqt-06-don-vi-tien-te-chuyen-doi", courseId: "KT-QT", title: "Đơn vị tiền tệ kế toán, đồng tiền chức năng và chuyển đổi BCTC", shortTitle: "Đơn vị tiền tệ", chapter: "ktqt-ch2", order: 6, available: false,
+    description: "Điều kiện dùng ngoại tệ làm đơn vị tiền tệ kế toán theo TT99, đồng tiền chức năng và trình bày theo IAS 21, chuyển đổi BCTC, chênh lệch chuyển đổi.", file: "ke-toan-tap-doan/ktqt-06-don-vi-tien-te-chuyen-doi.md" },
+  { slug: "ktqt-07-vas-ifrs", courseId: "KT-QT", title: "VAS và IFRS: khác biệt chính và lộ trình áp dụng", shortTitle: "VAS và IFRS", chapter: "ktqt-ch3", order: 7, available: false,
+    description: "Khác biệt cách tiếp cận và các điểm trọng yếu, lộ trình QĐ 345.", file: "ke-toan-tap-doan/ktqt-07-vas-ifrs.md" },
+  { slug: "ktqt-08-dieu-chinh-vas-ifrs", courseId: "KT-QT", title: "Các điều chỉnh VAS sang IFRS thường gặp và dữ liệu hệ thống cần có", shortTitle: "Điều chỉnh VAS–IFRS", chapter: "ktqt-ch3", order: 8, available: false,
+    description: "IFRS 16, IFRS 15, IFRS 9, IAS 16, IAS 12, IAS 37; mỗi điều chỉnh cần dữ liệu gì.", file: "ke-toan-tap-doan/ktqt-08-dieu-chinh-vas-ifrs.md" },
+  { slug: "ktqt-09-mapping-coa-tap-doan", courseId: "KT-QT", title: "Mapping hệ thống tài khoản địa phương sang COA tập đoàn", shortTitle: "Mapping COA", chapter: "ktqt-ch3", order: 9, available: false,
+    description: "Mapping 1-1, nhiều-1, 1-nhiều; tách bằng đối tác, analytic hay tài khoản chi tiết; cấu trúc bảng mapping, kiểm tra đầy đủ, quản lý thay đổi.", file: "ke-toan-tap-doan/ktqt-09-mapping-coa-tap-doan.md" },
+  { slug: "ktqt-10-kien-truc-so-hai-chuan", courseId: "KT-QT", title: "Kiến trúc sổ: một sổ và mapping, sổ song song, hay COA tập đoàn làm chính", shortTitle: "Kiến trúc sổ", chapter: "ktqt-ch3", order: 10, available: false,
+    description: "Ba phương án, đánh đổi về vận hành, kiểm soát, đối chiếu; khả năng của ERP.", file: "ke-toan-tap-doan/ktqt-10-kien-truc-so-hai-chuan.md" },
+  { slug: "ktqt-11-giao-dich-cong-ty-me", courseId: "KT-QT", title: "Giao dịch với công ty mẹ và bên liên kết ở nước ngoài", shortTitle: "Giao dịch với mẹ", chapter: "ktqt-ch3", order: 11, available: false,
+    description: "Phí quản lý, bản quyền, vay mẹ; thuế nhà thầu nước ngoài; giao dịch liên kết; đối chiếu liên công ty xuyên biên giới.", file: "ke-toan-tap-doan/ktqt-11-giao-dich-cong-ty-me.md" },
+  { slug: "ktqt-12-bao-cao-cho-tap-doan", courseId: "KT-QT", title: "Gói báo cáo tập đoàn, lịch khoá sổ và đối chiếu lợi nhuận VAS – IFRS", shortTitle: "Báo cáo cho tập đoàn", chapter: "ktqt-ch3", order: 12, available: false,
+    description: "Gói báo cáo gửi công ty mẹ, khoá sổ theo lịch tập đoàn, năm tài chính lệch nhau, bảng đối chiếu lợi nhuận và vốn chủ.", file: "ke-toan-tap-doan/ktqt-12-bao-cao-cho-tap-doan.md" },
+  { slug: "ktqt-13-doanh-thu-kenh-online", courseId: "KT-QT", title: "Bán hàng qua sàn và kênh online: doanh thu gộp hay thuần", shortTitle: "Doanh thu kênh online", chapter: "ktqt-ch4", order: 13, available: false,
+    description: "Doanh nghiệp là bên chính hay đại lý, ghi nhận doanh thu theo giá khách trả hay số sàn chuyển về, pháp nhân sở hữu shop.", file: "ke-toan-tap-doan/ktqt-13-doanh-thu-kenh-online.md" },
+  { slug: "ktqt-14-phi-san-cong-thanh-toan", courseId: "KT-QT", title: "Phí sàn, cổng thanh toán, vận chuyển: ghi nhận lúc nào", shortTitle: "Phí sàn và cổng TT", chapter: "ktqt-ch4", order: 14, available: false,
+    description: "Phí trừ theo đơn và phí cuối kỳ, ghi nhận khi phát sinh đơn hay khi quyết toán, tài khoản chi phí, hoá đơn của sàn.", file: "ke-toan-tap-doan/ktqt-14-phi-san-cong-thanh-toan.md" },
+  { slug: "ktqt-15-doi-soat-san-cod", courseId: "KT-QT", title: "Đối soát quyết toán sàn, cổng thanh toán, COD và sao kê ngân hàng", shortTitle: "Đối soát sàn, COD", chapter: "ktqt-ch4", order: 15, available: false,
+    description: "Phải thu sàn và tiền đang chuyển, đối chiếu đơn – quyết toán – sao kê, chênh lệch thường gặp, tự động hoá đối soát.", file: "ke-toan-tap-doan/ktqt-15-doi-soat-san-cod.md" },
+  { slug: "ktqt-16-hoa-don-kenh-online", courseId: "KT-QT", title: "Hoá đơn điện tử cho bán hàng online", shortTitle: "Hoá đơn online", chapter: "ktqt-ch4", order: 16, available: false,
+    description: "Xuất theo đơn hay gộp cuối ngày, ai xuất hoá đơn, dữ liệu đơn hàng khác hoá đơn, xử lý đơn huỷ, hoàn.", file: "ke-toan-tap-doan/ktqt-16-hoa-don-kenh-online.md" },
+  { slug: "ktqt-17-vat-eu-uk", courseId: "KT-QT", title: "VAT EU và UK khi bán hàng xuyên biên giới: OSS, IOSS, sàn là người bán được coi là", shortTitle: "VAT EU, UK", chapter: "ktqt-ch5", order: 17, available: false,
+    description: "Bán từ xa B2C, ba chế độ OSS, IOSS cho hàng giá trị thấp, khi nào sàn chịu trách nhiệm thu VAT, dữ liệu hệ thống cần.", file: "ke-toan-tap-doan/ktqt-17-vat-eu-uk.md" },
+  { slug: "ktqt-18-sales-tax-my", courseId: "KT-QT", title: "Sales tax Mỹ: economic nexus và marketplace facilitator", shortTitle: "Sales tax Mỹ", chapter: "ktqt-ch5", order: 18, available: false,
+    description: "Sau vụ Wayfair, ngưỡng nexus theo bang, sàn thu và nộp thay, người bán còn nghĩa vụ gì, dữ liệu theo bang.", file: "ke-toan-tap-doan/ktqt-18-sales-tax-my.md" },
+  { slug: "ktqt-19-thue-da-quoc-gia", courseId: "KT-QT", title: "Nghĩa vụ thuế của tập đoàn bán hàng ở nhiều quốc gia", shortTitle: "Thuế đa quốc gia", chapter: "ktqt-ch5", order: 19, available: false,
+    description: "Các loại thuế theo pháp nhân và quốc gia (loại thuế, ai kê khai, tần suất), thuế do sàn khấu trừ hoặc thu hộ, cách hệ thống áp thuế theo nơi bán.", file: "ke-toan-tap-doan/ktqt-19-thue-da-quoc-gia.md" },
+  { slug: "ktqt-20-case-tap-doan-da-kenh", courseId: "KT-QT", title: "Ví dụ tổng hợp: tập đoàn đa quốc gia bán hàng đa kênh", shortTitle: "Ví dụ tổng hợp", chapter: "ktqt-ch6", order: 20, available: false,
+    description: "Đi qua một tập đoàn giả định: các pháp nhân, giao dịch nội bộ, ngoại tệ, doanh thu sàn, thuế và báo cáo cho công ty mẹ, nối các bài trong khoá.", file: "ke-toan-tap-doan/ktqt-20-case-tap-doan-da-kenh.md" },
+];
+const ktqtChapters: Chapter[] = [
+  { id: "ktqt-ch1", courseId: "KT-QT", title: "Chương 1 — Cấu trúc tập đoàn, giao dịch nội bộ và hợp nhất", lessonSlugs: ["ktqt-01-mo-hinh-da-cong-ty", "ktqt-02-danh-muc-phap-nhan", "ktqt-03-giao-dich-noi-bo", "ktqt-04-bctc-hop-nhat"], category: "foundation" },
+  { id: "ktqt-ch2", courseId: "KT-QT", title: "Chương 2 — Ngoại tệ và đơn vị tiền tệ", lessonSlugs: ["ktqt-05-giao-dich-ngoai-te", "ktqt-06-don-vi-tien-te-chuyen-doi"], category: "billing" },
+  { id: "ktqt-ch3", courseId: "KT-QT", title: "Chương 3 — VAS, IFRS và báo cáo cho tập đoàn", lessonSlugs: ["ktqt-07-vas-ifrs", "ktqt-08-dieu-chinh-vas-ifrs", "ktqt-09-mapping-coa-tap-doan", "ktqt-10-kien-truc-so-hai-chuan", "ktqt-11-giao-dich-cong-ty-me", "ktqt-12-bao-cao-cho-tap-doan"], category: "storage" },
+  { id: "ktqt-ch4", courseId: "KT-QT", title: "Chương 4 — Bán hàng đa kênh TMĐT", lessonSlugs: ["ktqt-13-doanh-thu-kenh-online", "ktqt-14-phi-san-cong-thanh-toan", "ktqt-15-doi-soat-san-cod", "ktqt-16-hoa-don-kenh-online"], category: "compute" },
+  { id: "ktqt-ch5", courseId: "KT-QT", title: "Chương 5 — Thuế ở nhiều quốc gia", lessonSlugs: ["ktqt-17-vat-eu-uk", "ktqt-18-sales-tax-my", "ktqt-19-thue-da-quoc-gia"], category: "network" },
+  { id: "ktqt-ch6", courseId: "KT-QT", title: "Chương 6 — Case tổng hợp", lessonSlugs: ["ktqt-20-case-tap-doan-da-kenh"], category: "database" },
+];
+
+export const lessons: Lesson[] = [...guideLessons, ...ktvnLessons, ...ktqtLessons];
+export const chapters: Chapter[] = [...guideChapters, ...ktvnChapters, ...ktqtChapters];
 
 export function lessonsOfCourse(courseId: CourseId): Lesson[] {
   return lessons.filter((l) => l.courseId === courseId).sort((a, b) => a.order - b.order);

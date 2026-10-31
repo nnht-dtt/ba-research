@@ -1,5 +1,5 @@
 /** Mỗi khoá thêm vào data/courses.ts cần khai báo id ở đây trước. */
-export type CourseId = "GUIDE" | "KT-VN";
+export type CourseId = "GUIDE" | "KT-VN" | "KT-QT";
 
 /** Learning-path stage used to group courses on the home page. */
 export type CourseCategory = "guide" | "foundation" | "domain" | "certification";

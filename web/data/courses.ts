@@ -29,6 +29,20 @@ export const courses: Course[] = [
     accentColor: "#059669",
     order: 1, status: "available", kind: "knowledge", category: "domain",
   },
+  {
+    id: "KT-QT",
+    code: "KT-QT",
+    title: "Kế toán tập đoàn đa quốc gia và bán hàng xuyên biên giới",
+    shortTitle: "Tập đoàn đa quốc gia",
+    level: "Nền tảng",
+    description:
+      "Đa pháp nhân, đa quốc gia nhìn từ góc BA tư vấn hệ thống: giao dịch nội bộ, hợp nhất, ngoại tệ, VAS và IFRS, mapping COA tập đoàn, báo cáo cho công ty mẹ, bán hàng đa kênh TMĐT và nghĩa vụ thuế ở nhiều quốc gia.",
+    hint: "Cho BA làm dự án ERP của tập đoàn nhiều pháp nhân, nhiều quốc gia, bán hàng online.",
+    durationHours: 6,
+    passingScore: 0, examMinutes: 0, examQuestions: 0,
+    accentColor: "#7c3aed",
+    order: 2, status: "available", kind: "knowledge", category: "domain",
+  },
 ];
 
 export function getCourse(id: CourseId | string): Course | undefined {

@@ -1,0 +1,339 @@
+{
+  "course": "KT-QT",
+  "title": "Kế toán tập đoàn đa quốc gia và bán hàng xuyên biên giới",
+  "dir": "ke-toan-tap-doan",
+  "slugPrefix": "ktqt-",
+  "meta": {
+    "shortTitle": "Tập đoàn đa quốc gia",
+    "level": "Nền tảng",
+    "category": "domain",
+    "kind": "knowledge",
+    "description": "Đa pháp nhân, đa quốc gia nhìn từ góc BA tư vấn hệ thống: giao dịch nội bộ, hợp nhất, ngoại tệ, VAS và IFRS, mapping COA tập đoàn, báo cáo cho công ty mẹ, bán hàng đa kênh TMĐT và nghĩa vụ thuế ở nhiều quốc gia.",
+    "hint": "Cho BA làm dự án ERP của tập đoàn nhiều pháp nhân, nhiều quốc gia, bán hàng online.",
+    "durationHours": 6,
+    "accentColor": "#7c3aed",
+    "passingScore": 0,
+    "examMinutes": 0,
+    "examQuestions": 0
+  },
+  "sources": [
+    "VAS 07, 08, 10, 11, 14, 25",
+    "Thông tư 99/2025/TT-BTC; Thông tư 202/2014/TT-BTC (sửa đổi 43/2026/TT-BTC)",
+    "Quyết định 345/QĐ-BTC năm 2020",
+    "IFRS 1, 9, 10, 15, 16; IAS 12, 16, 21, 24, 37 (IFRS Foundation (ifrs.org))",
+    "Nghị định 132/2020/NĐ-CP; văn bản thuế nhà thầu nước ngoài",
+    "Nghị định 123/2020/NĐ-CP về hoá đơn, chứng từ và văn bản sửa đổi",
+    "Nghị định 117/2025/NĐ-CP",
+    "European Commission OSS portal; HMRC",
+    "Streamlined Sales Tax Governing Board; Multistate Tax Commission",
+    "KPMG Việt Nam, Differences between Vietnamese GAAP and IFRS (2025)",
+    "Deloitte Việt Nam, From VAS to IFRS",
+    "Đề cương Kế toán quốc tế – HVNH (ACT07A)",
+    "Đề cương Kế toán tài chính 2 – HVNH (ACT13A)",
+    "Odoo 19 Documentation (odoo.com/documentation/19.0)",
+    "SAP Help Portal: Parallel Accounting"
+  ],
+  "questionsPerLesson": 5,
+  "approved": true,
+  "scaffolded": true,
+  "writingGuide": "Người học là BA làm dự án hệ thống kế toán/ERP, cần kiến thức nghiệp vụ kế toán nền tảng, không học để làm kế toán và không học phương pháp tư vấn. Mỗi bài giải thích: nghiệp vụ là gì, chứng từ, bút toán phát sinh ở bước nào, quy định liên quan, ảnh hưởng tới báo cáo; điểm chạm hệ thống chỉ nêu ngắn khi giúp hiểu nghiệp vụ. Không dạy ghi sổ thủ công, kê khai thuế, tính toán chuyên sâu, kỹ thuật khảo sát hay artefact dự án. Không dùng tên, số liệu, điều khoản của khách hàng thật.",
+  "chapters": [
+    {
+      "id": "ktqt-ch1",
+      "title": "Chương 1 — Cấu trúc tập đoàn, giao dịch nội bộ và hợp nhất"
+    },
+    {
+      "id": "ktqt-ch2",
+      "title": "Chương 2 — Ngoại tệ và đơn vị tiền tệ"
+    },
+    {
+      "id": "ktqt-ch3",
+      "title": "Chương 3 — VAS, IFRS và báo cáo cho tập đoàn"
+    },
+    {
+      "id": "ktqt-ch4",
+      "title": "Chương 4 — Bán hàng đa kênh TMĐT"
+    },
+    {
+      "id": "ktqt-ch5",
+      "title": "Chương 5 — Thuế ở nhiều quốc gia"
+    },
+    {
+      "id": "ktqt-ch6",
+      "title": "Chương 6 — Case tổng hợp"
+    }
+  ],
+  "lessons": [
+    {
+      "slug": "ktqt-01-mo-hinh-da-cong-ty",
+      "title": "Mô hình đa công ty và loại báo cáo tương ứng",
+      "shortTitle": "Mô hình đa công ty",
+      "chapter": "ktqt-ch1",
+      "description": "Chi nhánh phụ thuộc, công ty con, liên doanh, liên kết; BCTC riêng, tổng hợp, hợp nhất; hệ quả lên thiết kế công ty trong ERP.",
+      "sources": [
+        "VAS 25; VAS 07; VAS 08",
+        "Đề cương Kế toán quốc tế – HVNH (ACT07A), phần kế toán tập đoàn"
+      ],
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "slug": "ktqt-02-danh-muc-phap-nhan",
+      "title": "Danh mục pháp nhân đa quốc gia: chuẩn mực, tiền tệ, năm tài chính, kỳ khoá sổ",
+      "shortTitle": "Danh mục pháp nhân",
+      "chapter": "ktqt-ch1",
+      "description": "Thông tin cần thu thập cho từng pháp nhân, quan hệ sở hữu, chuẩn mực địa phương, đơn vị tiền tệ hạch toán, năm tài chính khác nhau.",
+      "sources": [
+        "VAS 25; IFRS 10 (IFRS Foundation)",
+        "Thông tư 99/2025/TT-BTC, quy định kỳ kế toán và đơn vị tiền tệ",
+        "Odoo 19 Documentation (odoo.com/documentation/19.0), Multi-company"
+      ],
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "slug": "ktqt-03-giao-dich-noi-bo",
+      "title": "Giao dịch nội bộ: mua bán, chi hộ thu hộ, cho vay nội bộ",
+      "shortTitle": "Giao dịch nội bộ",
+      "chapter": "ktqt-ch1",
+      "description": "Các loại giao dịch giữa pháp nhân, tài khoản dùng (136/336 với đơn vị phụ thuộc, 131/331/1283/341 giữa pháp nhân độc lập), đối chiếu số dư nội bộ.",
+      "sources": [
+        "Thông tư 99/2025/TT-BTC, Phụ lục II TK 136, 336, 131, 331, 1283, 341",
+        "Đề cương Kế toán tài chính 2 – HVNH (ACT13A), mục 3"
+      ],
+      "status": "pending",
+      "note": "Xác minh số hiệu tài khoản cho vay nội bộ trong TT99 trước khi viết."
+    },
+    {
+      "slug": "ktqt-04-bctc-hop-nhat",
+      "title": "Báo cáo tài chính hợp nhất: logic và dữ liệu cần chuẩn bị",
+      "shortTitle": "BCTC hợp nhất",
+      "chapter": "ktqt-ch1",
+      "description": "Cộng ngang, loại trừ khoản đầu tư và giao dịch nội bộ, lãi chưa thực hiện, lợi ích cổ đông không kiểm soát.",
+      "sources": [
+        "VAS 25; VAS 11",
+        "Thông tư 202/2014/TT-BTC, sửa đổi bởi Thông tư 43/2026/TT-BTC",
+        "Đề cương Kế toán quốc tế – HVNH (ACT07A), mục 3"
+      ],
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "slug": "ktqt-05-giao-dich-ngoai-te",
+      "title": "Giao dịch ngoại tệ, tỷ giá xuất quỹ và đánh giá lại cuối kỳ",
+      "shortTitle": "Ngoại tệ",
+      "chapter": "ktqt-ch2",
+      "description": "Tỷ giá giao dịch, tỷ giá ghi sổ đích danh và bình quân, nguồn tỷ giá, chênh lệch khi thanh toán và cuối kỳ.",
+      "sources": [
+        "VAS 10",
+        "Thông tư 99/2025/TT-BTC, quy định tỷ giá và Phụ lục II TK 413, 515, 635",
+        "Đề cương Kế toán quốc tế – HVNH (ACT07A)"
+      ],
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "slug": "ktqt-06-don-vi-tien-te-chuyen-doi",
+      "title": "Đơn vị tiền tệ kế toán, đồng tiền chức năng và chuyển đổi BCTC",
+      "shortTitle": "Đơn vị tiền tệ",
+      "chapter": "ktqt-ch2",
+      "description": "Điều kiện dùng ngoại tệ làm đơn vị tiền tệ kế toán theo TT99, đồng tiền chức năng và trình bày theo IAS 21, chuyển đổi BCTC, chênh lệch chuyển đổi.",
+      "sources": [
+        "Luật Kế toán 88/2015/QH13, điều về đơn vị tính",
+        "Thông tư 99/2025/TT-BTC, quy định đơn vị tiền tệ kế toán",
+        "VAS 10; IAS 21 (IFRS Foundation)"
+      ],
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "slug": "ktqt-07-vas-ifrs",
+      "title": "VAS và IFRS: khác biệt chính và lộ trình áp dụng",
+      "shortTitle": "VAS và IFRS",
+      "chapter": "ktqt-ch3",
+      "description": "Khác biệt cách tiếp cận và các điểm trọng yếu, lộ trình QĐ 345.",
+      "sources": [
+        "Quyết định 345/QĐ-BTC năm 2020",
+        "KPMG Việt Nam, Differences between Vietnamese GAAP and IFRS (2025)"
+      ],
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "slug": "ktqt-08-dieu-chinh-vas-ifrs",
+      "title": "Các điều chỉnh VAS sang IFRS thường gặp và dữ liệu hệ thống cần có",
+      "shortTitle": "Điều chỉnh VAS–IFRS",
+      "chapter": "ktqt-ch3",
+      "description": "IFRS 16, IFRS 15, IFRS 9, IAS 16, IAS 12, IAS 37; mỗi điều chỉnh cần dữ liệu gì.",
+      "sources": [
+        "IFRS 9, 15, 16, IAS 12, 16, 37 — IFRS Foundation (ifrs.org)",
+        "KPMG Việt Nam, Differences between Vietnamese GAAP and IFRS (2025)",
+        "Deloitte Việt Nam, From VAS to IFRS"
+      ],
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "slug": "ktqt-09-mapping-coa-tap-doan",
+      "title": "Mapping hệ thống tài khoản địa phương sang COA tập đoàn",
+      "shortTitle": "Mapping COA",
+      "chapter": "ktqt-ch3",
+      "description": "Mapping 1-1, nhiều-1, 1-nhiều; tách bằng đối tác, analytic hay tài khoản chi tiết; cấu trúc bảng mapping, kiểm tra đầy đủ, quản lý thay đổi.",
+      "sources": [
+        "Thông tư 99/2025/TT-BTC, Phụ lục II và quyền mở tài khoản chi tiết",
+        "Deloitte Việt Nam, From VAS to IFRS",
+        "KPMG Việt Nam, Conversion to IFRS"
+      ],
+      "status": "pending",
+      "note": "Phần nguồn không hướng dẫn cụ thể thì ghi Cần xác nhận, không tự đặt quy tắc."
+    },
+    {
+      "slug": "ktqt-10-kien-truc-so-hai-chuan",
+      "title": "Kiến trúc sổ: một sổ và mapping, sổ song song, hay COA tập đoàn làm chính",
+      "shortTitle": "Kiến trúc sổ",
+      "chapter": "ktqt-ch3",
+      "description": "Ba phương án, đánh đổi về vận hành, kiểm soát, đối chiếu; khả năng của ERP.",
+      "sources": [
+        "Odoo 19 Documentation (odoo.com/documentation/19.0), Accounting",
+        "SAP Help Portal, Parallel Accounting trong S/4HANA",
+        "Deloitte Việt Nam, From VAS to IFRS"
+      ],
+      "status": "pending",
+      "note": "Xác minh tính năng multi-ledger của Odoo 19 trên tài liệu chính thức."
+    },
+    {
+      "slug": "ktqt-11-giao-dich-cong-ty-me",
+      "title": "Giao dịch với công ty mẹ và bên liên kết ở nước ngoài",
+      "shortTitle": "Giao dịch với mẹ",
+      "chapter": "ktqt-ch3",
+      "description": "Phí quản lý, bản quyền, vay mẹ; thuế nhà thầu nước ngoài; giao dịch liên kết; đối chiếu liên công ty xuyên biên giới.",
+      "sources": [
+        "Thông tư 99/2025/TT-BTC, Phụ lục II TK 131, 331, 341, 3338",
+        "Nghị định 132/2020/NĐ-CP về giao dịch liên kết",
+        "Văn bản hiện hành về thuế nhà thầu nước ngoài (Thông tư 103/2014/TT-BTC và sửa đổi)",
+        "IAS 24"
+      ],
+      "status": "pending",
+      "note": "Kiểm tra hiệu lực văn bản thuế nhà thầu và giao dịch liên kết khi viết."
+    },
+    {
+      "slug": "ktqt-12-bao-cao-cho-tap-doan",
+      "title": "Gói báo cáo tập đoàn, lịch khoá sổ và đối chiếu lợi nhuận VAS – IFRS",
+      "shortTitle": "Báo cáo cho tập đoàn",
+      "chapter": "ktqt-ch3",
+      "description": "Gói báo cáo gửi công ty mẹ, khoá sổ theo lịch tập đoàn, năm tài chính lệch nhau, bảng đối chiếu lợi nhuận và vốn chủ.",
+      "sources": [
+        "IFRS 10; IFRS 1 — IFRS Foundation (ifrs.org)",
+        "Deloitte Việt Nam, From VAS to IFRS"
+      ],
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "slug": "ktqt-13-doanh-thu-kenh-online",
+      "title": "Bán hàng qua sàn và kênh online: doanh thu gộp hay thuần",
+      "shortTitle": "Doanh thu kênh online",
+      "chapter": "ktqt-ch4",
+      "description": "Doanh nghiệp là bên chính hay đại lý, ghi nhận doanh thu theo giá khách trả hay số sàn chuyển về, pháp nhân sở hữu shop.",
+      "sources": [
+        "VAS 14",
+        "IFRS 15, hướng dẫn bên chính và đại lý (IFRS Foundation)",
+        "Odoo 19 Documentation (odoo.com/documentation/19.0), eCommerce và marketplace connectors"
+      ],
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "slug": "ktqt-14-phi-san-cong-thanh-toan",
+      "title": "Phí sàn, cổng thanh toán, vận chuyển: ghi nhận lúc nào",
+      "shortTitle": "Phí sàn và cổng TT",
+      "chapter": "ktqt-ch4",
+      "description": "Phí trừ theo đơn và phí cuối kỳ, ghi nhận khi phát sinh đơn hay khi quyết toán, tài khoản chi phí, hoá đơn của sàn.",
+      "sources": [
+        "Thông tư 99/2025/TT-BTC, Phụ lục II TK 641, 131, 1388",
+        "VAS 01, nguyên tắc dồn tích và phù hợp"
+      ],
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "slug": "ktqt-15-doi-soat-san-cod",
+      "title": "Đối soát quyết toán sàn, cổng thanh toán, COD và sao kê ngân hàng",
+      "shortTitle": "Đối soát sàn, COD",
+      "chapter": "ktqt-ch4",
+      "description": "Phải thu sàn và tiền đang chuyển, đối chiếu đơn – quyết toán – sao kê, chênh lệch thường gặp, tự động hoá đối soát.",
+      "sources": [
+        "Thông tư 99/2025/TT-BTC, Phụ lục II TK 113, 131, 1388",
+        "Odoo 19 Documentation (odoo.com/documentation/19.0), Bank reconciliation"
+      ],
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "slug": "ktqt-16-hoa-don-kenh-online",
+      "title": "Hoá đơn điện tử cho bán hàng online",
+      "shortTitle": "Hoá đơn online",
+      "chapter": "ktqt-ch4",
+      "description": "Xuất theo đơn hay gộp cuối ngày, ai xuất hoá đơn, dữ liệu đơn hàng khác hoá đơn, xử lý đơn huỷ, hoàn.",
+      "sources": [
+        "Nghị định 123/2020/NĐ-CP về hoá đơn, chứng từ và văn bản sửa đổi",
+        "Nghị định 117/2025/NĐ-CP (phạm vi: hộ, cá nhân kinh doanh trên sàn)"
+      ],
+      "status": "pending",
+      "note": "NĐ 117/2025 áp dụng cho hộ, cá nhân; nêu rõ phạm vi, không áp cho doanh nghiệp."
+    },
+    {
+      "slug": "ktqt-17-vat-eu-uk",
+      "title": "VAT EU và UK khi bán hàng xuyên biên giới: OSS, IOSS, sàn là người bán được coi là",
+      "shortTitle": "VAT EU, UK",
+      "chapter": "ktqt-ch5",
+      "description": "Bán từ xa B2C, ba chế độ OSS, IOSS cho hàng giá trị thấp, khi nào sàn chịu trách nhiệm thu VAT, dữ liệu hệ thống cần.",
+      "sources": [
+        "European Commission, VAT One Stop Shop portal (vat-one-stop-shop.ec.europa.eu)",
+        "Your Europe, VAT e-commerce",
+        "HMRC, VAT on goods sold to customers in the UK"
+      ],
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "slug": "ktqt-18-sales-tax-my",
+      "title": "Sales tax Mỹ: economic nexus và marketplace facilitator",
+      "shortTitle": "Sales tax Mỹ",
+      "chapter": "ktqt-ch5",
+      "description": "Sau vụ Wayfair, ngưỡng nexus theo bang, sàn thu và nộp thay, người bán còn nghĩa vụ gì, dữ liệu theo bang.",
+      "sources": [
+        "Streamlined Sales Tax Governing Board (streamlinedsalestax.org)",
+        "Multistate Tax Commission, tài liệu về nexus và marketplace facilitator",
+        "Trang cơ quan thuế các bang liên quan"
+      ],
+      "status": "pending",
+      "note": "Ngưỡng và số bang thay đổi; chỉ nêu cơ chế, ghi nguồn và ngày tra cứu."
+    },
+    {
+      "slug": "ktqt-19-thue-da-quoc-gia",
+      "title": "Nghĩa vụ thuế của tập đoàn bán hàng ở nhiều quốc gia",
+      "shortTitle": "Thuế đa quốc gia",
+      "chapter": "ktqt-ch5",
+      "description": "Các loại thuế theo pháp nhân và quốc gia (loại thuế, ai kê khai, tần suất), thuế do sàn khấu trừ hoặc thu hộ, cách hệ thống áp thuế theo nơi bán.",
+      "sources": [
+        "Odoo 19 Documentation (odoo.com/documentation/19.0), Taxes và Fiscal positions",
+        "Các nguồn của bài VAT EU, UK và sales tax Mỹ"
+      ],
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "slug": "ktqt-20-case-tap-doan-da-kenh",
+      "title": "Ví dụ tổng hợp: tập đoàn đa quốc gia bán hàng đa kênh",
+      "shortTitle": "Ví dụ tổng hợp",
+      "chapter": "ktqt-ch6",
+      "description": "Đi qua một tập đoàn giả định: các pháp nhân, giao dịch nội bộ, ngoại tệ, doanh thu sàn, thuế và báo cáo cho công ty mẹ, nối các bài trong khoá.",
+      "sources": [
+        "Tổng hợp từ các bài trong khoá"
+      ],
+      "status": "pending",
+      "note": "Kịch bản giả định ghi rõ là minh hoạ; không dùng tên, số liệu khách thật."
+    }
+  ]
+}
