@@ -28,7 +28,7 @@ const ktvnLessons: Lesson[] = [
     description: "Đối tượng áp dụng, thay đổi của TT99 so với TT200 tác động tới hệ thống, quyền tự thiết kế tài khoản, chứng từ, sổ.", file: "ke-toan-vn/kt-03-che-do-ke-toan.md" },
   { slug: "kt-04-nguyen-tac-ke-toan", courseId: "KT-VN", title: "Các nguyên tắc kế toán chi phối thiết kế hệ thống", shortTitle: "Nguyên tắc VAS 01", chapter: "kt-ch1", order: 4, available: true,
     description: "Dồn tích, giá gốc, phù hợp, nhất quán, thận trọng, trọng yếu và hệ quả lên thời điểm ghi nhận, định giá, khoá kỳ.", file: "ke-toan-vn/kt-04-nguyen-tac-ke-toan.md" },
-  { slug: "kt-05-chinh-sach-quy-che", courseId: "KT-VN", title: "Chính sách kế toán và quy chế kế toán nội bộ", shortTitle: "Chính sách kế toán", chapter: "kt-ch1", order: 5, available: false,
+  { slug: "kt-05-chinh-sach-quy-che", courseId: "KT-VN", title: "Chính sách kế toán và quy chế kế toán nội bộ", shortTitle: "Chính sách kế toán", chapter: "kt-ch1", order: 5, available: true,
     description: "Chính sách kế toán gồm những gì, khi nào doanh nghiệp phải có quy chế kế toán nội bộ, thay đổi chính sách và ước tính.", file: "ke-toan-vn/kt-05-chinh-sach-quy-che.md" },
   { slug: "kt-06-phuong-trinh-ke-toan", courseId: "KT-VN", title: "Tài sản, nguồn vốn, doanh thu, chi phí và phương trình kế toán", shortTitle: "Phương trình kế toán", chapter: "kt-ch2", order: 6, available: true,
     description: "Năm nhóm yếu tố BCTC, điều kiện ghi nhận, tài khoản có số dư và tài khoản tạm thời.", file: "ke-toan-vn/kt-06-phuong-trinh-ke-toan.md" },
