@@ -74,7 +74,7 @@
         "VAS 25; VAS 07; VAS 08",
         "Đề cương Kế toán quốc tế – HVNH (ACT07A), phần kế toán tập đoàn"
       ],
-      "status": "pending",
+      "status": "in-progress",
       "note": ""
     },
     {
@@ -88,7 +88,7 @@
         "Thông tư 99/2025/TT-BTC, quy định kỳ kế toán và đơn vị tiền tệ",
         "Odoo 19 Documentation (odoo.com/documentation/19.0), Multi-company"
       ],
-      "status": "pending",
+      "status": "in-progress",
       "note": ""
     },
     {
@@ -101,8 +101,8 @@
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 136, 336, 131, 331, 1283, 341",
         "Đề cương Kế toán tài chính 2 – HVNH (ACT13A), mục 3"
       ],
-      "status": "pending",
-      "note": "Xác minh số hiệu tài khoản cho vay nội bộ trong TT99 trước khi viết."
+      "status": "in-progress",
+      "note": ""
     },
     {
       "slug": "ktqt-04-bctc-hop-nhat",
@@ -115,7 +115,7 @@
         "Thông tư 202/2014/TT-BTC, sửa đổi bởi Thông tư 43/2026/TT-BTC",
         "Đề cương Kế toán quốc tế – HVNH (ACT07A), mục 3"
       ],
-      "status": "pending",
+      "status": "in-progress",
       "note": ""
     },
     {
@@ -129,7 +129,7 @@
         "Thông tư 99/2025/TT-BTC, quy định tỷ giá và Phụ lục II TK 413, 515, 635",
         "Đề cương Kế toán quốc tế – HVNH (ACT07A)"
       ],
-      "status": "pending",
+      "status": "done",
       "note": ""
     },
     {
@@ -143,7 +143,7 @@
         "Thông tư 99/2025/TT-BTC, quy định đơn vị tiền tệ kế toán",
         "VAS 10; IAS 21 (IFRS Foundation)"
       ],
-      "status": "pending",
+      "status": "in-progress",
       "note": ""
     },
     {
@@ -156,7 +156,7 @@
         "Quyết định 345/QĐ-BTC năm 2020",
         "KPMG Việt Nam, Differences between Vietnamese GAAP and IFRS (2025)"
       ],
-      "status": "pending",
+      "status": "in-progress",
       "note": ""
     },
     {
@@ -170,7 +170,7 @@
         "KPMG Việt Nam, Differences between Vietnamese GAAP and IFRS (2025)",
         "Deloitte Việt Nam, From VAS to IFRS"
       ],
-      "status": "pending",
+      "status": "in-progress",
       "note": ""
     },
     {
@@ -184,8 +184,8 @@
         "Deloitte Việt Nam, From VAS to IFRS",
         "KPMG Việt Nam, Conversion to IFRS"
       ],
-      "status": "pending",
-      "note": "Phần nguồn không hướng dẫn cụ thể thì ghi Cần xác nhận, không tự đặt quy tắc."
+      "status": "in-progress",
+      "note": ""
     },
     {
       "slug": "ktqt-10-kien-truc-so-hai-chuan",
@@ -198,8 +198,8 @@
         "SAP Help Portal, Parallel Accounting trong S/4HANA",
         "Deloitte Việt Nam, From VAS to IFRS"
       ],
-      "status": "pending",
-      "note": "Xác minh tính năng multi-ledger của Odoo 19 trên tài liệu chính thức."
+      "status": "in-progress",
+      "note": ""
     },
     {
       "slug": "ktqt-11-giao-dich-cong-ty-me",
@@ -213,8 +213,8 @@
         "Văn bản hiện hành về thuế nhà thầu nước ngoài (Thông tư 103/2014/TT-BTC và sửa đổi)",
         "IAS 24"
       ],
-      "status": "pending",
-      "note": "Kiểm tra hiệu lực văn bản thuế nhà thầu và giao dịch liên kết khi viết."
+      "status": "in-progress",
+      "note": ""
     },
     {
       "slug": "ktqt-12-bao-cao-cho-tap-doan",
@@ -226,7 +226,7 @@
         "IFRS 10; IFRS 1 — IFRS Foundation (ifrs.org)",
         "Deloitte Việt Nam, From VAS to IFRS"
       ],
-      "status": "pending",
+      "status": "in-progress",
       "note": ""
     },
     {
@@ -240,7 +240,7 @@
         "IFRS 15, hướng dẫn bên chính và đại lý (IFRS Foundation)",
         "Odoo 19 Documentation (odoo.com/documentation/19.0), eCommerce và marketplace connectors"
       ],
-      "status": "pending",
+      "status": "in-progress",
       "note": ""
     },
     {
@@ -253,7 +253,7 @@
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 641, 131, 1388",
         "VAS 01, nguyên tắc dồn tích và phù hợp"
       ],
-      "status": "pending",
+      "status": "in-progress",
       "note": ""
     },
     {
@@ -266,7 +266,7 @@
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 113, 131, 1388",
         "Odoo 19 Documentation (odoo.com/documentation/19.0), Bank reconciliation"
       ],
-      "status": "pending",
+      "status": "in-progress",
       "note": ""
     },
     {
@@ -279,8 +279,8 @@
         "Nghị định 123/2020/NĐ-CP về hoá đơn, chứng từ và văn bản sửa đổi",
         "Nghị định 117/2025/NĐ-CP (phạm vi: hộ, cá nhân kinh doanh trên sàn)"
       ],
-      "status": "pending",
-      "note": "NĐ 117/2025 áp dụng cho hộ, cá nhân; nêu rõ phạm vi, không áp cho doanh nghiệp."
+      "status": "in-progress",
+      "note": ""
     },
     {
       "slug": "ktqt-17-vat-eu-uk",
@@ -293,7 +293,7 @@
         "Your Europe, VAT e-commerce",
         "HMRC, VAT on goods sold to customers in the UK"
       ],
-      "status": "pending",
+      "status": "in-progress",
       "note": ""
     },
     {
@@ -307,8 +307,8 @@
         "Multistate Tax Commission, tài liệu về nexus và marketplace facilitator",
         "Trang cơ quan thuế các bang liên quan"
       ],
-      "status": "pending",
-      "note": "Ngưỡng và số bang thay đổi; chỉ nêu cơ chế, ghi nguồn và ngày tra cứu."
+      "status": "in-progress",
+      "note": ""
     },
     {
       "slug": "ktqt-19-thue-da-quoc-gia",
@@ -320,7 +320,7 @@
         "Odoo 19 Documentation (odoo.com/documentation/19.0), Taxes và Fiscal positions",
         "Các nguồn của bài VAT EU, UK và sales tax Mỹ"
       ],
-      "status": "pending",
+      "status": "in-progress",
       "note": ""
     },
     {
@@ -332,8 +332,8 @@
       "sources": [
         "Tổng hợp từ các bài trong khoá"
       ],
-      "status": "pending",
-      "note": "Kịch bản giả định ghi rõ là minh hoạ; không dùng tên, số liệu khách thật."
+      "status": "in-progress",
+      "note": ""
     }
   ]
 }
