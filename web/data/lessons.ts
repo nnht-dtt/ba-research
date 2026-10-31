@@ -120,7 +120,7 @@ const ktvnChapters: Chapter[] = [
 // KT-QT — Kế toán tập đoàn đa quốc gia và bán hàng xuyên biên giới
 // =====================================================================
 const ktqtLessons: Lesson[] = [
-  { slug: "ktqt-01-mo-hinh-da-cong-ty", courseId: "KT-QT", title: "Mô hình đa công ty và loại báo cáo tương ứng", shortTitle: "Mô hình đa công ty", chapter: "ktqt-ch1", order: 1, available: false,
+  { slug: "ktqt-01-mo-hinh-da-cong-ty", courseId: "KT-QT", title: "Mô hình đa công ty và loại báo cáo tương ứng", shortTitle: "Mô hình đa công ty", chapter: "ktqt-ch1", order: 1, available: true,
     description: "Chi nhánh phụ thuộc, công ty con, liên doanh, liên kết; BCTC riêng, tổng hợp, hợp nhất; hệ quả lên thiết kế công ty trong ERP.", file: "ke-toan-tap-doan/ktqt-01-mo-hinh-da-cong-ty.md" },
   { slug: "ktqt-02-danh-muc-phap-nhan", courseId: "KT-QT", title: "Danh mục pháp nhân đa quốc gia: chuẩn mực, tiền tệ, năm tài chính, kỳ khoá sổ", shortTitle: "Danh mục pháp nhân", chapter: "ktqt-ch1", order: 2, available: false,
     description: "Thông tin cần thu thập cho từng pháp nhân, quan hệ sở hữu, chuẩn mực địa phương, đơn vị tiền tệ hạch toán, năm tài chính khác nhau.", file: "ke-toan-tap-doan/ktqt-02-danh-muc-phap-nhan.md" },

@@ -74,7 +74,7 @@
         "VAS 25; VAS 07; VAS 08",
         "Đề cương Kế toán quốc tế – HVNH (ACT07A), phần kế toán tập đoàn"
       ],
-      "status": "in-progress",
+      "status": "done",
       "note": ""
     },
     {
@@ -294,7 +294,7 @@
         "HMRC, VAT on goods sold to customers in the UK"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: thuế hải quan 3 EUR/dòng từ 01/07/2026; Điều 14a Chỉ thị VAT; TK TT99 cho VAT nước ngoài"
     },
     {
       "slug": "ktqt-18-sales-tax-my",
@@ -308,7 +308,7 @@
         "Trang cơ quan thuế các bang liên quan"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: ngưỡng bang (SST 11/2023); kho sàn tạo physical nexus; TK TT99 cho sales tax"
     },
     {
       "slug": "ktqt-19-thue-da-quoc-gia",
@@ -321,7 +321,7 @@
         "Các nguồn của bài VAT EU, UK và sales tax Mỹ"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: NĐ117 có áp DN không; Odoo multi-company tax; TT99 TK 3338 vs 3339 thuế nhà thầu"
     },
     {
       "slug": "ktqt-20-case-tap-doan-da-kenh",
