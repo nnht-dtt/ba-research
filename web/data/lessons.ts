@@ -92,7 +92,7 @@ const ktvnLessons: Lesson[] = [
     description: "Lập ngân sách theo chiều phân tích, so sánh thực tế và kế hoạch, cảnh báo và chặn khi vượt ngân sách.", file: "ke-toan-vn/kt-35-ngan-sach.md" },
   { slug: "kt-36-quy-trinh-khoa-so", courseId: "KT-VN", title: "Quy trình khoá sổ cuối kỳ và checklist đóng sổ", shortTitle: "Khoá sổ", chapter: "kt-ch8", order: 36, available: true,
     description: "Bút toán cuối kỳ (phân bổ, khấu hao, đánh giá lại, trích trước, giá vốn), kết chuyển 911, khoá kỳ, thứ tự phụ thuộc.", file: "ke-toan-vn/kt-36-quy-trinh-khoa-so.md" },
-  { slug: "kt-37-thue-tndn", courseId: "KT-VN", title: "Thuế TNDN: những gì hệ thống cần hỗ trợ", shortTitle: "Thuế TNDN", chapter: "kt-ch8", order: 37, available: false,
+  { slug: "kt-37-thue-tndn", courseId: "KT-VN", title: "Thuế TNDN: những gì hệ thống cần hỗ trợ", shortTitle: "Thuế TNDN", chapter: "kt-ch8", order: 37, available: true,
     description: "Lợi nhuận kế toán và thu nhập chịu thuế, chi phí không được trừ, chi phí thuế 821, thuế hoãn lại ở mức khái niệm.", file: "ke-toan-vn/kt-37-thue-tndn.md" },
   { slug: "kt-38-he-thong-bctc", courseId: "KT-VN", title: "Hệ thống báo cáo tài chính theo TT99", shortTitle: "Hệ thống BCTC", chapter: "kt-ch8", order: 38, available: false,
     description: "Thành phần, kỳ lập, thời hạn nộp, công khai, mẫu cho DN không hoạt động liên tục.", file: "ke-toan-vn/kt-38-he-thong-bctc.md" },
