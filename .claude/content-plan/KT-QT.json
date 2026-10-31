@@ -130,7 +130,7 @@
         "Đề cương Kế toán quốc tế – HVNH (ACT07A)"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: VAS 10 đoạn 12a vs TT99 về treo chênh lệch tỷ giá giai đoạn đầu tư; Odoo tỷ giá ghi sổ"
     },
     {
       "slug": "ktqt-06-don-vi-tien-te-chuyen-doi",
@@ -144,7 +144,7 @@
         "VAS 10; IAS 21 (IFRS Foundation)"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: tỷ giá cột so sánh TT99 Điều 5; IAS 21 khoản mục vốn chủ"
     },
     {
       "slug": "ktqt-07-vas-ifrs",

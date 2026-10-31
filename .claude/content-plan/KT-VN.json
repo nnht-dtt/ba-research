@@ -519,7 +519,7 @@
         "Thông tư 53/2006/TT-BTC hướng dẫn áp dụng kế toán quản trị; giáo trình Kế toán quản trị (NEU, UEH)"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: ERP phân bổ theo tiêu thức thực tế/bậc thang; bút toán phân bổ nội bộ cần quy chế"
     },
     {
       "slug": "kt-35-ngan-sach",
@@ -532,7 +532,7 @@
         "Odoo 19 Documentation (odoo.com/documentation/19.0), Budget management"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: ERP hỗ trợ ngân sách linh hoạt"
     },
     {
       "slug": "kt-36-quy-trinh-khoa-so",
