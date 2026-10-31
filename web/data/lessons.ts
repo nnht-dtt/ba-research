@@ -152,7 +152,7 @@ const ktqtLessons: Lesson[] = [
     description: "Phải thu sàn và tiền đang chuyển, đối chiếu đơn – quyết toán – sao kê, chênh lệch thường gặp, tự động hoá đối soát.", file: "ke-toan-tap-doan/ktqt-15-doi-soat-san-cod.md" },
   { slug: "ktqt-16-hoa-don-kenh-online", courseId: "KT-QT", title: "Hoá đơn điện tử cho bán hàng online", shortTitle: "Hoá đơn online", chapter: "ktqt-ch4", order: 16, available: false,
     description: "Xuất theo đơn hay gộp cuối ngày, ai xuất hoá đơn, dữ liệu đơn hàng khác hoá đơn, xử lý đơn huỷ, hoàn.", file: "ke-toan-tap-doan/ktqt-16-hoa-don-kenh-online.md" },
-  { slug: "ktqt-17-vat-eu-uk", courseId: "KT-QT", title: "VAT EU và UK khi bán hàng xuyên biên giới: OSS, IOSS, sàn là người bán được coi là", shortTitle: "VAT EU, UK", chapter: "ktqt-ch5", order: 17, available: false,
+  { slug: "ktqt-17-vat-eu-uk", courseId: "KT-QT", title: "VAT EU và UK khi bán hàng xuyên biên giới: OSS, IOSS, sàn là người bán được coi là", shortTitle: "VAT EU, UK", chapter: "ktqt-ch5", order: 17, available: true,
     description: "Bán từ xa B2C, ba chế độ OSS, IOSS cho hàng giá trị thấp, khi nào sàn chịu trách nhiệm thu VAT, dữ liệu hệ thống cần.", file: "ke-toan-tap-doan/ktqt-17-vat-eu-uk.md" },
   { slug: "ktqt-18-sales-tax-my", courseId: "KT-QT", title: "Sales tax Mỹ: economic nexus và marketplace facilitator", shortTitle: "Sales tax Mỹ", chapter: "ktqt-ch5", order: 18, available: false,
     description: "Sau vụ Wayfair, ngưỡng nexus theo bang, sàn thu và nộp thay, người bán còn nghĩa vụ gì, dữ liệu theo bang.", file: "ke-toan-tap-doan/ktqt-18-sales-tax-my.md" },
