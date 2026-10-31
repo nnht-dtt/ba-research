@@ -100,7 +100,7 @@ const ktvnLessons: Lesson[] = [
     description: "Kết cấu chỉ tiêu, ngắn hạn và dài hạn, chỉ tiêu lấy từ tài khoản nào, chi tiết đối tượng để tách dư Nợ, dư Có.", file: "ke-toan-vn/kt-39-bao-cao-tinh-hinh-tai-chinh.md" },
   { slug: "kt-40-bao-cao-ket-qua-kinh-doanh", courseId: "KT-VN", title: "Báo cáo kết quả hoạt động kinh doanh (B02-DN)", shortTitle: "B02-DN", chapter: "kt-ch8", order: 40, available: true,
     description: "Các chỉ tiêu từ doanh thu đến lợi nhuận sau thuế và tài khoản nguồn.", file: "ke-toan-vn/kt-40-bao-cao-ket-qua-kinh-doanh.md" },
-  { slug: "kt-41-luu-chuyen-tien-te", courseId: "KT-VN", title: "Báo cáo lưu chuyển tiền tệ (B03-DN): hệ thống cần dữ liệu gì", shortTitle: "B03-DN", chapter: "kt-ch8", order: 41, available: false,
+  { slug: "kt-41-luu-chuyen-tien-te", courseId: "KT-VN", title: "Báo cáo lưu chuyển tiền tệ (B03-DN): hệ thống cần dữ liệu gì", shortTitle: "B03-DN", chapter: "kt-ch8", order: 41, available: true,
     description: "Ba nhóm hoạt động, trực tiếp và gián tiếp, gắn mã dòng tiền cho giao dịch tiền.", file: "ke-toan-vn/kt-41-luu-chuyen-tien-te.md" },
   { slug: "kt-42-thuyet-minh-bctc", courseId: "KT-VN", title: "Thuyết minh BCTC: phần nào hệ thống lấy được số liệu", shortTitle: "B09-DN", chapter: "kt-ch8", order: 42, available: false,
     description: "Cấu trúc thuyết minh, bảng chi tiết lấy từ hệ thống, chính sách kế toán.", file: "ke-toan-vn/kt-42-thuyet-minh-bctc.md" },
