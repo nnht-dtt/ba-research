@@ -136,7 +136,7 @@ const ktqtLessons: Lesson[] = [
     description: "Khác biệt cách tiếp cận và các điểm trọng yếu, lộ trình QĐ 345.", file: "ke-toan-tap-doan/ktqt-07-vas-ifrs.md" },
   { slug: "ktqt-08-dieu-chinh-vas-ifrs", courseId: "KT-QT", title: "Các điều chỉnh VAS sang IFRS thường gặp và dữ liệu hệ thống cần có", shortTitle: "Điều chỉnh VAS–IFRS", chapter: "ktqt-ch3", order: 8, available: true,
     description: "IFRS 16, IFRS 15, IFRS 9, IAS 16, IAS 12, IAS 37; mỗi điều chỉnh cần dữ liệu gì.", file: "ke-toan-tap-doan/ktqt-08-dieu-chinh-vas-ifrs.md" },
-  { slug: "ktqt-09-mapping-coa-tap-doan", courseId: "KT-QT", title: "Mapping hệ thống tài khoản địa phương sang COA tập đoàn", shortTitle: "Mapping COA", chapter: "ktqt-ch3", order: 9, available: false,
+  { slug: "ktqt-09-mapping-coa-tap-doan", courseId: "KT-QT", title: "Mapping hệ thống tài khoản địa phương sang COA tập đoàn", shortTitle: "Mapping COA", chapter: "ktqt-ch3", order: 9, available: true,
     description: "Mapping 1-1, nhiều-1, 1-nhiều; tách bằng đối tác, analytic hay tài khoản chi tiết; cấu trúc bảng mapping, kiểm tra đầy đủ, quản lý thay đổi.", file: "ke-toan-tap-doan/ktqt-09-mapping-coa-tap-doan.md" },
   { slug: "ktqt-10-kien-truc-so-hai-chuan", courseId: "KT-QT", title: "Kiến trúc sổ: một sổ và mapping, sổ song song, hay COA tập đoàn làm chính", shortTitle: "Kiến trúc sổ", chapter: "ktqt-ch3", order: 10, available: false,
     description: "Ba phương án, đánh đổi về vận hành, kiểm soát, đối chiếu; khả năng của ERP.", file: "ke-toan-tap-doan/ktqt-10-kien-truc-so-hai-chuan.md" },
