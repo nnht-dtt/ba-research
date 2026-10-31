@@ -56,7 +56,7 @@ const ktvnLessons: Lesson[] = [
     description: "Báo giá, đơn bán, giao hàng, hoá đơn, thu tiền; điều kiện ghi nhận doanh thu; lệch kỳ giữa giao hàng và hoá đơn.", file: "ke-toan-vn/kt-17-quy-trinh-ban-hang.md" },
   { slug: "kt-18-giam-tru-tra-truoc", courseId: "KT-VN", title: "Giảm trừ doanh thu, khách trả trước và doanh thu nhận trước", shortTitle: "Giảm trừ, trả trước", chapter: "kt-ch4", order: 18, available: true,
     description: "Chiết khấu thương mại, giảm giá, tiền khách đặt cọc, doanh thu chưa thực hiện.", file: "ke-toan-vn/kt-18-giam-tru-tra-truoc.md" },
-  { slug: "kt-19-doi-tra-hoan-tien", courseId: "KT-VN", title: "Đổi trả, hoàn tiền và các tình huống sau khi khách đã thanh toán", shortTitle: "Đổi trả, hoàn tiền", chapter: "kt-ch4", order: 19, available: false,
+  { slug: "kt-19-doi-tra-hoan-tien", courseId: "KT-VN", title: "Đổi trả, hoàn tiền và các tình huống sau khi khách đã thanh toán", shortTitle: "Đổi trả, hoàn tiền", chapter: "kt-ch4", order: 19, available: true,
     description: "Hàng bán bị trả lại, đổi hàng, hoàn tiền một phần hoặc toàn bộ, hoá đơn điều chỉnh, nhập lại kho và giá vốn.", file: "ke-toan-vn/kt-19-doi-tra-hoan-tien.md" },
   { slug: "kt-20-khuyen-mai-voucher-combo", courseId: "KT-VN", title: "Khuyến mại, voucher, quà tặng và combo", shortTitle: "Khuyến mại và combo", chapter: "kt-ch4", order: 20, available: false,
     description: "Hàng khuyến mại có và không thu tiền, voucher, quà tặng, combo nhiều SKU: hạch toán, phân bổ doanh thu, hoá đơn.", file: "ke-toan-vn/kt-20-khuyen-mai-voucher-combo.md" },
