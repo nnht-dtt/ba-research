@@ -154,7 +154,7 @@ const ktqtLessons: Lesson[] = [
     description: "Xuất theo đơn hay gộp cuối ngày, ai xuất hoá đơn, dữ liệu đơn hàng khác hoá đơn, xử lý đơn huỷ, hoàn.", file: "ke-toan-tap-doan/ktqt-16-hoa-don-kenh-online.md" },
   { slug: "ktqt-17-vat-eu-uk", courseId: "KT-QT", title: "VAT EU và UK khi bán hàng xuyên biên giới: OSS, IOSS, sàn là người bán được coi là", shortTitle: "VAT EU, UK", chapter: "ktqt-ch5", order: 17, available: true,
     description: "Bán từ xa B2C, ba chế độ OSS, IOSS cho hàng giá trị thấp, khi nào sàn chịu trách nhiệm thu VAT, dữ liệu hệ thống cần.", file: "ke-toan-tap-doan/ktqt-17-vat-eu-uk.md" },
-  { slug: "ktqt-18-sales-tax-my", courseId: "KT-QT", title: "Sales tax Mỹ: economic nexus và marketplace facilitator", shortTitle: "Sales tax Mỹ", chapter: "ktqt-ch5", order: 18, available: false,
+  { slug: "ktqt-18-sales-tax-my", courseId: "KT-QT", title: "Sales tax Mỹ: economic nexus và marketplace facilitator", shortTitle: "Sales tax Mỹ", chapter: "ktqt-ch5", order: 18, available: true,
     description: "Sau vụ Wayfair, ngưỡng nexus theo bang, sàn thu và nộp thay, người bán còn nghĩa vụ gì, dữ liệu theo bang.", file: "ke-toan-tap-doan/ktqt-18-sales-tax-my.md" },
   { slug: "ktqt-19-thue-da-quoc-gia", courseId: "KT-QT", title: "Nghĩa vụ thuế của tập đoàn bán hàng ở nhiều quốc gia", shortTitle: "Thuế đa quốc gia", chapter: "ktqt-ch5", order: 19, available: false,
     description: "Các loại thuế theo pháp nhân và quốc gia (loại thuế, ai kê khai, tần suất), thuế do sàn khấu trừ hoặc thu hộ, cách hệ thống áp thuế theo nơi bán.", file: "ke-toan-tap-doan/ktqt-19-thue-da-quoc-gia.md" },
