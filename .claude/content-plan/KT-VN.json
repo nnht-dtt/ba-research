@@ -94,7 +94,7 @@
         "Quyết định 345/QĐ-BTC năm 2020"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: hiệu lực NĐ 174/2016; tiến độ VFRS"
     },
     {
       "slug": "kt-03-che-do-ke-toan",
@@ -108,7 +108,7 @@
         "Bản tóm tắt TT99 của KPMG, Grant Thornton Việt Nam"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: DN siêu nhỏ chọn thẳng TT99; dự thảo thay TT133 (2028)"
     },
     {
       "slug": "kt-04-nguyen-tac-ke-toan",
@@ -134,7 +134,7 @@
         "Luật Kế toán 88/2015/QH13, điều về tổ chức bộ máy và quy chế"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: bút toán hồi tố TK 4211"
     },
     {
       "slug": "kt-06-phuong-trinh-ke-toan",
@@ -544,7 +544,7 @@
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 911, 421",
         "Luật Kế toán 88/2015/QH13, mục Sổ kế toán"
       ],
-      "status": "in-progress",
+      "status": "done",
       "note": ""
     },
     {
