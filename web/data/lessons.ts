@@ -86,7 +86,7 @@ const ktvnLessons: Lesson[] = [
     description: "Tiền mặt, tiền gửi, tiền đang chuyển, đối soát sao kê, khế ước vay, chi phí đi vay.", file: "ke-toan-vn/kt-32-tien-ngan-hang-vay.md" },
   { slug: "kt-33-trung-tam-chi-phi", courseId: "KT-VN", title: "Trung tâm chi phí và chiều phân tích quản trị", shortTitle: "Trung tâm chi phí", chapter: "kt-ch7", order: 33, available: true,
     description: "Kế toán quản trị khác kế toán tài chính, trung tâm chi phí, lợi nhuận, chiều phân tích (phòng ban, kênh, thương hiệu, khu vực).", file: "ke-toan-vn/kt-33-trung-tam-chi-phi.md" },
-  { slug: "kt-34-phan-bo-chi-phi", courseId: "KT-VN", title: "Tập hợp và phân bổ chi phí theo tiêu thức", shortTitle: "Phân bổ chi phí", chapter: "kt-ch7", order: 34, available: false,
+  { slug: "kt-34-phan-bo-chi-phi", courseId: "KT-VN", title: "Tập hợp và phân bổ chi phí theo tiêu thức", shortTitle: "Phân bổ chi phí", chapter: "kt-ch7", order: 34, available: true,
     description: "Chi phí trực tiếp và gián tiếp, tiêu thức phân bổ, phân bổ một bước và nhiều bước, dữ liệu cần để phân bổ tự động.", file: "ke-toan-vn/kt-34-phan-bo-chi-phi.md" },
   { slug: "kt-35-ngan-sach", courseId: "KT-VN", title: "Ngân sách và kiểm soát ngân sách", shortTitle: "Ngân sách", chapter: "kt-ch7", order: 35, available: false,
     description: "Lập ngân sách theo chiều phân tích, so sánh thực tế và kế hoạch, cảnh báo và chặn khi vượt ngân sách.", file: "ke-toan-vn/kt-35-ngan-sach.md" },
