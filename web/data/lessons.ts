@@ -50,7 +50,7 @@ const ktvnLessons: Lesson[] = [
     description: "Khi nào khoản mua là chi phí, tài sản cố định, công cụ dụng cụ hay chi phí trả trước; hạng mục chi phí và luồng duyệt.", file: "ke-toan-vn/kt-14-mua-dich-vu-tai-san.md" },
   { slug: "kt-15-tam-ung-dat-coc-can-tru", courseId: "KT-VN", title: "Tạm ứng nhân viên, đặt cọc nhà cung cấp và cấn trừ công nợ", shortTitle: "Tạm ứng và cấn trừ", chapter: "kt-ch3", order: 15, available: true,
     description: "Tạm ứng và hoàn ứng, ứng trước cho nhà cung cấp, bù trừ công nợ phải thu phải trả cùng đối tượng, chứng từ cần có.", file: "ke-toan-vn/kt-15-tam-ung-dat-coc-can-tru.md" },
-  { slug: "kt-16-thue-gtgt-dau-vao", courseId: "KT-VN", title: "Thuế GTGT đầu vào và quy tắc khấu trừ", shortTitle: "VAT đầu vào", chapter: "kt-ch3", order: 16, available: false,
+  { slug: "kt-16-thue-gtgt-dau-vao", courseId: "KT-VN", title: "Thuế GTGT đầu vào và quy tắc khấu trừ", shortTitle: "VAT đầu vào", chapter: "kt-ch3", order: 16, available: true,
     description: "Phương pháp khấu trừ và trực tiếp, điều kiện khấu trừ, VAT không được khấu trừ, cấu hình mã thuế.", file: "ke-toan-vn/kt-16-thue-gtgt-dau-vao.md" },
   { slug: "kt-17-quy-trinh-ban-hang", courseId: "KT-VN", title: "Quy trình bán hàng: thời điểm ghi nhận doanh thu và giá vốn", shortTitle: "Quy trình bán hàng", chapter: "kt-ch4", order: 17, available: false,
     description: "Báo giá, đơn bán, giao hàng, hoá đơn, thu tiền; điều kiện ghi nhận doanh thu; lệch kỳ giữa giao hàng và hoá đơn.", file: "ke-toan-vn/kt-17-quy-trinh-ban-hang.md" },
