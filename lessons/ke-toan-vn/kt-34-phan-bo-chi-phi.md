@@ -169,7 +169,7 @@ Tỷ lệ cố định khai báo sẵn là loại Odoo hỗ trợ qua *analytic 
 
 > ⚠️ Cần xác nhận: phân bổ theo lượng tiêu thức thực tế trong kỳ (như giờ máy tháng này) và phân bổ bậc thang nhiều bước có phải là chức năng chuẩn của phần mềm đang triển khai hay không. Tài liệu Odoo 19 phần *Analytic accounting* chỉ mô tả mô hình chia theo tỷ lệ % cố định.
 
-Phân bổ chi phí trả trước, công cụ dụng cụ theo thời gian (TK 242) là một loại phân bổ khác, theo kỳ chứ không theo đối tượng. Xem [[kt-30-ccdc-tra-truoc-trich-truoc]]. Bút toán phân bổ cuối kỳ là một bước trong checklist khoá sổ ở [[kt-36-quy-trinh-khoa-so]].
+Phân bổ chi phí chờ phân bổ, công cụ dụng cụ theo thời gian (TK 242; TT200 gọi là chi phí trả trước) là một loại phân bổ khác, theo kỳ chứ không theo đối tượng. Xem [[kt-30-ccdc-tra-truoc-trich-truoc]]. Bút toán phân bổ cuối kỳ là một bước trong checklist khoá sổ ở [[kt-36-quy-trinh-khoa-so]].
 
 ## Nguồn
 

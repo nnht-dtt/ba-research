@@ -137,8 +137,8 @@ TT99 (nguyên tắc kế toán các khoản doanh thu, mục 5) viết rõ: th�
 
 Phía hoá đơn và thuế có mốc riêng:
 
-- Nghị định 123/2020/NĐ-CP, Điều 9 khoản 1 (sửa bởi Nghị định 70/2025/NĐ-CP): thời điểm lập hoá đơn khi bán hàng hoá là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hoá cho người mua, không phân biệt đã thu tiền hay chưa.
-- Cùng điều, khoản 2: với dịch vụ là thời điểm hoàn thành cung cấp dịch vụ; nếu thu tiền trước hoặc trong khi cung cấp dịch vụ thì thời điểm lập hoá đơn là thời điểm thu tiền (trừ tiền đặt cọc, tạm ứng để bảo đảm thực hiện một số loại hợp đồng dịch vụ được liệt kê như kế toán, kiểm toán, tư vấn tài chính, thuế, thẩm định giá...).
+- Nghị định 254/2026/NĐ-CP (hiệu lực từ 01/07/2026, thay Nghị định 123/2020/NĐ-CP và Nghị định 70/2025/NĐ-CP theo Điều 43), Điều 9 khoản 1: thời điểm lập hoá đơn khi bán hàng hoá là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hoá cho người mua, không phân biệt đã thu tiền hay chưa.
+- Cùng điều, khoản 2: với dịch vụ là thời điểm hoàn thành cung cấp dịch vụ; nếu thu tiền trước hoặc trong khi cung cấp dịch vụ thì thời điểm lập hoá đơn là thời điểm thu tiền, không gồm tiền đặt cọc theo Bộ luật Dân sự để bảo đảm thực hiện hợp đồng cung cấp dịch vụ. Nghị định 70/2025 trước đây liệt kê riêng một số loại dịch vụ (kế toán, kiểm toán, tư vấn tài chính, thuế, thẩm định giá...) có tiền đặt cọc, tạm ứng được loại trừ; khoản 2 Điều 9 Nghị định 254 không còn danh sách này.
 - Luật Thuế GTGT 48/2024/QH15, Điều 8: thời điểm xác định thuế GTGT với hàng hoá là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hoặc thời điểm lập hoá đơn; với dịch vụ là thời điểm hoàn thành cung cấp dịch vụ hoặc thời điểm lập hoá đơn.
 
 Các tình huống lệch kỳ BA hay gặp:
@@ -168,5 +168,6 @@ Các tình huống lệch kỳ BA hay gặp:
 - Thông tư 99/2025/TT-BTC, Phụ lục II: TK 131 (mục 1, 2, 3.1), TK 157 (mục 1, 2, 3.1–3.3). Tệp https://expertis.vn/wp-content/uploads/2026/01/Loai-tai-khoan-tai-san-TK-111-⟶-244.pdf
 - Thông tư 99/2025/TT-BTC, Phụ lục II: TK 632 (mục 1, 2, 3.a). Tệp https://expertis.vn/wp-content/uploads/2026/01/Loai-tai-khoan-chi-phi-san-xuat-kinh-doanh-TK-621-⟶-642.pdf
 - Thông tư 99/2025/TT-BTC, Phụ lục II: TK 333 (mục 1.c, 3.1.1). Tệp https://expertis.vn/wp-content/uploads/2026/01/Loai-tai-khoan-no-phai-tra-TK-331-⟶-357.pdf
-- Nghị định 70/2025/NĐ-CP sửa đổi Nghị định 123/2020/NĐ-CP, khoản 6 Điều 1 (sửa khoản 1, 2 Điều 9 về thời điểm lập hoá đơn): https://luatvietnam.vn/tai-chinh/nghi-dinh-70-2025-nd-cp-cua-chinh-phu-sua-doi-bo-sung-mot-so-dieu-cua-nghi-dinh-123-2020-nd-cp-ngay-19-10-2020-cua-chinh-phu-quy-dinh-ve-hoa-don-chung-tu-394682-d1.html
+- Nghị định 254/2026/NĐ-CP quy định chi tiết Luật Quản lý thuế về hoá đơn điện tử, chứng từ điện tử: Điều 9 khoản 1, 2 (thời điểm lập hoá đơn); Điều 43 (hiệu lực, văn bản hết hiệu lực). https://luatvietnam.vn/thue/nghi-dinh-254-2026-nd-cp-huong-dan-thi-hanh-luat-quan-ly-thue-2025-ve-hoa-don-dien-tu-439381-d1.html
+- Nghị định 70/2025/NĐ-CP sửa đổi Nghị định 123/2020/NĐ-CP (đã hết hiệu lực từ 01/07/2026; chỉ dùng để so sánh danh sách ngoại lệ tiền đặt cọc cũ), khoản 6 Điều 1: https://luatvietnam.vn/tai-chinh/nghi-dinh-70-2025-nd-cp-cua-chinh-phu-sua-doi-bo-sung-mot-so-dieu-cua-nghi-dinh-123-2020-nd-cp-ngay-19-10-2020-cua-chinh-phu-quy-dinh-ve-hoa-don-chung-tu-394682-d1.html
 - Luật Thuế GTGT 48/2024/QH15, Văn bản hợp nhất 12/VBHN-VPQH (2026), Điều 8: https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/02/12-vbhn-vpqh.pdf

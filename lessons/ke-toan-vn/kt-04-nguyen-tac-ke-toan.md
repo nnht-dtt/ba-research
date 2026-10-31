@@ -109,7 +109,7 @@ Một khoản mục chỉ được ghi nhận khi thoả **cả hai** tiêu chu�
 1. chắc chắn thu được lợi ích kinh tế hoặc làm giảm lợi ích kinh tế trong tương lai;
 2. khoản mục đó có giá trị và xác định được giá trị một cách đáng tin cậy.
 
-Chi phí bỏ ra không chắc chắn mang lại lợi ích kinh tế trong tương lai thì ghi ngay vào báo cáo kết quả kinh doanh, không ghi thành tài sản (đoạn 41). Đây là căn cứ cho các câu hỏi phân loại hay gặp khi thiết kế luồng mua: một khoản chi là tài sản, chi phí trả trước hay chi phí trong kỳ. Xem [[kt-14-mua-dich-vu-tai-san]].
+Chi phí bỏ ra không chắc chắn mang lại lợi ích kinh tế trong tương lai thì ghi ngay vào báo cáo kết quả kinh doanh, không ghi thành tài sản (đoạn 41). Đây là căn cứ cho các câu hỏi phân loại hay gặp khi thiết kế luồng mua: một khoản chi là tài sản, chi phí chờ phân bổ (TK 242; TT200 gọi là chi phí trả trước) hay chi phí trong kỳ. Xem [[kt-14-mua-dich-vu-tai-san]].
 
 ## Khoá kỳ: nơi các nguyên tắc gặp nhau
 

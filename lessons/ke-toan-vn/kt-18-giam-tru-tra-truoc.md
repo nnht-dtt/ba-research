@@ -64,7 +64,7 @@ Ví dụ giả định: khách đạt mức doanh số quý và được chiết
 
 ### Hoá đơn cho chiết khấu thương mại theo doanh số
 
-Nghị định 123/2020/NĐ-CP, Điều 19 khoản 4 điểm b (sửa bởi Nghị định 70/2025/NĐ-CP): khi chiết khấu thương mại căn cứ vào số lượng, doanh số, số tiền chiết khấu được tính điều chỉnh trên hoá đơn của **lần mua cuối cùng hoặc kỳ tiếp sau**, bảo đảm không vượt quá giá trị trên hoá đơn đó; hoặc lập **hoá đơn điều chỉnh** kèm bảng kê các số hoá đơn cần điều chỉnh, số tiền, tiền thuế điều chỉnh. Bên bán và bên mua kê khai điều chỉnh tại kỳ lập hoá đơn điều chỉnh.
+Thông tư 91/2026/TT-BTC, Điều 10 khoản 5 điểm b (hiệu lực từ 01/07/2026, hướng dẫn Nghị định 254/2026/NĐ-CP; thay quy định cũ tại Điều 19 Nghị định 123/2020/NĐ-CP đã hết hiệu lực): khi chiết khấu thương mại căn cứ vào số lượng, doanh số, số tiền chiết khấu được tính điều chỉnh trên hoá đơn của **lần mua cuối cùng hoặc kỳ tiếp sau**, bảo đảm không vượt quá giá trị trên hoá đơn đó; hoặc lập **hoá đơn điều chỉnh** kèm bảng kê các số hoá đơn cần điều chỉnh, số tiền, tiền thuế điều chỉnh. Bảng kê được lưu tại đơn vị và xuất trình khi cơ quan thuế yêu cầu. Người bán kê khai vào kỳ phát sinh hoá đơn điều chỉnh, người mua kê khai vào kỳ nhận được hoá đơn điều chỉnh (khoản 6 điểm d).
 
 Về thuế GTGT, Nghị định 181/2025/NĐ-CP (Điều 14 khoản 2, bản hợp nhất 2026) quy định khi có chiết khấu thương mại thì giá tính thuế là giá bán đã chiết khấu thương mại, chưa có thuế GTGT.
 
@@ -130,5 +130,6 @@ Ví dụ giả định: khách trả trước 120 triệu chưa thuế cho dịc
 - Thông tư 99/2025/TT-BTC, Phụ lục II: TK 131 (mục 2, 3.3, 3.4, 3.5). https://expertis.vn/wp-content/uploads/2026/01/Loai-tai-khoan-tai-san-TK-111-⟶-244.pdf
 - Thông tư 99/2025/TT-BTC, Phụ lục II: TK 338 (mô tả TK 3387, mục 3.4), TK 344 (mục 1, 3) và TK 333 (mục 1.c). https://expertis.vn/wp-content/uploads/2026/01/Loai-tai-khoan-no-phai-tra-TK-331-⟶-357.pdf
 - Thông tư 99/2025/TT-BTC, Phụ lục II, phần A danh mục tài khoản (TK 521, 3387). https://expertis.vn/van-ban/phu-luc-ii-thong-tu-99-2025-tt-btc/
-- Nghị định 70/2025/NĐ-CP sửa đổi Nghị định 123/2020/NĐ-CP, khoản 13 Điều 1 (Điều 19 khoản 4 điểm b). https://luatvietnam.vn/tai-chinh/nghi-dinh-70-2025-nd-cp-cua-chinh-phu-sua-doi-bo-sung-mot-so-dieu-cua-nghi-dinh-123-2020-nd-cp-ngay-19-10-2020-cua-chinh-phu-quy-dinh-ve-hoa-don-chung-tu-394682-d1.html
+- Thông tư 91/2026/TT-BTC: Điều 10 khoản 5 điểm b, khoản 6 điểm d. https://luatvietnam.vn/thue/thong-tu-91-2026-tt-btc-quy-dinh-luat-quan-ly-thue-va-hoa-don-dien-tu-439780-d1.html
+- Nghị định 254/2026/NĐ-CP: Điều 43 (hiệu lực; Nghị định 123/2020 và Nghị định 70/2025 hết hiệu lực từ 01/07/2026). https://luatvietnam.vn/thue/nghi-dinh-254-2026-nd-cp-huong-dan-thi-hanh-luat-quan-ly-thue-2025-ve-hoa-don-dien-tu-439381-d1.html
 - Nghị định 181/2025/NĐ-CP, Văn bản hợp nhất 18/VBHN-BTC (2026), Điều 14 khoản 2. https://luatvietnam.vn/thue/van-ban-hop-nhat-18-vbhn-btc-2026-quy-dinh-chi-tiet-thi-hanh-luat-thue-gia-tri-gia-tang-436641-d5.html

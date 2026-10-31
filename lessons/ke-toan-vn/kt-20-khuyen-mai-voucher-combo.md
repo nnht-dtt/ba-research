@@ -1,6 +1,6 @@
 # Khuyến mại, voucher, quà tặng và combo
 
-Bài này giúp bạn phân loại một chương trình khuyến mại theo đúng bản chất kế toán trước khi bàn cấu hình: hàng tặng là chi phí bán hàng hay là một phần của giao dịch bán, doanh thu có phải phân bổ không, thuế GTGT tính trên giá nào, và hoá đơn lập ra sao. Ba bộ quy định chạm vào cùng một chương trình: chế độ kế toán (TT99), pháp luật thương mại về khuyến mại (Nghị định 81/2018), và thuế, hoá đơn (Luật Thuế GTGT, Nghị định 181/2025, Nghị định 123/2020).
+Bài này giúp bạn phân loại một chương trình khuyến mại theo đúng bản chất kế toán trước khi bàn cấu hình: hàng tặng là chi phí bán hàng hay là một phần của giao dịch bán, doanh thu có phải phân bổ không, thuế GTGT tính trên giá nào, và hoá đơn lập ra sao. Ba bộ quy định chạm vào cùng một chương trình: chế độ kế toán (TT99), pháp luật thương mại về khuyến mại (Nghị định 81/2018), và thuế, hoá đơn (Luật Thuế GTGT, Nghị định 181/2025, Nghị định 254/2026 thay Nghị định 123/2020 từ 01/07/2026).
 
 ## Nguyên tắc gốc: bản chất hơn hình thức
 
@@ -126,10 +126,13 @@ Vì vậy dòng `Có TK 3331 (nếu có)` trong bút toán khuyến mại của 
 
 ## Hoá đơn
 
-- Nghị định 123/2020/NĐ-CP, Điều 4 khoản 1 (sửa bởi Nghị định 70/2025/NĐ-CP): khi bán hàng, người bán phải lập hoá đơn, **bao gồm cả** hàng hoá, dịch vụ dùng để khuyến mại, quảng cáo, hàng mẫu, cho, biếu, tặng.
-- Điều 10 khoản 6 điểm a.3 (sửa bởi Nghị định 70/2025): khuyến mại theo pháp luật thương mại, hoặc cho, biếu, tặng phù hợp pháp luật thì **được lập hoá đơn tổng giá trị** khuyến mại, cho, biếu, tặng kèm danh sách; doanh nghiệp lưu hồ sơ chương trình và cung cấp bảng tổng hợp chi tiết khi cơ quan có thẩm quyền yêu cầu. Nếu khách yêu cầu lấy hoá đơn theo từng giao dịch thì người bán phải lập hoá đơn cho khách.
+Từ 01/07/2026, căn cứ là Nghị định 254/2026/NĐ-CP; Nghị định 123/2020/NĐ-CP và Nghị định 70/2025/NĐ-CP hết hiệu lực (Điều 43), xem [[kt-09-chung-tu-hoa-don]].
 
-> ⚠️ Cần xác nhận: cách thể hiện đơn giá, thành tiền, thuế suất của dòng hàng khuyến mại trên hoá đơn (ghi giá trị hay ghi 0) không có trong phần văn bản đã đọc.
+- Nghị định 254/2026/NĐ-CP, Điều 4 khoản 1: khi bán hàng, người bán phải lập hoá đơn điện tử, **bao gồm cả** hàng hoá, dịch vụ dùng để khuyến mại, quảng cáo, hàng mẫu, cho, biếu, tặng, trao đổi, trả thay lương, tiêu dùng nội bộ.
+- Phụ lục "Nội dung của hoá đơn" kèm Nghị định 254, điểm 5.a.3: hàng hoá, dịch vụ khuyến mại theo pháp luật thương mại, hoặc cho, biếu, tặng phù hợp pháp luật thì doanh nghiệp **được lập hoá đơn tổng hợp cho các giao dịch phát sinh trong tháng hoặc quý**, phù hợp với kỳ khai thuế GTGT của người bán. Người bán phải bảo đảm hoá đơn tổng hợp phản ánh đầy đủ, chính xác các giao dịch; lưu danh sách chi tiết hàng khuyến mại, cho, biếu, tặng và hồ sơ liên quan; cung cấp khi cơ quan có thẩm quyền yêu cầu. Nếu khách yêu cầu lấy hoá đơn theo từng giao dịch thì người bán phải lập hoá đơn cho khách. So với Nghị định 70/2025 ("lập hoá đơn tổng giá trị... kèm danh sách"), quy định mới nói rõ kỳ tổng hợp theo tháng hoặc quý (EY, Forvis Mazars).
+- Cùng Phụ lục, điểm 5.đ: áp dụng chiết khấu thương mại hoặc khuyến mại theo pháp luật thì phải thể hiện rõ khoản chiết khấu thương mại, khuyến mại trên hoá đơn; giá tính thuế GTGT trong trường hợp này xác định theo pháp luật thuế GTGT.
+
+> ⚠️ Cần xác nhận: cách thể hiện đơn giá, thành tiền, thuế suất của dòng hàng khuyến mại trên hoá đơn (ghi giá trị hay ghi 0) không có trong phần Nghị định 254 đã đọc; điểm 5.đ Phụ lục chỉ yêu cầu thể hiện rõ khoản khuyến mại.
 
 ## Ảnh hưởng tới báo cáo
 
@@ -148,4 +151,7 @@ Vì vậy dòng `Có TK 3331 (nếu có)` trong bút toán khuyến mại của 
 - KPMG Việt Nam, Bản tin nhanh về pháp luật tháng 07/2026: Nghị định 239/2026/NĐ-CP về khuyến mại, mục 2 và 3. https://assets.kpmg.com/content/dam/kpmgsites/vn/pdf/2026/07/decree-239-on-trade-promotion-vi.pdf.coredownload.inline.pdf
 - Luật Thuế GTGT 48/2024/QH15, Văn bản hợp nhất 12/VBHN-VPQH (2026), Điều 7 khoản 1 điểm c. https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/02/12-vbhn-vpqh.pdf
 - Nghị định 181/2025/NĐ-CP, Văn bản hợp nhất 18/VBHN-BTC (2026), Điều 6 khoản 2, Điều 23 khoản 7. https://luatvietnam.vn/thue/van-ban-hop-nhat-18-vbhn-btc-2026-quy-dinh-chi-tiet-thi-hanh-luat-thue-gia-tri-gia-tang-436641-d5.html
-- Nghị định 70/2025/NĐ-CP sửa đổi Nghị định 123/2020/NĐ-CP, khoản 3 Điều 1 (Điều 4 khoản 1) và khoản 7 Điều 1 (Điều 10 khoản 6 điểm a.3). https://luatvietnam.vn/tai-chinh/nghi-dinh-70-2025-nd-cp-cua-chinh-phu-sua-doi-bo-sung-mot-so-dieu-cua-nghi-dinh-123-2020-nd-cp-ngay-19-10-2020-cua-chinh-phu-quy-dinh-ve-hoa-don-chung-tu-394682-d1.html
+- Nghị định 254/2026/NĐ-CP: Điều 4 khoản 1; Phụ lục "Nội dung của hoá đơn" điểm 5.a.3, 5.đ; Điều 43 (hiệu lực, văn bản hết hiệu lực). https://luatvietnam.vn/thue/nghi-dinh-254-2026-nd-cp-huong-dan-thi-hanh-luat-quan-ly-thue-2025-ve-hoa-don-dien-tu-439381-d1.html
+- EY Việt Nam, Tin nhanh về Thuế tháng 7/2026 "Nghị định 254/2026/NĐ-CP về hóa đơn điện tử và chứng từ điện tử", mục 5 (hoá đơn tổng hợp cho hàng khuyến mại, biếu tặng): https://www.ey.com/content/dam/ey-unified-site/ey-com/vi-vn/technical/tax/documents/ey-vn-decree-254-on-electronic-invoices-and-electronic-documents.pdf
+- Forvis Mazars Việt Nam, Bản tin "Cập nhật các điểm đáng chú ý trong Nghị định 254/2026/NĐ-CP và Thông tư 91/2026/TT-BTC": https://www.forvismazars.com/vn/vi/n-ph-m-s-ki-n/c-p-nh-t-v-vi-t-nam/b-n-tin-thong-bao-chuyen-mon/b-n-tin-v-thu-va-phap-ly/ngh-d-nh-254-va-thong-t-91
+- Nghị định 70/2025/NĐ-CP sửa đổi Nghị định 123/2020/NĐ-CP (hết hiệu lực từ 01/07/2026; chỉ dùng để so sánh), khoản 7 Điều 1 (Điều 10 khoản 6 điểm a.3). https://luatvietnam.vn/tai-chinh/nghi-dinh-70-2025-nd-cp-cua-chinh-phu-sua-doi-bo-sung-mot-so-dieu-cua-nghi-dinh-123-2020-nd-cp-ngay-19-10-2020-cua-chinh-phu-quy-dinh-ve-hoa-don-chung-tu-394682-d1.html

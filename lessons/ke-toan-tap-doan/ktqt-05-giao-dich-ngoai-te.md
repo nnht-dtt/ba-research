@@ -109,7 +109,7 @@ Khách chuyển 20.000 USD vào tài khoản, tỷ giá giao dịch thực tế 
 - **Ứng trước người bán**: ghi `Nợ TK 331` theo tỷ giá thực tế lúc ứng trước, `Có TK 112` theo tỷ giá ghi sổ, chênh lệch vào 515/635. Khi nhận hàng, phần giá trị tương ứng với số đã ứng trước ghi theo **tỷ giá lúc ứng trước** (`Nợ TK 156... / Có TK 331`). Chỉ phần còn nợ mới ghi theo tỷ giá ngày nhận hàng.
 - **Nhận trước của khách**: ghi `Nợ TK 112 / Có TK 131` theo tỷ giá lúc nhận trước. Khi giao hàng, doanh thu tương ứng với số đã nhận trước ghi theo **tỷ giá lúc nhận trước**. Phần chưa thu ghi theo tỷ giá ngày ghi nhận doanh thu.
 
-Tương tự, khoản chi phí trả trước khi phân bổ dần vẫn dùng tỷ giá lúc trả trước, không dùng tỷ giá ngày phân bổ (mục 1.4.2.a).
+Tương tự, khoản chi phí chờ phân bổ (TK 242) khi phân bổ dần vẫn dùng tỷ giá lúc trả trước, không dùng tỷ giá ngày phân bổ (mục 1.4.2.a).
 
 Một hoá đơn bán 30.000 USD, trong đó khách đã trả trước 10.000 USD, vì vậy cho ra doanh thu VND là tổng của hai phần quy đổi theo hai tỷ giá khác nhau. Hệ thống phải liên kết được khoản trả trước với hoá đơn để lấy đúng tỷ giá. Phần cấn trừ công nợ xem [[kt-15-tam-ung-dat-coc-can-tru]].
 

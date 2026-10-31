@@ -48,20 +48,22 @@ Nếu khách chưa thanh toán thì phần 2 ghi `Có TK 131 (11 triệu)` thay 
 
 ## Hoá đơn khi trả hàng, đổi hàng
 
-Nghị định 123/2020/NĐ-CP, Điều 19 (sửa bởi Nghị định 70/2025/NĐ-CP, có hiệu lực từ 01/6/2025) đổi tên điều này thành "Thay thế, điều chỉnh hoá đơn điện tử". Khoản 4 điểm c quy định:
+Từ 01/07/2026, xử lý hoá đơn điện tử đã lập theo Điều 10 Thông tư 91/2026/TT-BTC (hướng dẫn Nghị định 254/2026/NĐ-CP). Nghị định 123/2020/NĐ-CP và Nghị định 70/2025/NĐ-CP sửa đổi nó đã hết hiệu lực từ ngày này (Điều 43 Nghị định 254), xem [[kt-09-chung-tu-hoa-don]]. Khoản 5 điểm c Điều 10 TT91 quy định:
 
 - **c.1) Trả lại hàng hoá:** người mua trả lại toàn bộ hoặc một phần hàng hoá, **bao gồm cả trường hợp đổi hàng làm thay đổi giá trị** của hàng đã mua, thì **người bán lập hoá đơn điều chỉnh**. Ngoại lệ: nếu hai bên thoả thuận người mua lập hoá đơn khi trả hàng thì người mua lập hoá đơn điện tử giao cho người bán.
 - **c.2)** Hàng là tài sản phải đăng ký quyền sở hữu, quyền sử dụng và đã đăng ký theo tên người mua: nếu người mua là đối tượng sử dụng hoá đơn điện tử thì người mua lập hoá đơn trả lại hàng cho người bán.
-- **c.4)** Người bán đã lập hoá đơn khi thu tiền trước khi cung cấp dịch vụ, sau đó huỷ hoặc chấm dứt giao dịch, huỷ một phần việc cung cấp dịch vụ: người bán điều chỉnh hoá đơn đã lập theo điểm b.1 khoản 1 (lập hoá đơn điện tử điều chỉnh).
+- **c.4)** Người bán đã lập hoá đơn khi thu tiền trước khi cung cấp dịch vụ, sau đó huỷ hoặc chấm dứt giao dịch, huỷ một phần việc cung cấp dịch vụ: người bán điều chỉnh hoá đơn đã lập theo điểm c.1 nêu trên (lập hoá đơn điều chỉnh). Điểm này áp dụng cả cho hoá đơn thu tiền theo tiến độ của kinh doanh bất động sản, xây dựng nhà để bán.
 - Các trường hợp c.1 đến c.3: người bán, người mua phải có đầy đủ hồ sơ, chứng từ liên quan tới việc trả lại hàng, xuất trình khi được yêu cầu.
 
-Về kỳ kê khai, Điều 19 khoản 5 điểm đ: hoá đơn điều chỉnh theo khoản 4 (gồm trả hàng) thì người bán kê khai vào **kỳ phát sinh hoá đơn điều chỉnh**, người mua kê khai vào kỳ nhận được hoá đơn điều chỉnh. Trên hoá đơn điều chỉnh, điều chỉnh tăng ghi dấu dương, điều chỉnh giảm ghi dấu âm (khoản 5 điểm c).
+Về kỳ kê khai, khoản 6 điểm d Điều 10 TT91: hoá đơn điều chỉnh cho các trường hợp ở khoản 5 (gồm trả hàng) thì người bán kê khai vào **kỳ phát sinh hoá đơn điều chỉnh**, người mua kê khai vào kỳ nhận được hoá đơn điều chỉnh. Trên hoá đơn điều chỉnh, điều chỉnh tăng ghi số dương, điều chỉnh giảm ghi số âm (khoản 6 điểm c).
 
-> ⚠️ Cần xác nhận: Điều 19 chỉ nói rõ đổi hàng **làm thay đổi giá trị** phải lập hoá đơn điều chỉnh. Đổi hàng cùng giá trị (ví dụ đổi size, đổi màu cùng giá) xử lý hoá đơn ra sao không được nêu trong phần đã đọc.
+> ⚠️ Cần xác nhận: Điều 10 TT91 chỉ nói rõ đổi hàng **làm thay đổi giá trị** phải lập hoá đơn điều chỉnh. Đổi hàng cùng giá trị (ví dụ đổi size, đổi màu cùng giá) xử lý hoá đơn ra sao không được nêu trong phần đã đọc.
 
 ### Khác với hoá đơn lập sai
 
-Trả hàng không phải là hoá đơn lập sai. Khoản 1 Điều 19 dành cho hoá đơn **đã lập sai** (sai mã số thuế, số tiền, thuế suất, tiền thuế, hoặc hàng ghi trên hoá đơn không đúng quy cách, chất lượng), cho phép chọn lập hoá đơn điều chỉnh hoặc hoá đơn thay thế, và trước khi điều chỉnh, thay thế phải có văn bản thoả thuận ghi rõ nội dung sai (với người mua là tổ chức, hộ, cá nhân kinh doanh) hoặc thông báo cho người mua là cá nhân. Hoá đơn điều chỉnh, thay thế cho trường hợp sai này được khai bổ sung vào **kỳ phát sinh hoá đơn bị điều chỉnh, bị thay thế** (khoản 5 điểm d), khác với trả hàng.
+Trả hàng không phải là hoá đơn lập sai. Khoản 1 Điều 10 TT91 dành cho hoá đơn **đã lập sai** (sai mã số thuế, số tiền, thuế suất, tiền thuế, hoặc hàng ghi trên hoá đơn không đúng quy cách, chất lượng), cho phép chọn lập hoá đơn điều chỉnh hoặc hoá đơn thay thế, và trước khi điều chỉnh, thay thế phải có văn bản thoả thuận ghi rõ nội dung sai (với người mua là tổ chức, hộ, cá nhân kinh doanh) hoặc thông báo cho người mua là cá nhân (điểm b). Kỳ kê khai của trả hàng đã được khoản 6 điểm d nêu rõ như trên.
+
+> ⚠️ Cần xác nhận: Nghị định 123 (sửa bởi Nghị định 70) từng quy định hoá đơn điều chỉnh, thay thế cho hoá đơn **lập sai** được khai bổ sung vào kỳ của hoá đơn bị điều chỉnh, thay thế. Điều 10 TT91 không còn câu tương ứng; theo EY, kỳ kê khai cho trường hợp này phải tra cứu thêm pháp luật thuế GTGT và quản lý thuế. Xem thêm [[kt-11-but-toan-tong-hop-dieu-chinh]].
 
 Với hệ thống, đây là hai luồng khác nhau: "trả hàng" sinh nghiệp vụ mới tại ngày trả; "sửa hoá đơn sai" là sửa một nghiệp vụ cũ. Cách xử lý chứng từ kế toán sai: [[kt-11-but-toan-tong-hop-dieu-chinh]]. Hoá đơn điện tử nói chung: [[kt-09-chung-tu-hoa-don]].
 
@@ -71,7 +73,7 @@ Với hệ thống, đây là hai luồng khác nhau: "trả hàng" sinh nghiệ
 
 - Hàng cũ về kho: đảo giá vốn như hàng bán bị trả lại.
 - Hàng mới đi: ghi giá vốn như bán hàng thông thường.
-- Nếu giá trị thay đổi: phần chênh lệch doanh thu và thuế được điều chỉnh qua hoá đơn điều chỉnh của người bán (Điều 19 khoản 4 c.1); khách trả thêm hoặc được hoàn chênh lệch qua TK 131, 111, 112.
+- Nếu giá trị thay đổi: phần chênh lệch doanh thu và thuế được điều chỉnh qua hoá đơn điều chỉnh của người bán (điểm c.1 khoản 5 Điều 10 TT91); khách trả thêm hoặc được hoàn chênh lệch qua TK 131, 111, 112.
 
 > ⚠️ Cần xác nhận: TT99 không có mục riêng "đổi hàng" trong phần đã đọc. Ghi đổi hàng thành một cặp trả lại + bán mới (đủ bút toán TK 521 và TK 511) hay chỉ ghi phần chênh lệch là quyết định chính sách cần chốt với kế toán của khách.
 
@@ -81,7 +83,7 @@ Khách giữ hàng nhưng được hoàn một phần tiền vì hàng kém ph�
 
 `Nợ TK 521 / Nợ TK 3331 / Có TK 111, 112, 131`
 
-Về hoá đơn, trường hợp hàng hoá ghi trên hoá đơn không đúng quy cách, chất lượng thuộc điểm b khoản 1 Điều 19 (điều chỉnh hoặc thay thế). Chi tiết chiết khấu, giảm giá: [[kt-18-giam-tru-tra-truoc]].
+Về hoá đơn, trường hợp hàng hoá ghi trên hoá đơn không đúng quy cách, chất lượng thuộc điểm b khoản 1 Điều 10 TT91 (điều chỉnh hoặc thay thế). Chi tiết chiết khấu, giảm giá: [[kt-18-giam-tru-tra-truoc]].
 
 ## Hoàn tiền khi chưa giao hàng
 
@@ -93,7 +95,7 @@ Với dịch vụ thu trước nhiều kỳ đang ở TK 3387, TT99 TK 511 mục
 
 `Nợ TK 3387 / Nợ TK 3331 (thuế GTGT của phần dịch vụ không thực hiện) / Có TK 111, 112`
 
-Phần hoá đơn đã lập khi thu tiền trước dịch vụ thì điều chỉnh theo Điều 19 khoản 4 điểm c.4 nêu trên.
+Phần hoá đơn đã lập khi thu tiền trước dịch vụ thì điều chỉnh theo điểm c.4 khoản 5 Điều 10 TT91 nêu trên.
 
 ## Trả hàng ở kỳ sau
 
@@ -121,4 +123,6 @@ Lưu ý mốc kế toán (phát hành báo cáo) và mốc hoá đơn (kỳ lậ
 - Thông tư 99/2025/TT-BTC, Phụ lục II: TK 511 (mục 1.4, 1.5.2, 3.7, 3.17), TK 521 (mục 1.b, 1.d, 1.đ, 1.e, 3.b, 3.c). https://expertis.vn/wp-content/uploads/2026/01/Loai-tai-khoan-doanh-thu-TK-511-⟶-521.pdf
 - Thông tư 99/2025/TT-BTC, Phụ lục II: TK 131 (mục 2, 3.2), TK 157 (mục 1). https://expertis.vn/wp-content/uploads/2026/01/Loai-tai-khoan-tai-san-TK-111-⟶-244.pdf
 - Thông tư 99/2025/TT-BTC, Phụ lục II: TK 632 (mục 2, bên Có). https://expertis.vn/wp-content/uploads/2026/01/Loai-tai-khoan-chi-phi-san-xuat-kinh-doanh-TK-621-⟶-642.pdf
-- Nghị định 70/2025/NĐ-CP sửa đổi Nghị định 123/2020/NĐ-CP, khoản 13 Điều 1 (Điều 19: khoản 1, khoản 4 điểm c, khoản 5). https://luatvietnam.vn/tai-chinh/nghi-dinh-70-2025-nd-cp-cua-chinh-phu-sua-doi-bo-sung-mot-so-dieu-cua-nghi-dinh-123-2020-nd-cp-ngay-19-10-2020-cua-chinh-phu-quy-dinh-ve-hoa-don-chung-tu-394682-d1.html
+- Thông tư 91/2026/TT-BTC: Điều 10 (khoản 1 điểm b; khoản 5 điểm c; khoản 6 điểm c, d). https://luatvietnam.vn/thue/thong-tu-91-2026-tt-btc-quy-dinh-luat-quan-ly-thue-va-hoa-don-dien-tu-439780-d1.html
+- Nghị định 254/2026/NĐ-CP: Điều 43 (hiệu lực; Nghị định 123/2020 và Nghị định 70/2025 hết hiệu lực từ 01/07/2026). https://luatvietnam.vn/thue/nghi-dinh-254-2026-nd-cp-huong-dan-thi-hanh-luat-quan-ly-thue-2025-ve-hoa-don-dien-tu-439381-d1.html
+- EY Việt Nam, Tin nhanh về Thuế tháng 7/2026 "Nghị định 254/2026/NĐ-CP về hóa đơn điện tử và chứng từ điện tử", mục 6 (Thông tư 91, kê khai hoá đơn điều chỉnh, thay thế): https://www.ey.com/content/dam/ey-unified-site/ey-com/vi-vn/technical/tax/documents/ey-vn-decree-254-on-electronic-invoices-and-electronic-documents.pdf

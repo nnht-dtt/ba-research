@@ -47,7 +47,7 @@ Luật Thuế GTGT Điều 9:
 
 Luật Thuế GTGT Điều 8: với hàng hoá là thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hoặc thời điểm lập hoá đơn; với dịch vụ là thời điểm hoàn thành cung cấp dịch vụ hoặc thời điểm lập hoá đơn; không phân biệt đã thu tiền hay chưa. Một số hoạt động (xuất nhập khẩu, viễn thông, bảo hiểm, điện nước, bất động sản, xây dựng lắp đặt, dầu khí) do Chính phủ quy định riêng.
 
-Nghị định 123/2020/NĐ-CP, Điều 10 khoản 9 (sửa bởi Nghị định 70/2025/NĐ-CP): **người bán khai thuế theo thời điểm lập hoá đơn**.
+Nghị định 254/2026/NĐ-CP (hiệu lực từ 01/07/2026, thay Nghị định 123/2020/NĐ-CP và Nghị định 70/2025/NĐ-CP theo Điều 43), Phụ lục "Nội dung của hoá đơn" điểm 7: **người bán khai thuế theo thời điểm lập hoá đơn**; người mua khai thuế tại thời điểm nhận hoá đơn đúng, đủ về hình thức và nội dung. Cùng điểm này: nếu thời điểm ký số khác thời điểm lập thì việc ký số và gửi cơ quan thuế (cấp mã hoặc chuyển dữ liệu) chậm nhất là ngày làm việc tiếp theo kể từ thời điểm lập hoá đơn.
 
 Thông tư 99/2025/TT-BTC (nguyên tắc kế toán các khoản doanh thu, mục 5) nhắc rằng thời điểm và căn cứ ghi nhận doanh thu kế toán và doanh thu tính thuế có thể khác nhau. Tổng doanh thu trên tờ khai GTGT và doanh thu TK 511 vì vậy không nhất thiết bằng nhau; khoản chênh cần giải thích được (xem các tình huống lệch kỳ ở [[kt-17-quy-trinh-ban-hang]]).
 
@@ -103,9 +103,11 @@ Luật Thuế GTGT Điều 15 quy định các trường hợp được hoàn. V
 
 Bài không dạy lập tờ khai, nhưng từ các quy định trên có thể rút ra dữ liệu tối thiểu hệ thống cần giữ và xuất được:
 
-- **Danh sách hoá đơn bán ra theo kỳ lập hoá đơn,** vì người bán khai thuế theo thời điểm lập hoá đơn (Nghị định 123/2020 Điều 10 khoản 9).
+- **Danh sách hoá đơn bán ra theo kỳ lập hoá đơn,** vì người bán khai thuế theo thời điểm lập hoá đơn (Nghị định 254/2026, Phụ lục, điểm 7).
 - **Tách theo từng mức thuế suất** (0%, 5%, 8%, 10%, không chịu thuế), vì phải khai theo từng mức (Luật Thuế GTGT Điều 9 khoản 4).
-- **Hoá đơn điều chỉnh, thay thế và kỳ kê khai của chúng,** vì Nghị định 123/2020 Điều 19 khoản 5 (sửa bởi Nghị định 70/2025) phân biệt: hoá đơn điều chỉnh, thay thế do **lập sai** thì khai bổ sung vào **kỳ của hoá đơn bị điều chỉnh, thay thế**; hoá đơn điều chỉnh cho chiết khấu theo doanh số, trả hàng và các trường hợp ở khoản 4 thì người bán khai vào **kỳ lập hoá đơn điều chỉnh**.
+- **Hoá đơn điều chỉnh, thay thế và kỳ kê khai của chúng.** Thông tư 91/2026/TT-BTC Điều 10 khoản 6 điểm d: hoá đơn điều chỉnh cho chiết khấu theo doanh số, trả hàng, quyết toán lại giá trị và các trường hợp khác ở khoản 5 thì người bán khai vào **kỳ phát sinh hoá đơn điều chỉnh**, người mua khai vào kỳ nhận hoá đơn điều chỉnh. Với hoá đơn điều chỉnh, thay thế do **lập sai** (khoản 1), TT91 không còn quy định kỳ kê khai như Nghị định 123 cũ (khai bổ sung vào kỳ của hoá đơn bị điều chỉnh, thay thế) (EY). Hệ thống cần giữ liên kết hoá đơn gốc và hoá đơn điều chỉnh, thay thế để lọc được theo cả hai kỳ.
+
+> ⚠️ Cần xác nhận: kỳ kê khai của hoá đơn điều chỉnh, thay thế cho hoá đơn **lập sai** từ 01/07/2026. EY khuyến nghị tra cứu thêm pháp luật thuế GTGT và quản lý thuế; cần chốt với tư vấn thuế của khách trước khi thiết kế báo cáo kê khai.
 - **Đối chiếu số dư TK 33311 với tổng thuế trên dữ liệu hoá đơn** của kỳ, có chỉ ra chênh lệch do bút toán không qua hoá đơn.
 - **Số dư TK 133 đầu kỳ, phát sinh, cuối kỳ** cho phần bù trừ.
 - **Đối chiếu doanh thu TK 511 với doanh thu trên hoá đơn,** vì hai số này có thể khác nhau (TT99 nguyên tắc doanh thu mục 5).
@@ -125,4 +127,6 @@ Bài không dạy lập tờ khai, nhưng từ các quy định trên có thể 
 - Thông tư 99/2025/TT-BTC, Phụ lục II: TK 333 (mục 1.c, 2, mô tả TK 3331, 33311, 33312, 3.1.1, 3.1.3, 3.1.4, 3.1.5). https://expertis.vn/wp-content/uploads/2026/01/Loai-tai-khoan-no-phai-tra-TK-331-⟶-357.pdf
 - Thông tư 99/2025/TT-BTC, Phụ lục II: TK 133 (mục 1, 2). https://expertis.vn/wp-content/uploads/2026/01/Loai-tai-khoan-tai-san-TK-111-⟶-244.pdf
 - Thông tư 99/2025/TT-BTC, Phụ lục II, phần B: nguyên tắc kế toán các khoản doanh thu (mục 4, 5); TK 521 (mục 3). https://expertis.vn/van-ban/phu-luc-ii-thong-tu-99-2025-tt-btc/
-- Nghị định 70/2025/NĐ-CP sửa đổi Nghị định 123/2020/NĐ-CP, khoản 7 Điều 1 (Điều 10 khoản 9) và khoản 13 Điều 1 (Điều 19 khoản 4, 5). https://luatvietnam.vn/tai-chinh/nghi-dinh-70-2025-nd-cp-cua-chinh-phu-sua-doi-bo-sung-mot-so-dieu-cua-nghi-dinh-123-2020-nd-cp-ngay-19-10-2020-cua-chinh-phu-quy-dinh-ve-hoa-don-chung-tu-394682-d1.html
+- Nghị định 254/2026/NĐ-CP: Phụ lục "Nội dung của hoá đơn" điểm 7 (thời điểm ký số, thời điểm khai thuế); Điều 43 (hiệu lực, văn bản hết hiệu lực). https://luatvietnam.vn/thue/nghi-dinh-254-2026-nd-cp-huong-dan-thi-hanh-luat-quan-ly-thue-2025-ve-hoa-don-dien-tu-439381-d1.html
+- Thông tư 91/2026/TT-BTC: Điều 10 khoản 1, 5, khoản 6 điểm d. https://luatvietnam.vn/thue/thong-tu-91-2026-tt-btc-quy-dinh-luat-quan-ly-thue-va-hoa-don-dien-tu-439780-d1.html
+- EY Việt Nam, Tin nhanh về Thuế tháng 7/2026 "Nghị định 254/2026/NĐ-CP về hóa đơn điện tử và chứng từ điện tử", mục 6: https://www.ey.com/content/dam/ey-unified-site/ey-com/vi-vn/technical/tax/documents/ey-vn-decree-254-on-electronic-invoices-and-electronic-documents.pdf
