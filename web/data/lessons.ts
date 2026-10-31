@@ -64,7 +64,7 @@ const ktvnLessons: Lesson[] = [
     description: "Theo dõi theo khách và hoá đơn, tuổi nợ, đối trừ, trích dự phòng và dữ liệu cần có.", file: "ke-toan-vn/kt-21-cong-no-phai-thu.md" },
   { slug: "kt-22-thue-gtgt-dau-ra", courseId: "KT-VN", title: "Thuế GTGT đầu ra và quyết toán VAT cuối kỳ", shortTitle: "VAT đầu ra", chapter: "kt-ch4", order: 22, available: true,
     description: "VAT theo thuế suất, bù trừ đầu vào, báo cáo hệ thống cần cung cấp cho kê khai.", file: "ke-toan-vn/kt-22-thue-gtgt-dau-ra.md" },
-  { slug: "kt-23-dinh-gia-ton-kho", courseId: "KT-VN", title: "Định giá hàng tồn kho và giá vốn trong hệ thống", shortTitle: "Định giá tồn kho", chapter: "kt-ch5", order: 23, available: false,
+  { slug: "kt-23-dinh-gia-ton-kho", courseId: "KT-VN", title: "Định giá hàng tồn kho và giá vốn trong hệ thống", shortTitle: "Định giá tồn kho", chapter: "kt-ch5", order: 23, available: true,
     description: "FIFO, bình quân, đích danh; kê khai thường xuyên và kiểm kê định kỳ; định giá tự động và xuất âm kho.", file: "ke-toan-vn/kt-23-dinh-gia-ton-kho.md" },
   { slug: "kt-24-kiem-ke-du-phong", courseId: "KT-VN", title: "Kiểm kê, điều chỉnh tồn kho và dự phòng giảm giá", shortTitle: "Kiểm kê, dự phòng", chapter: "kt-ch5", order: 24, available: false,
     description: "Chênh lệch kiểm kê, xuất huỷ, giá trị thuần có thể thực hiện, dữ liệu để trích dự phòng.", file: "ke-toan-vn/kt-24-kiem-ke-du-phong.md" },

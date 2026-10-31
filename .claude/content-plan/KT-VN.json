@@ -291,7 +291,7 @@
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 131, 157, 511, 632"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: VAT đầu ra đã kê khai khi doanh thu chưa đủ điều kiện ghi nhận"
     },
     {
       "slug": "kt-18-giam-tru-tra-truoc",
@@ -318,7 +318,7 @@
         "Nghị định 123/2020/NĐ-CP về hoá đơn, chứng từ và văn bản sửa đổi"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: nhận lại hàng ở TK 157; hoá đơn đổi hàng cùng giá trị; cách ghi đổi hàng"
     },
     {
       "slug": "kt-20-khuyen-mai-voucher-combo",
@@ -333,7 +333,7 @@
         "Nghị định 123/2020/NĐ-CP về hoá đơn, chứng từ và văn bản sửa đổi"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: phân bổ doanh thu combo; voucher/thẻ quà tặng; hạn mức KM sau NĐ 128/2024, 239/2026; giá trị dòng KM trên hoá đơn"
     },
     {
       "slug": "kt-21-cong-no-phai-thu",
@@ -346,7 +346,7 @@
         "Đề cương Kế toán tài chính 1 – HVNH (ACT02A), mục 1.2"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: TT48/2019 (sửa TT24/2022) hiệu lực 2026"
     },
     {
       "slug": "kt-22-thue-gtgt-dau-ra",
@@ -359,7 +359,7 @@
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 3331"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: chuyển thuế đầu vào chưa khấu trừ hết sang kỳ sau"
     },
     {
       "slug": "kt-23-dinh-gia-ton-kho",
@@ -372,7 +372,7 @@
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 152, 153, 155, 156, 632",
         "Odoo 19 Documentation (odoo.com/documentation/19.0), Inventory valuation"
       ],
-      "status": "in-progress",
+      "status": "done",
       "note": ""
     },
     {
