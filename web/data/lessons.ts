@@ -76,7 +76,7 @@ const ktvnLessons: Lesson[] = [
     description: "Chi phí NVL, nhân công, sản xuất chung tập hợp vào 154, nhập kho thành phẩm, bút toán từng bước.", file: "ke-toan-vn/kt-27-chi-phi-san-xuat.md" },
   { slug: "kt-28-gia-thanh", courseId: "KT-VN", title: "Tính giá thành: các phương án cần chốt với khách", shortTitle: "Giá thành", chapter: "kt-ch5", order: 28, available: true,
     description: "Đối tượng tính giá thành, phân bổ sản xuất chung, dở dang, giá định mức và thực tế.", file: "ke-toan-vn/kt-28-gia-thanh.md" },
-  { slug: "kt-29-vong-doi-tscd", courseId: "KT-VN", title: "Vòng đời tài sản cố định: ghi nhận, khấu hao, thanh lý", shortTitle: "Vòng đời TSCĐ", chapter: "kt-ch6", order: 29, available: false,
+  { slug: "kt-29-vong-doi-tscd", courseId: "KT-VN", title: "Vòng đời tài sản cố định: ghi nhận, khấu hao, thanh lý", shortTitle: "Vòng đời TSCĐ", chapter: "kt-ch6", order: 29, available: true,
     description: "Ghi nhận, nguyên giá, XDCB dở dang, khấu hao, nâng cấp, điều chuyển, thanh lý, nhượng bán.", file: "ke-toan-vn/kt-29-vong-doi-tscd.md" },
   { slug: "kt-30-ccdc-tra-truoc-trich-truoc", courseId: "KT-VN", title: "Công cụ dụng cụ, chi phí trả trước, chi phí phải trả và phân bổ tự động", shortTitle: "CCDC và phân bổ", chapter: "kt-ch6", order: 30, available: false,
     description: "Ghi tăng, phân bổ, thanh lý CCDC; chi phí trả trước; trích trước chi phí chưa có hoá đơn; lịch phân bổ.", file: "ke-toan-vn/kt-30-ccdc-tra-truoc-trich-truoc.md" },

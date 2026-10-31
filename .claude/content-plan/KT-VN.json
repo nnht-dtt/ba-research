@@ -453,7 +453,7 @@
         "Thông tư 45/2013/TT-BTC và văn bản sửa đổi",
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 211, 213, 214, 241"
       ],
-      "status": "in-progress",
+      "status": "done",
       "note": ""
     },
     {
@@ -559,7 +559,7 @@
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 821, 3334"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: chi được trừ theo NĐ 320/2025, TT 20/2026"
     },
     {
       "slug": "kt-38-he-thong-bctc",
@@ -573,7 +573,7 @@
         "VAS 21; VAS 27"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: năm tài chính bắt đầu trước 01/01/2026 lập theo mẫu nào"
     },
     {
       "slug": "kt-39-bao-cao-tinh-hinh-tai-chinh",
