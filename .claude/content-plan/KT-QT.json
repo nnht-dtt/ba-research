@@ -89,7 +89,7 @@
         "Odoo 19 Documentation (odoo.com/documentation/19.0), Multi-company"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: đồng tiền trung gian khi NH không công bố tỷ giá (TT43 Điều 58)"
     },
     {
       "slug": "ktqt-03-giao-dich-noi-bo",
@@ -102,7 +102,7 @@
         "Đề cương Kế toán tài chính 2 – HVNH (ACT13A), mục 3"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: VAT với chi hộ giữa pháp nhân"
     },
     {
       "slug": "ktqt-04-bctc-hop-nhat",
@@ -116,7 +116,7 @@
         "Đề cương Kế toán quốc tế – HVNH (ACT07A), mục 3"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: Phụ lục II TT43 bảng tổng hợp; VAS 25 đoạn 24 vs TT202 Điều 21 về lỗ vượt phần NCI"
     },
     {
       "slug": "ktqt-05-giao-dich-ngoai-te",
@@ -240,7 +240,7 @@
         "IFRS 15, hướng dẫn bên chính và đại lý (IFRS Foundation)",
         "Odoo 19 Documentation (odoo.com/documentation/19.0), eCommerce và marketplace connectors"
       ],
-      "status": "in-progress",
+      "status": "done",
       "note": ""
     },
     {

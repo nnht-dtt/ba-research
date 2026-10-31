@@ -144,7 +144,7 @@ const ktqtLessons: Lesson[] = [
     description: "Phí quản lý, bản quyền, vay mẹ; thuế nhà thầu nước ngoài; giao dịch liên kết; đối chiếu liên công ty xuyên biên giới.", file: "ke-toan-tap-doan/ktqt-11-giao-dich-cong-ty-me.md" },
   { slug: "ktqt-12-bao-cao-cho-tap-doan", courseId: "KT-QT", title: "Gói báo cáo tập đoàn, lịch khoá sổ và đối chiếu lợi nhuận VAS – IFRS", shortTitle: "Báo cáo cho tập đoàn", chapter: "ktqt-ch3", order: 12, available: false,
     description: "Gói báo cáo gửi công ty mẹ, khoá sổ theo lịch tập đoàn, năm tài chính lệch nhau, bảng đối chiếu lợi nhuận và vốn chủ.", file: "ke-toan-tap-doan/ktqt-12-bao-cao-cho-tap-doan.md" },
-  { slug: "ktqt-13-doanh-thu-kenh-online", courseId: "KT-QT", title: "Bán hàng qua sàn và kênh online: doanh thu gộp hay thuần", shortTitle: "Doanh thu kênh online", chapter: "ktqt-ch4", order: 13, available: false,
+  { slug: "ktqt-13-doanh-thu-kenh-online", courseId: "KT-QT", title: "Bán hàng qua sàn và kênh online: doanh thu gộp hay thuần", shortTitle: "Doanh thu kênh online", chapter: "ktqt-ch4", order: 13, available: true,
     description: "Doanh nghiệp là bên chính hay đại lý, ghi nhận doanh thu theo giá khách trả hay số sàn chuyển về, pháp nhân sở hữu shop.", file: "ke-toan-tap-doan/ktqt-13-doanh-thu-kenh-online.md" },
   { slug: "ktqt-14-phi-san-cong-thanh-toan", courseId: "KT-QT", title: "Phí sàn, cổng thanh toán, vận chuyển: ghi nhận lúc nào", shortTitle: "Phí sàn và cổng TT", chapter: "ktqt-ch4", order: 14, available: false,
     description: "Phí trừ theo đơn và phí cuối kỳ, ghi nhận khi phát sinh đơn hay khi quyết toán, tài khoản chi phí, hoá đơn của sàn.", file: "ke-toan-tap-doan/ktqt-14-phi-san-cong-thanh-toan.md" },
