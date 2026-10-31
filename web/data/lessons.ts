@@ -134,7 +134,7 @@ const ktqtLessons: Lesson[] = [
     description: "Điều kiện dùng ngoại tệ làm đơn vị tiền tệ kế toán theo TT99, đồng tiền chức năng và trình bày theo IAS 21, chuyển đổi BCTC, chênh lệch chuyển đổi.", file: "ke-toan-tap-doan/ktqt-06-don-vi-tien-te-chuyen-doi.md" },
   { slug: "ktqt-07-vas-ifrs", courseId: "KT-QT", title: "VAS và IFRS: khác biệt chính và lộ trình áp dụng", shortTitle: "VAS và IFRS", chapter: "ktqt-ch3", order: 7, available: true,
     description: "Khác biệt cách tiếp cận và các điểm trọng yếu, lộ trình QĐ 345.", file: "ke-toan-tap-doan/ktqt-07-vas-ifrs.md" },
-  { slug: "ktqt-08-dieu-chinh-vas-ifrs", courseId: "KT-QT", title: "Các điều chỉnh VAS sang IFRS thường gặp và dữ liệu hệ thống cần có", shortTitle: "Điều chỉnh VAS–IFRS", chapter: "ktqt-ch3", order: 8, available: false,
+  { slug: "ktqt-08-dieu-chinh-vas-ifrs", courseId: "KT-QT", title: "Các điều chỉnh VAS sang IFRS thường gặp và dữ liệu hệ thống cần có", shortTitle: "Điều chỉnh VAS–IFRS", chapter: "ktqt-ch3", order: 8, available: true,
     description: "IFRS 16, IFRS 15, IFRS 9, IAS 16, IAS 12, IAS 37; mỗi điều chỉnh cần dữ liệu gì.", file: "ke-toan-tap-doan/ktqt-08-dieu-chinh-vas-ifrs.md" },
   { slug: "ktqt-09-mapping-coa-tap-doan", courseId: "KT-QT", title: "Mapping hệ thống tài khoản địa phương sang COA tập đoàn", shortTitle: "Mapping COA", chapter: "ktqt-ch3", order: 9, available: false,
     description: "Mapping 1-1, nhiều-1, 1-nhiều; tách bằng đối tác, analytic hay tài khoản chi tiết; cấu trúc bảng mapping, kiểm tra đầy đủ, quản lý thay đổi.", file: "ke-toan-tap-doan/ktqt-09-mapping-coa-tap-doan.md" },
