@@ -79,7 +79,7 @@
         "Luật Kế toán 88/2015/QH13, Chương I",
         "Giáo trình Nguyên lý kế toán (đề cương CTU, UFM, Sao Đỏ)"
       ],
-      "status": "in-progress",
+      "status": "done",
       "note": ""
     },
     {
@@ -172,7 +172,7 @@
         "Bản so sánh TT99 và TT200 (KPMG, Grant Thornton, ĐH Duy Tân)"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: DN dùng kiểm kê định kỳ khi TT99 bỏ TK 611, 631"
     },
     {
       "slug": "kt-09-chung-tu-hoa-don",
@@ -213,7 +213,7 @@
         "Nghị định 123/2020/NĐ-CP về hoá đơn, chứng từ và văn bản sửa đổi"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: bút toán đảo có là ghi điều chỉnh theo Điều 27; kỳ kê khai HĐ điều chỉnh sau TT91"
     },
     {
       "slug": "kt-12-quy-trinh-mua-hang",

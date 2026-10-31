@@ -20,7 +20,7 @@ const guideChapters: Chapter[] = [
 // KT-VN — Nghiệp vụ kế toán doanh nghiệp Việt Nam cho BA
 // =====================================================================
 const ktvnLessons: Lesson[] = [
-  { slug: "kt-01-ba-va-ke-toan", courseId: "KT-VN", title: "Kế toán trong dự án ERP: BA cần hiểu đến đâu", shortTitle: "BA và kế toán", chapter: "kt-ch1", order: 1, available: false,
+  { slug: "kt-01-ba-va-ke-toan", courseId: "KT-VN", title: "Kế toán trong dự án ERP: BA cần hiểu đến đâu", shortTitle: "BA và kế toán", chapter: "kt-ch1", order: 1, available: true,
     description: "Kế toán là gì theo luật, kế toán tài chính và quản trị, vì sao mọi nghiệp vụ trong ERP kết thúc ở sổ cái.", file: "ke-toan-vn/kt-01-ba-va-ke-toan.md" },
   { slug: "kt-02-khung-phap-ly", courseId: "KT-VN", title: "Khung pháp lý: luật, chuẩn mực VAS, chế độ kế toán", shortTitle: "Khung pháp lý", chapter: "kt-ch1", order: 2, available: false,
     description: "Ba tầng văn bản, tầng nào quyết định cấu hình hệ thống, VFRS/IFRS nằm ở đâu.", file: "ke-toan-vn/kt-02-khung-phap-ly.md" },
