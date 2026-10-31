@@ -22,7 +22,7 @@ const guideChapters: Chapter[] = [
 const ktvnLessons: Lesson[] = [
   { slug: "kt-01-ba-va-ke-toan", courseId: "KT-VN", title: "Kế toán trong dự án ERP: BA cần hiểu đến đâu", shortTitle: "BA và kế toán", chapter: "kt-ch1", order: 1, available: true,
     description: "Kế toán là gì theo luật, kế toán tài chính và quản trị, vì sao mọi nghiệp vụ trong ERP kết thúc ở sổ cái.", file: "ke-toan-vn/kt-01-ba-va-ke-toan.md" },
-  { slug: "kt-02-khung-phap-ly", courseId: "KT-VN", title: "Khung pháp lý: luật, chuẩn mực VAS, chế độ kế toán", shortTitle: "Khung pháp lý", chapter: "kt-ch1", order: 2, available: false,
+  { slug: "kt-02-khung-phap-ly", courseId: "KT-VN", title: "Khung pháp lý: luật, chuẩn mực VAS, chế độ kế toán", shortTitle: "Khung pháp lý", chapter: "kt-ch1", order: 2, available: true,
     description: "Ba tầng văn bản, tầng nào quyết định cấu hình hệ thống, VFRS/IFRS nằm ở đâu.", file: "ke-toan-vn/kt-02-khung-phap-ly.md" },
   { slug: "kt-03-che-do-ke-toan", courseId: "KT-VN", title: "Chế độ kế toán doanh nghiệp: TT99, TT133, TT58", shortTitle: "Chế độ kế toán", chapter: "kt-ch1", order: 3, available: false,
     description: "Đối tượng áp dụng, thay đổi của TT99 so với TT200 tác động tới hệ thống, quyền tự thiết kế tài khoản, chứng từ, sổ.", file: "ke-toan-vn/kt-03-che-do-ke-toan.md" },
