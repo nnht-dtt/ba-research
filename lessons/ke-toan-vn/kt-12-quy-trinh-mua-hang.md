@@ -12,7 +12,7 @@ Một giao dịch mua hàng hoá, vật tư thường đi qua năm bước:
 4. **Hoá đơn của người bán**: căn cứ ghi nhận giá mua và thuế GTGT đầu vào.
 5. **Thanh toán**: trả tiền cho người bán (hoặc ứng trước từ trước khi nhận hàng).
 
-Đề nghị mua và đơn mua là chứng từ quản lý nội bộ và chứng từ cam kết. Ở hai bước này doanh nghiệp chưa nhận tài sản và chưa có khoản nợ đối với người bán, nên chưa có bút toán trên sổ cái. TT99 định nghĩa phải trả cho người bán là khoản phải trả "phát sinh từ giao dịch mua hàng hóa, dịch vụ, tài sản". Bút toán bắt đầu khi hàng hoặc hoá đơn về.
+Đề nghị mua và đơn mua là chứng từ quản lý nội bộ và chứng từ cam kết. Ở hai bước này doanh nghiệp chưa nhận tài sản và chưa có khoản nợ đối với người bán, nên chưa có bút toán trên sổ cái. TT99 định nghĩa phải trả cho người bán là khoản phải trả "phát sinh từ giao dịch mua hàng hóa, dịch vụ, tài sản". Bút toán bắt đầu khi hàng hoặc hoá đơn về. Riêng hàng hoá, vật tư có hoá đơn về trước mà hàng chưa về thì trong kỳ chưa ghi sổ, chỉ ghi vào TK 151 nếu đến cuối kỳ hàng vẫn chưa về (xem mục dưới).
 
 <step-flow>
 <svg viewBox="0 0 700 170" role="img" aria-labelledby="kt12f-t" style="width:100%;max-width:700px;height:auto;display:block;margin:1.25rem auto" font-family="ui-sans-serif, system-ui, sans-serif">

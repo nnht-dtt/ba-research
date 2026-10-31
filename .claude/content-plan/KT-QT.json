@@ -89,7 +89,7 @@
         "Odoo 19 Documentation (odoo.com/documentation/19.0), Multi-company"
       ],
       "status": "done",
-      "note": "Cần xác nhận: đồng tiền trung gian khi NH không công bố tỷ giá (TT43 Điều 58)"
+      "note": ""
     },
     {
       "slug": "ktqt-03-giao-dich-noi-bo",
@@ -102,7 +102,7 @@
         "Đề cương Kế toán tài chính 2 – HVNH (ACT13A), mục 3"
       ],
       "status": "done",
-      "note": "Cần xác nhận: VAT với chi hộ giữa pháp nhân"
+      "note": "Cần xác nhận: VAT với chi hộ giữa pháp nhân [soát lại 31/10/2026: còn 1 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-04-bctc-hop-nhat",
@@ -116,7 +116,7 @@
         "Đề cương Kế toán quốc tế – HVNH (ACT07A), mục 3"
       ],
       "status": "done",
-      "note": "Cần xác nhận: Phụ lục II TT43 bảng tổng hợp; VAS 25 đoạn 24 vs TT202 Điều 21 về lỗ vượt phần NCI"
+      "note": "Cần xác nhận: Phụ lục II TT43 bảng tổng hợp; VAS 25 đoạn 24 vs TT202 Điều 21 về lỗ vượt phần NCI [soát lại 31/10/2026: còn 1 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-05-giao-dich-ngoai-te",
@@ -130,7 +130,7 @@
         "Đề cương Kế toán quốc tế – HVNH (ACT07A)"
       ],
       "status": "done",
-      "note": "Cần xác nhận: VAS 10 đoạn 12a vs TT99 về treo chênh lệch tỷ giá giai đoạn đầu tư; Odoo tỷ giá ghi sổ"
+      "note": "Cần xác nhận: VAS 10 đoạn 12a vs TT99 về treo chênh lệch tỷ giá giai đoạn đầu tư; Odoo tỷ giá ghi sổ [soát lại 31/10/2026: còn 2 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-06-don-vi-tien-te-chuyen-doi",
@@ -144,7 +144,7 @@
         "VAS 10; IAS 21 (IFRS Foundation)"
       ],
       "status": "done",
-      "note": "Cần xác nhận: tỷ giá cột so sánh TT99 Điều 5; IAS 21 khoản mục vốn chủ"
+      "note": "Cần xác nhận: tỷ giá cột so sánh TT99 Điều 5; IAS 21 khoản mục vốn chủ [soát lại 31/10/2026: còn 3 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-07-vas-ifrs",
@@ -157,7 +157,7 @@
         "KPMG Việt Nam, Differences between Vietnamese GAAP and IFRS (2025)"
       ],
       "status": "done",
-      "note": "Cần xác nhận: VFRS ban hành chưa; mốc bắt buộc IFRS; TT118/2026 (IFC)"
+      "note": "Cần xác nhận: VFRS ban hành chưa; mốc bắt buộc IFRS; TT118/2026 (IFC) [soát lại 31/10/2026: còn 2 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-08-dieu-chinh-vas-ifrs",
@@ -171,7 +171,7 @@
         "Deloitte Việt Nam, From VAS to IFRS"
       ],
       "status": "done",
-      "note": "Cần xác nhận: cơ sở tính thuế IAS 12"
+      "note": "Cần xác nhận: cơ sở tính thuế IAS 12 [soát lại 31/10/2026: còn 1 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-09-mapping-coa-tap-doan",
@@ -185,7 +185,7 @@
         "KPMG Việt Nam, Conversion to IFRS"
       ],
       "status": "done",
-      "note": "Cần xác nhận: tiêu chí tách mapping 1-nhiều; cột quản trị bảng mapping; trình bày lại số so sánh"
+      "note": "Cần xác nhận: tiêu chí tách mapping 1-nhiều; cột quản trị bảng mapping; trình bày lại số so sánh [soát lại 31/10/2026: còn 3 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-10-kien-truc-so-hai-chuan",
@@ -199,7 +199,7 @@
         "Deloitte Việt Nam, From VAS to IFRS"
       ],
       "status": "done",
-      "note": "Cần xác nhận: Odoo Multi-Ledgers làm sổ song song cho một pháp nhân; COA thay thế với TT99 Điều 11, 28"
+      "note": "Cần xác nhận: Odoo Multi-Ledgers làm sổ song song cho một pháp nhân; COA thay thế với TT99 Điều 11, 28 [soát lại 31/10/2026: còn 2 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-11-giao-dich-cong-ty-me",
@@ -214,7 +214,7 @@
         "IAS 24"
       ],
       "status": "done",
-      "note": "NĐ 255/2026 thay NĐ 132/2020; TT89/2026 thay TT103/2014 (chưa đọc gốc); Cần xác nhận: TK 3339 hay 3338"
+      "note": "NĐ 255/2026 thay NĐ 132/2020; TT89/2026 thay TT103/2014 (chưa đọc gốc); Cần xác nhận: TK 3339 hay 3338 [soát lại 31/10/2026: còn 3 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-12-bao-cao-cho-tap-doan",
@@ -227,7 +227,7 @@
         "Deloitte Việt Nam, From VAS to IFRS"
       ],
       "status": "done",
-      "note": "Cần xác nhận: giới hạn chênh lệch ngày báo cáo IFRS 10 phụ lục B"
+      "note": "Cần xác nhận: giới hạn chênh lệch ngày báo cáo IFRS 10 phụ lục B [soát lại 31/10/2026: còn 2 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-13-doanh-thu-kenh-online",
@@ -241,7 +241,7 @@
         "Odoo 19 Documentation (odoo.com/documentation/19.0), eCommerce và marketplace connectors"
       ],
       "status": "done",
-      "note": "Cần xác nhận: voucher sàn tài trợ, doanh thu trước/sau voucher"
+      "note": "Cần xác nhận: voucher sàn tài trợ, doanh thu trước/sau voucher [soát lại 31/10/2026: còn 1 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-14-phi-san-cong-thanh-toan",
@@ -254,7 +254,7 @@
         "VAS 01, nguyên tắc dồn tích và phù hợp"
       ],
       "status": "done",
-      "note": "Cần xác nhận: Điều 9 NĐ 254 bản gốc; phí cổng TT vào 641 hay 642"
+      "note": "Cần xác nhận: Điều 9 NĐ 254 bản gốc; phí cổng TT vào 641 hay 642 [soát lại 31/10/2026: còn 1 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-15-doi-soat-san-cod",
@@ -267,7 +267,7 @@
         "Odoo 19 Documentation (odoo.com/documentation/19.0), Bank reconciliation"
       ],
       "status": "done",
-      "note": "Cần xác nhận: TK 131 chi tiết theo sàn hay 1388; dùng TK 113"
+      "note": "Cần xác nhận: TK 131 chi tiết theo sàn hay 1388; dùng TK 113 [soát lại 31/10/2026: còn 1 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-16-hoa-don-kenh-online",
@@ -280,7 +280,7 @@
         "Nghị định 117/2025/NĐ-CP (phạm vi: hộ, cá nhân kinh doanh trên sàn)"
       ],
       "status": "done",
-      "note": "Cần xác nhận: văn bản gốc NĐ 254, TT 91; mốc chuyển quyền sở hữu với COD; hoá đơn tổng hợp"
+      "note": "Cần xác nhận: văn bản gốc NĐ 254, TT 91; mốc chuyển quyền sở hữu với COD; hoá đơn tổng hợp [soát lại 31/10/2026: còn 2 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-17-vat-eu-uk",
@@ -294,7 +294,7 @@
         "HMRC, VAT on goods sold to customers in the UK"
       ],
       "status": "done",
-      "note": "Cần xác nhận: thuế hải quan 3 EUR/dòng từ 01/07/2026; Điều 14a Chỉ thị VAT; TK TT99 cho VAT nước ngoài"
+      "note": "Cần xác nhận: thuế hải quan 3 EUR/dòng từ 01/07/2026; Điều 14a Chỉ thị VAT; TK TT99 cho VAT nước ngoài [soát lại 31/10/2026: còn 3 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-18-sales-tax-my",
@@ -308,7 +308,7 @@
         "Trang cơ quan thuế các bang liên quan"
       ],
       "status": "done",
-      "note": "Cần xác nhận: ngưỡng bang (SST 11/2023); kho sàn tạo physical nexus; TK TT99 cho sales tax"
+      "note": "Cần xác nhận: ngưỡng bang (SST 11/2023); kho sàn tạo physical nexus; TK TT99 cho sales tax [soát lại 31/10/2026: còn 3 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-19-thue-da-quoc-gia",
@@ -321,7 +321,7 @@
         "Các nguồn của bài VAT EU, UK và sales tax Mỹ"
       ],
       "status": "done",
-      "note": "Cần xác nhận: NĐ117 có áp DN không; Odoo multi-company tax; TT99 TK 3338 vs 3339 thuế nhà thầu"
+      "note": "Cần xác nhận: NĐ117 có áp DN không; Odoo multi-company tax; TT99 TK 3338 vs 3339 thuế nhà thầu [soát lại 31/10/2026: còn 2 ô Cần xác nhận trong bài]"
     },
     {
       "slug": "ktqt-20-case-tap-doan-da-kenh",
@@ -333,7 +333,7 @@
         "Tổng hợp từ các bài trong khoá"
       ],
       "status": "done",
-      "note": "Ví dụ giả định; Cần xác nhận mới: VAT xuất khẩu và thuế nhập khẩu Mỹ; trình bày thuế nhà thầu khi loại trừ phí quản lý"
+      "note": "Ví dụ giả định; Cần xác nhận mới: VAT xuất khẩu và thuế nhập khẩu Mỹ; trình bày thuế nhà thầu khi loại trừ phí quản lý [soát lại 31/10/2026: còn 9 ô Cần xác nhận trong bài]"
     }
   ]
 }

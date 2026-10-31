@@ -89,6 +89,7 @@ Odoo 19 phân loại địa điểm theo đúng câu hỏi này (tài liệu Val
 |---|---|---|
 | Internal | Có | Kho, khu nhận hàng, kiểm chất lượng, đóng gói, xuất hàng |
 | Transit | Có | Hàng đang chuyển giữa hai kho của cùng công ty |
+| Customers/Rental | Có | Hàng đang cho khách thuê |
 | Vendors | Không | Hàng chưa nhận từ nhà cung cấp |
 | Customers | Không | Hàng đã giao cho khách |
 | Production | Không | Nơi tiêu hao nguyên liệu và tạo ra thành phẩm |

@@ -47,9 +47,7 @@ Dù chọn cách nào, cuối kỳ phải xử lý phần phí của đơn đã 
 
 ## Hoá đơn của sàn thường về sau đơn hàng
 
-Theo Nghị định 254/2026/NĐ-CP (hiệu lực từ 01/7/2026, thay Nghị định 123/2020/NĐ-CP), dịch vụ thương mại điện tử, dịch vụ công nghệ số và nền tảng số, dịch vụ logistic, dịch vụ bưu chính và chuyển phát (kể cả thu hộ, chi hộ), dịch vụ trung gian thanh toán... thuộc nhóm được lập hoá đơn khi hoàn thành đối soát dữ liệu giữa các bên, chậm nhất ngày 07 của tháng sau tháng phát sinh dịch vụ hoặc 07 ngày kể từ ngày kết thúc kỳ quy ước (theo trích dẫn điểm a khoản 4 Điều 9 trong bài của Kế toán Lê Ánh; Forvis Mazars và EY xác nhận việc mở rộng danh sách ngành được lập hoá đơn sau đối soát).
-
-> ⚠️ Cần xác nhận: số khoản, điểm và danh sách đầy đủ trong Điều 9 Nghị định 254/2026/NĐ-CP với văn bản gốc. Nguồn đã đọc là bản tóm tắt của EY, Forvis Mazars và bài trích dẫn của Kế toán Lê Ánh, chưa đọc được văn bản gốc trên cổng Chính phủ.
+Theo điểm a khoản 4 Điều 9 Nghị định 254/2026/NĐ-CP (hiệu lực từ 01/7/2026, thay Nghị định 123/2020/NĐ-CP), với hàng hoá, dịch vụ số lượng lớn, phát sinh thường xuyên, cần thời gian đối soát số liệu, trong đó có dịch vụ thương mại điện tử, dịch vụ bưu chính và chuyển phát (kể cả dịch vụ đại lý, thu hộ, chi hộ), dịch vụ logistic, dịch vụ công nghệ số, nền tảng số, dịch vụ công nghệ thông tin (kể cả dịch vụ trung gian thanh toán, trừ trường hợp ở điểm b) được bán theo kỳ nhất định, thời điểm lập hoá đơn là thời điểm hoàn thành đối soát dữ liệu giữa các bên, chậm nhất ngày 07 của tháng sau tháng phát sinh dịch vụ hoặc 07 ngày kể từ ngày kết thúc kỳ quy ước. Forvis Mazars và EY cũng ghi nhận việc mở rộng danh sách ngành được lập hoá đơn sau đối soát.
 
 Hệ quả cho thiết kế: phí của tháng N thường có hoá đơn trong tháng N+1. Luồng hợp lý:
 
@@ -129,6 +127,7 @@ Khi khảo sát, BA cần biết hệ thống lấy phí theo đơn từ đâu (
 
 - Chuẩn mực kế toán Việt Nam số 01 "Chuẩn mực chung" (ban hành theo Quyết định 165/2002/QĐ-BTC), đoạn 03, 06, 44, 45: https://caselaw.vn/van-ban-phap-luat/234275-quyet-dinh-so-165-2002-qd-btc-ngay-31-12-2002-ban-hanh-va-cong-bo-sau-06-chuan-muc-ke-toan-viet-nam-cua-bo-truong-bo-tai-chinh
 - Thông tư 99/2025/TT-BTC, Phụ lục II Mục B: nguyên tắc kế toán các khoản doanh thu (điểm 2, 4); TK 131 mục 3.2; TK 331 (nguyên tắc mục b, kết cấu, số dư Nợ); TK 335 (nguyên tắc mục a, d); TK 635 (nguyên tắc mục a, b); TK 641 (nguyên tắc a, d; TK cấp 2 6412, 6417, 6418; bên Có); TK 511 mục 3.8a. Toàn văn: https://luatvietnam.vn/linh-vuc-khac/tai-thong-tu-99-2025-tt-btc-huong-dan-che-do-ke-toan-doanh-nghiep-186-105034-article.html
+- Nghị định 254/2026/NĐ-CP ngày 30/6/2026 về hoá đơn điện tử, chứng từ điện tử, Điều 9 khoản 4 điểm a (toàn văn): https://luatvietnam.vn/thue/nghi-dinh-254-2026-nd-cp-huong-dan-thi-hanh-luat-quan-ly-thue-2025-ve-hoa-don-dien-tu-439381-d1.html
 - EY Việt Nam, Tin nhanh về Thuế tháng 7/2026 "Nghị định 254/2026/NĐ-CP về hóa đơn điện tử và chứng từ điện tử", mục 4: https://www.ey.com/content/dam/ey-unified-site/ey-com/vi-vn/technical/tax/documents/ey-vn-decree-254-on-electronic-invoices-and-electronic-documents.pdf
 - Forvis Mazars Việt Nam, Bản tin "Cập nhật các điểm đáng chú ý trong Nghị định 254/2026/NĐ-CP và Thông tư 91/2026/TT-BTC", mục 4: https://www.forvismazars.com/vn/vi/n-ph-m-s-ki-n/c-p-nh-t-v-vi-t-nam/b-n-tin-thong-bao-chuyen-mon/b-n-tin-v-thu-va-phap-ly/ngh-d-nh-254-va-thong-t-91
 - Kế toán Lê Ánh, "Thời điểm lập hóa đơn từ 01/7/2026 theo Nghị định 254/2026/NĐ-CP và Thông tư 91/2026/TT-BTC" (trích khoản 4 Điều 9, dùng để đối chiếu): https://ketoanleanh.edu.vn/kinh-nghiem-ke-toan/thoi-diem-lap-hoa-don-dien-tu.html

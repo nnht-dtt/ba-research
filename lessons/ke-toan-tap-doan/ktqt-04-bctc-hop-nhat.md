@@ -91,7 +91,7 @@ TT202 Điều 11 quy định trình tự:
 
 Các bút toán điều chỉnh khi hợp nhất ghi theo tên chỉ tiêu báo cáo ("Nợ Doanh thu bán hàng và cung cấp dịch vụ", "Có Đầu tư vào công ty con"), không ghi theo số hiệu tài khoản, vì chúng không vào sổ của pháp nhân nào. TT202 Điều 12 quy định hai bảng làm việc: Bảng tổng hợp bút toán điều chỉnh (mẫu BTH 01-HN) và Bảng tổng hợp các chỉ tiêu hợp nhất (mẫu BTH 02-HN), thuộc phụ lục của Thông tư.
 
-> ⚠️ Cần xác nhận: TT43/2026 thay Phụ lục 2 của TT202 bằng Phụ lục II mới. Bài này chưa đối chiếu ký hiệu và cột của các bảng tổng hợp trong Phụ lục II mới.
+TT43/2026 thay Phụ lục 2 của TT202 bằng Phụ lục II mới nhưng giữ nguyên ký hiệu hai bảng: BTH01-HN có các cột số hiệu bút toán, ngày tháng, diễn giải, Nợ, Có và được lập cho từng chỉ tiêu; BTH02-HN có các cột chỉ tiêu, mã số, số của công ty mẹ, từng công ty con, tổng cộng, điều chỉnh Nợ, điều chỉnh Có và số hợp nhất. Phụ lục II còn có bảng tổng hợp theo dõi các khoản đầu tư vào công ty liên doanh, liên kết.
 
 ## Bước 2: loại trừ khoản đầu tư vào công ty con
 
@@ -99,11 +99,11 @@ Trên BCTC riêng, công ty mẹ ghi khoản đầu tư vào công ty con theo g
 
 TT202 Điều 14 và 16: tại ngày mua, tài sản và nợ phải trả của công ty con được ghi nhận theo giá trị hợp lý; lợi thế thương mại là chênh lệch giữa giá phí khoản đầu tư và phần sở hữu của công ty mẹ trong giá trị hợp lý của tài sản thuần có thể xác định được của công ty con tại ngày mua. Bút toán loại trừ có dạng:
 
-- Nợ các chỉ tiêu thuộc vốn chủ sở hữu của công ty con (theo giá trị ghi sổ, tại ngày mua)
+- Nợ các chỉ tiêu thuộc vốn chủ sở hữu của công ty con (phần công ty mẹ sở hữu, theo giá trị ghi sổ tại ngày mua)
 - Nợ Lợi thế thương mại (nếu có)
 - Nợ / Có các khoản mục tài sản, nợ phải trả (phần chênh lệch giá trị hợp lý so với giá trị ghi sổ)
 - Có Đầu tư vào công ty con
-- Có Lợi ích cổ đông không kiểm soát (phần của họ trong chênh lệch giá trị hợp lý cao hơn giá trị ghi sổ)
+- Có Lợi ích cổ đông không kiểm soát (phần của họ trong chênh lệch giá trị hợp lý cao hơn giá trị ghi sổ; nếu giá trị hợp lý thấp hơn thì ghi Nợ)
 - Có Thu nhập khác (nếu phát sinh lãi từ giao dịch mua rẻ)
 
 Biến động vốn chủ sở hữu của công ty con sau ngày mua (lợi nhuận, quỹ, chênh lệch tỷ giá) không bị loại trừ (TT202 Điều 14 khoản 3). Vì vậy dữ liệu cần lưu là **cơ cấu vốn chủ sở hữu của công ty con tại ngày mua** và **giá trị hợp lý của từng tài sản, nợ phải trả tại ngày mua**. Các số này không có trong sổ của công ty con mà nằm trong hồ sơ mua.
@@ -220,5 +220,5 @@ Odoo 19 mô tả công cụ hợp nhất gồm: ánh xạ tài khoản giữa c�
 - Chuẩn mực kế toán Việt Nam số 07, đoạn 06, 09; số 08, đoạn 26 (cùng Quyết định 234/2003/QĐ-BTC, URL như trên)
 - Chuẩn mực kế toán Việt Nam số 11 "Hợp nhất kinh doanh", đoạn 01, 25, 36, 53 (Quyết định 100/2005/QĐ-BTC): https://caselaw.vn/van-ban-phap-luat/225170-quyet-dinh-so-100-2005-qd-btc-ngay-28-12-2005-ban-hanh-va-cong-bo-bon-04-chuan-muc-ke-toan-viet-nam-dot-5-cua-bo-truong-bo-tai-chinh
 - Thông tư 202/2014/TT-BTC, Điều 2, 3, 5, 9, 10, 11, 12, 13, 14, 16, 21, 26, 30, 31, 32, 33: https://caselaw.vn/van-ban-phap-luat/264198-thong-tu-202-2014-tt-btc-huong-dan-phuong-phap-lap-va-trinh-bay-bao-cao-tai-chinh-hop-nhat-do-bo-truong-bo-tai-chinh-ban-hanh
-- Thông tư 43/2026/TT-BTC, Điều 1 khoản 2 (Điều 6), khoản 5 (Điều 13), khoản 7 (Điều 32), khoản 11 (Điều 66), khoản 12 (Điều 73); Điều 2 khoản 3, 11, 12; Điều 3: https://luatvietnam.vn/tai-chinh/thong-tu-43-2026-tt-btc-sua-doi-bao-cao-tai-chinh-hop-nhat-hieu-luc-20-04-2026-432924-d1.html
+- Thông tư 43/2026/TT-BTC, Điều 1 khoản 2 (Điều 6), khoản 5 (Điều 13), khoản 7 (Điều 32), khoản 11 (Điều 66), khoản 12 (Điều 73); Điều 2 khoản 3, 11, 12; Điều 3; Phụ lục II (mẫu BTH01-HN, BTH02-HN): https://luatvietnam.vn/tai-chinh/thong-tu-43-2026-tt-btc-sua-doi-bao-cao-tai-chinh-hop-nhat-hieu-luc-20-04-2026-432924-d1.html
 - Odoo 19 Documentation, Consolidation: https://www.odoo.com/documentation/19.0/applications/finance/accounting/get_started/consolidation.html

@@ -84,7 +84,7 @@ Phần lớn bút toán trong ERP không chỉ có hai dòng. Dưới đây là 
 | 511 - Doanh thu bán hàng và cung cấp dịch vụ | | 150.000.000 |
 | 33311 - Thuế GTGT đầu ra | | 12.000.000 |
 
-Đọc: phải thu tăng theo tổng giá thanh toán, doanh thu ghi theo giá chưa thuế, thuế gián thu tách riêng thành nợ phải nộp. TT99 yêu cầu tách các khoản thuế gián thu phải nộp ngay khi ghi nhận doanh thu (TK 111, điểm 3.1.a).
+Đọc: phải thu tăng theo tổng giá thanh toán, doanh thu ghi theo giá chưa thuế, thuế gián thu tách riêng thành nợ phải nộp. Đây là cách TT99 hướng dẫn khi tách được thuế: các khoản thuế gián thu phải nộp tách riêng theo từng loại ngay khi ghi nhận doanh thu (TK 111, điểm 3.1.a). Nếu chưa tách ngay được, doanh nghiệp ghi doanh thu gồm cả thuế rồi định kỳ ghi giảm doanh thu (điểm 3.1.b), nhưng khi lập BCTC phải loại toàn bộ thuế gián thu ra khỏi chỉ tiêu doanh thu (nguyên tắc kế toán các khoản doanh thu, điểm 4).
 
 **3. Ghi nhận giá vốn của hàng đã bán** (TK 632, điểm 3.a):
 
@@ -120,7 +120,7 @@ Cuối kỳ, các tài khoản doanh thu và chi phí được kết chuyển v�
 ## Nguồn
 
 - Luật Kế toán số 88/2015/QH13 (văn bản hợp nhất 41/VBHN-VPQH, Công báo số 172 ngày 31/03/2026): Điều 22, Điều 23. https://cdn.thuvienphapluat.vn//uploads/Hoidapphapluat/2026/LNMT/Thang_4/260404/172_41_VBHN_VPQH.pdf
-- Thông tư 99/2025/TT-BTC, Phụ lục II phần B: kết cấu TK 111, 131, 133, 156, 214, 229, 331, 338, 411, 419, 421, 511, 521, 632, 642, 911; phương pháp kế toán TK 111 (điểm 3.1.a), TK 156 (điểm 3.1.a), TK 511 (điểm 3.1), TK 632 (điểm 3.a), TK 911 (điểm 3.a–i). Phụ lục II (bản Word): https://cms.luatvietnam.vn/uploaded/Others/2025/11/16/Phu_luc_II._He_thong_tai_khoan_ke_toan_doanh_nghiep_1611132408.docx
+- Thông tư 99/2025/TT-BTC, Phụ lục II phần B: kết cấu TK 111, 131, 133, 156, 214, 229, 331, 338, 411, 419, 421, 511, 521, 632, 642, 911; phương pháp kế toán TK 111 (điểm 3.1.a, 3.1.b), nguyên tắc kế toán các khoản doanh thu (điểm 4), TK 156 (điểm 3.1.a), TK 511 (điểm 3.1), TK 632 (điểm 3.a), TK 911 (điểm 3.a–i). Phụ lục II (bản Word): https://cms.luatvietnam.vn/uploaded/Others/2025/11/16/Phu_luc_II._He_thong_tai_khoan_ke_toan_doanh_nghiep_1611132408.docx
 - Thông tư 99/2025/TT-BTC, Phụ lục III: phần B mục 2 (hình thức Nhật ký chung), phần C mục I (Sổ Nhật ký chung S03a-DN, Sổ Cái S02c1-DN, Bảng cân đối số phát sinh S06-DN). https://luatvietnam.vn/doanh-nghiep/thong-tu-99-2025-tt-btc-huong-dan-che-do-ke-toan-doanh-nghiep-tu-01-01-2026-417085-d1.html
 - Đại học Cần Thơ, Đề cương chi tiết môn Nguyên lý kế toán, chương 3 "Tài khoản và ghi sổ kép": https://tuyensinh.ctu.edu.vn/images/upload/TS_LT/decuongontap/NguyenLiKeToan.pdf
 - Trường Đại học Sao Đỏ, Đề cương chi tiết học phần Nguyên lý kế toán (KETOAN 011, 2022), chương 4 "Tài khoản kế toán và phương pháp ghi sổ kép": https://saodo.edu.vn/uploads/about/ctdt2022/kt/ketoan011.pdf

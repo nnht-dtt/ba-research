@@ -65,6 +65,8 @@ Bảng dưới tóm tắt các điểm KPMG Việt Nam liệt kê. Mỗi dòng l
 
 Ngoài ra, VAS không có chuẩn mực cho: trợ cấp của Chính phủ (IAS 20), tài sản giữ để bán và hoạt động ngừng kinh doanh (IFRS 5), báo cáo trong nền kinh tế siêu lạm phát (IAS 29), thăm dò khoáng sản (IFRS 6), thuyết minh lợi ích trong đơn vị khác và thoả thuận liên doanh (IFRS 12, IFRS 11), lần đầu áp dụng IFRS (IFRS 1). Ngoài một số nguyên tắc lấy từ IFRIC 13, Bộ Tài chính chưa đưa IFRIC/SIC nào vào VAS.
 
+> 📌 Thông tư 45/2013 (ngưỡng 30 triệu của TSCĐ) và Thông tư 48/2019 (tỷ lệ trích dự phòng) đều là văn bản thuộc chế độ tài chính, thuế. Quyết định 1760/QĐ-BTC ngày 01/07/2026 công bố hai thông tư này tiếp tục có hiệu lực từ kỳ tính thuế TNDN 2025 cho đến khi có văn bản thay thế, bãi bỏ, nhưng không quá 31/12/2026. Khi cấu hình ngưỡng và tỷ lệ trên hệ thống cho năm 2027, cần kiểm tra văn bản thay thế.
+
 > 📌 Một khác biệt không phải lúc nào cũng làm số liệu lệch. Deloitte Việt Nam nêu ví dụ: IAS 16 cho doanh nghiệp tự đặt ngưỡng vốn hoá TSCĐ trong chính sách kế toán, nên nếu đặt cùng ngưỡng 30 triệu cho cả VAS và IFRS thì không phát sinh chênh lệch ở điểm này.
 
 ## Lộ trình áp dụng theo Quyết định 345/QĐ-BTC
@@ -90,7 +92,7 @@ Ngày 16/03/2020, Bộ Tài chính ban hành Quyết định 345/QĐ-BTC phê du
 
 Đề án đặt mốc ban hành VFRS và văn bản hướng dẫn trước 15/11/2024, triển khai VFRS từ năm 2025 cho mọi doanh nghiệp hoạt động tại Việt Nam, trừ đơn vị áp dụng IFRS hoặc chế độ kế toán cho doanh nghiệp siêu nhỏ.
 
-> ⚠️ Cần xác nhận: tình trạng VFRS tại 31/10/2026. Các nguồn đã đọc cho thấy chế độ kế toán mới (TT99) đã thay TT200 từ 01/01/2026, nhưng chưa xác nhận được VFRS đã được ban hành hay lộ trình VFRS đã được điều chỉnh bằng văn bản nào.
+Mốc này không đạt. Đến 31/10/2026 chưa có chuẩn mực VFRS nào được ban hành. Ngày 13/10/2026, Cục Quản lý, giám sát kế toán, kiểm toán (Bộ Tài chính) mới tổ chức hội nghị triển khai xây dựng và công bố quyết định thành lập Tổ soạn thảo VFRS. Theo Thời báo Tài chính Việt Nam, dự kiến có 42 chuẩn mực dựa trên IFRS bản 2026, soạn theo ba giai đoạn (2026–2027: 10 chuẩn mực; 2027–2028: 21; 2028–2029: 11). Mỗi đợt ban hành bằng quyết định của Bộ trưởng Bộ Tài chính, sau đó một thông tư sẽ quy định hiệu lực bắt buộc; thời điểm áp dụng dự kiến là 01/01/2031. Đây mới là kế hoạch được công bố, chưa phải văn bản quy định thời điểm áp dụng.
 
 ### Tình hình đến tháng 10/2026
 
@@ -123,3 +125,5 @@ Với BA, câu hỏi đầu tiên không phải "ERP có hỗ trợ IFRS không"
 - Thông tư 99/2025/TT-BTC, Điều 11, Điều 17: https://luatvietnam.vn/doanh-nghiep/thong-tu-99-2025-tt-btc-huong-dan-che-do-ke-toan-doanh-nghiep-tu-01-01-2026-417085-d1.html
 - Tạp chí Kinh tế Tài chính, *Hoàn thiện hành lang pháp lý cho chuẩn mực kế toán quốc tế tại Việt Nam* (về Thông tư 118/2026/TT-BTC): https://tapchikinhtetaichinh.vn/hoan-thien-hanh-lang-phap-ly-cho-chuan-muc-ke-toan-quoc-te-tai-viet-nam-165165.html
 - Thời báo Tài chính Việt Nam, *Hướng dẫn đối tượng, phạm vi và thể thức áp dụng chuẩn mực quốc tế về kế toán tại Việt Nam*: https://thoibaotaichinhvietnam.vn/huong-dan-doi-tuong-pham-vi-va-the-thuc-ap-dung-chuan-muc-quoc-te-ve-ke-toan-tai-viet-nam-202711.html
+- Thời báo Tài chính Việt Nam, *Chính thức triển khai xây dựng 42 chuẩn mực báo cáo tài chính Việt Nam* (hội nghị ngày 13/10/2026): https://thoibaotaichinhvietnam.vn/chinh-thuc-trien-khai-xay-dung-42-chuan-muc-bao-cao-tai-chinh-viet-nam-205280.html
+- Tạp chí Kinh tế Tài chính, *Thông tư số 45/2013/TT-BTC và Thông tư số 48/2019/TT-BTC tiếp tục có hiệu lực* (Quyết định 1760/QĐ-BTC): https://tapchikinhtetaichinh.vn/thong-tu-so-45-2013-tt-btc-va-thong-tu-so-48-2019-tt-btc-tiep-tuc-co-hieu-luc-160845.html

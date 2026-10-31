@@ -28,7 +28,7 @@ VAS 03 (đoạn 06) và TT99 (TK 211, nguyên tắc c) yêu cầu thoả mãn **
 
 Tiêu chuẩn giá trị nằm ngoài chuẩn mực. Thông tư 45/2013/TT-BTC (Điều 3 khoản 1) quy định nguyên giá từ 30.000.000 đồng trở lên.
 
-> ⚠️ Cần xác nhận: tình trạng hiệu lực của Thông tư 45/2013/TT-BTC tại thời điểm triển khai. Bản đăng trên trang VCCI ghi văn bản ở trạng thái hết hiệu lực, trong khi một số nguồn khác vẫn dẫn chiếu, và Bộ Tài chính đã lấy ý kiến dự thảo thông tư thay thế. Bài này chưa đọc được văn bản sửa đổi hay thay thế. Kiểm tra văn bản hiện hành trước khi cấu hình ngưỡng giá trị trên hệ thống.
+> 📌 Theo Quyết định 1760/QĐ-BTC ngày 01/07/2026 của Bộ Tài chính, Thông tư 45/2013/TT-BTC (và Thông tư 48/2019/TT-BTC về dự phòng) tiếp tục được áp dụng từ kỳ tính thuế TNDN năm 2025 cho đến khi có văn bản thay thế, bãi bỏ, nhưng **không quá ngày 31/12/2026**. Ngưỡng 30 triệu đồng vì vậy có thể đổi khi có văn bản thay thế. Trên hệ thống, nên để ngưỡng là tham số cấu hình, không viết cứng, và kiểm tra lại văn bản hiện hành trước kỳ kế toán 2027.
 
 TT99 còn cho phép coi cả một hệ thống hoặc **từng bộ phận** là một TSCĐ độc lập nếu bộ phận đó tự thoả bốn tiêu chuẩn. VAS 03 (đoạn 12, 27) cho hạch toán riêng các bộ phận có thời gian sử dụng hữu ích khác nhau. Chi tiết vòng đời TSCĐ ở [[kt-29-vong-doi-tscd]].
 
@@ -97,7 +97,7 @@ Doanh nghiệp chọn phương pháp và tiêu thức phân bổ theo tính ch�
 Nhận dịch vụ (vận chuyển, điện, nước, điện thoại, kiểm toán, tư vấn, quảng cáo…) chưa trả tiền: Nợ TK 241, 242, 627, 641, 642…, Nợ TK 133 (1331) / Có TK 331 (TT99, TK 331 mục 3.5). Tài khoản Nợ phụ thuộc **bộ phận sử dụng** và **thời gian hưởng lợi**:
 
 - **TK 627** – chi phí sản xuất chung ở phân xưởng ([[kt-27-chi-phi-san-xuat]]).
-- **TK 641 – Chi phí bán hàng**: chi phí phát sinh trong quá trình bán hàng như chào hàng, quảng cáo, hoa hồng bán hàng, bảo quản, đóng gói, vận chuyển hàng đi bán, bảo hành. Dịch vụ mua ngoài ghi TK 6417 (ví dụ thuê kho bãi, thuê bốc vác, vận chuyển hàng đi bán, hoa hồng đại lý). Chi phí bằng tiền khác ghi TK 6418.
+- **TK 641 – Chi phí bán hàng**: chi phí phát sinh trong quá trình bán hàng như chào hàng, quảng cáo, hoa hồng bán hàng, bảo quản, đóng gói, vận chuyển hàng đi bán, bảo hành. Dịch vụ mua ngoài ghi TK 6417 (ví dụ thuê kho bãi, thuê bốc vác, vận chuyển hàng đi bán, hoa hồng đại lý). Chi phí bằng tiền khác ghi TK 6418; TT99 xếp vào đây cả chi phí tiếp khách ở bộ phận bán hàng, giới thiệu sản phẩm, quảng cáo, chào hàng, hội nghị khách hàng. Vì vậy hạng mục "quảng cáo" thường trỏ về TK 6418, không phải 6417, trừ khi quy chế của doanh nghiệp quy định khác.
 - **TK 642 – Chi phí quản lý doanh nghiệp**: chi phí quản lý chung. Dịch vụ mua ngoài ghi TK 6427 (thuê TSCĐ, điện, nước…). Chi phí bằng tiền khác ghi TK 6428 (hội nghị, tiếp khách bộ phận quản lý, công tác phí…).
 - **TK 241** nếu dịch vụ phục vụ đầu tư xây dựng, sửa chữa lớn; **TK 242** nếu liên quan nhiều kỳ.
 
@@ -132,3 +132,4 @@ Về luồng duyệt, TT99 (Điều 10 khoản 3) yêu cầu phân cấp ký ch�
 - Thông tư 99/2025/TT-BTC, Phụ lục II: nguyên tắc kế toán các khoản chi phí (mục 1, 4, 5); TK 133; TK 153 (nguyên tắc a–đ, mục 3); TK 211 (nguyên tắc c, đ1, g; mục 3.1 b, c, l); TK 241 (TK 2411, mục 3.1); TK 242 (toàn bộ); TK 331 (mục 3.5); TK 641, TK 642 (nguyên tắc, tài khoản cấp 2). Bản đăng lại toàn văn: https://expertis.vn/kb/vbpl/phu-luc-ii-thong-tu-99-2025-tt-btc/ (file "Loại tài khoản tài sản TK 111–244", "Loại tài khoản nợ phải trả TK 331–357", "Loại tài khoản chi phí sản xuất kinh doanh TK 621–642").
 - Thông tư 99/2025/TT-BTC, Phụ lục I: Mẫu 01-TSCĐ Biên bản giao nhận TSCĐ. Bản đăng lại: https://expertis.vn/kb/vbpl/phu-luc-i-thong-tu-99-2025-tt-btc/
 - Thông tư 45/2013/TT-BTC, Điều 3 khoản 1 (tiêu chuẩn giá trị TSCĐ): https://vanban.vcci.com.vn/thong-tu-452013tt-btc-cua-bo-tai-chinh-ve-viec-huong-dan-che-do-quan-ly-su-dung-va-trich-khau-hao-tai-san-co-dinh
+- Thời báo Tài chính Việt Nam, "Thông tư số 45/2013/TT-BTC và Thông tư số 48/2019/TT-BTC tiếp tục có hiệu lực" (Quyết định 1760/QĐ-BTC ngày 01/07/2026): https://thoibaotaichinhvietnam.vn/thong-tu-so-452013tt-btc-va-thong-tu-so-482019tt-btc-tiep-tuc-co-hieu-luc-200058.html

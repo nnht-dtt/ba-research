@@ -111,13 +111,15 @@ Luật Bảo hiểm xã hội số 41/2024/QH15 có hiệu lực từ 01/7/2025.
 |---|---|---|---|
 | BHXH – quỹ hưu trí, tử tuất | 14% | 8% | Luật BHXH 2024, Điều 34 khoản 1 (NSDLĐ), Điều 33 khoản 1 điểm a (NLĐ) |
 | BHXH – quỹ ốm đau, thai sản | 3% | 0% | Luật BHXH 2024, Điều 34 khoản 1 |
-| BHXH – quỹ tai nạn lao động, bệnh nghề nghiệp | 0,5% | 0% | EY Việt Nam (06/2025); LuatVietnam (2026) |
-| BHYT | 3% | 1,5% | EY Việt Nam (06/2025); LuatVietnam (2026) |
-| BHTN | 1% | 1% | Luật Việc làm 2025, Điều 33 khoản 1 (tối đa 1% mỗi bên); LuatVietnam (2026) |
+| BHXH – quỹ tai nạn lao động, bệnh nghề nghiệp | 0,5% | 0% | Nghị định 58/2020/NĐ-CP; EY Việt Nam (06/2025); LuatVietnam (2026) |
+| BHYT | 3% | 1,5% | Nghị định 188/2025/NĐ-CP: 4,5% tiền lương tháng, NSDLĐ 2/3, NLĐ 1/3; EY Việt Nam (06/2025) |
+| BHTN | 1% | 1% | Luật Việc làm 2025, Điều 33 khoản 1 (tối đa 1% mỗi bên); Nghị định 374/2025/NĐ-CP (hiệu lực 01/01/2026) |
 | **Cộng bảo hiểm** | **21,5%** | **10,5%** | |
 | KPCĐ | 2% quỹ tiền lương làm căn cứ đóng BHXH bắt buộc | — | Luật Công đoàn 2024, Điều 29 khoản 1 điểm b (văn bản hợp nhất 2025) |
 
-> ⚠️ Cần xác nhận: Luật Việc làm 2025 (hiệu lực 01/01/2026) quy định người lao động và người sử dụng lao động đóng BHTN "tối đa" 1%; mức cụ thể do Chính phủ quy định. Mức 1% mỗi bên trong bảng lấy từ bài tổng hợp của LuatVietnam (2026) dẫn Nghị định hướng dẫn; chưa đọc được văn bản nghị định gốc. Tỷ lệ quỹ tai nạn lao động, bệnh nghề nghiệp 0,5% và BHYT 3%/1,5% lấy từ EY và LuatVietnam, chưa đọc văn bản gốc (Luật An toàn, vệ sinh lao động, Luật BHYT và nghị định hướng dẫn). LuatVietnam ghi doanh nghiệp ngành nghề có nguy cơ cao có thể được đóng quỹ tai nạn lao động 0,3% nếu được chấp thuận.
+Luật Việc làm 2025 (hiệu lực 01/01/2026) chỉ đặt mức BHTN "tối đa" 1%; Nghị định 374/2025/NĐ-CP chốt người lao động đóng 1% tiền lương tháng, người sử dụng lao động đóng 1% quỹ tiền lương tháng của người đang tham gia BHTN. BHYT theo Nghị định 188/2025/NĐ-CP giữ 4,5% tiền lương tháng làm căn cứ đóng, chia 2/3 cho người sử dụng lao động và 1/3 cho người lao động.
+
+> ⚠️ Cần xác nhận: quỹ tai nạn lao động, bệnh nghề nghiệp 0,5% theo Nghị định 58/2020/NĐ-CP; doanh nghiệp đủ điều kiện có thể được chấp thuận đóng 0,3%. Tháng 5/2026 Bộ Nội vụ đề xuất nghị định áp dụng 0,3% cho mọi doanh nghiệp đến hết 31/12/2027; đến thời điểm soát bài chưa tìm thấy văn bản đã ban hành. Kiểm tra lại trước khi cấu hình tỷ lệ.
 
 Một số điểm ảnh hưởng tới cấu hình:
 
@@ -127,7 +129,7 @@ Một số điểm ảnh hưởng tới cấu hình:
 - **Lao động nước ngoài**: thuộc diện BHXH bắt buộc khi làm việc theo hợp đồng xác định thời hạn từ đủ 12 tháng, trừ một số trường hợp (EY); không thuộc diện BHTN (EY; LuatVietnam).
 - **Thời hạn nộp**: phương thức đóng hằng tháng thì chậm nhất ngày cuối cùng của tháng tiếp theo (Luật BHXH 2024, Điều 34 khoản 4). KPCĐ đóng mỗi tháng một lần cùng thời điểm đóng BHXH bắt buộc, chậm nhất ngày cuối cùng của tháng tiếp theo, và được hạch toán vào chi phí sản xuất kinh doanh (Nghị định 105/2026/NĐ-CP, Điều 4, Điều 5, hiệu lực 16/5/2026).
 
-> ⚠️ Cần xác nhận: con số cụ thể của lương cơ sở (mức tham chiếu) và lương tối thiểu vùng áp dụng tại 2026, vì các nguồn tổng hợp đã đọc không thống nhất về mức và thời điểm điều chỉnh lương cơ sở trong năm 2026. EY (06/2025) ghi lương cơ sở 2.340.000 đ/tháng, tức trần BHXH 46.800.000 đ/tháng tại thời điểm đó. Hệ thống phải để mức tham chiếu, lương tối thiểu theo vùng và các tỷ lệ là tham số có ngày hiệu lực, không viết cứng vào công thức.
+Các mức áp dụng trong năm 2026: lương cơ sở 2.340.000 đ/tháng đến 30/6/2026 (trần BHXH, BHYT 46.800.000 đ) và 2.530.000 đ/tháng từ 01/7/2026 theo Nghị định 161/2026/NĐ-CP (trần 50.600.000 đ). Lương tối thiểu vùng từ 01/01/2026 theo Nghị định 293/2025/NĐ-CP: vùng I 5.310.000 đ, vùng II 4.730.000 đ, vùng III 4.140.000 đ, vùng IV 3.700.000 đ (trần BHTN vùng I là 106.200.000 đ). Mức tham chiếu đổi giữa năm, nên hệ thống phải để mức tham chiếu, lương tối thiểu theo vùng và các tỷ lệ là tham số có ngày hiệu lực, không viết cứng vào công thức.
 
 ### Thuế thu nhập cá nhân
 
@@ -183,5 +185,10 @@ Lương, bảo hiểm phải trích và nộp đủ trước khi khóa sổ thá
 - EY Việt Nam, "Một số điểm lưu ý liên quan vấn đề đóng Bảo hiểm bắt buộc kể từ ngày 1 tháng 7 năm 2025" (Tin nhanh Tư vấn Thuế & Nhân sự, 06/2025), mục 1–3: https://www.ey.com/content/dam/ey-unified-site/ey-com/vi-vn/technical/tax/documents/people-advisory-services-tax-alert-june-2025-notable-points-regarding-the-mandatory-social-security-from-1-july-2025-vn.pdf
 - Luật Việc làm số 74/2025/QH15, Điều 33 khoản 1: https://hethongphapluat.com/luat-viec-lam-2025/dieu-33
 - LuatVietnam, "Từ 2026, mức đóng BHXH, BHYT, BHTN của NLĐ và NSDLĐ được tính như thế nào?" (đối chiếu tỷ lệ 2026): https://luatvietnam.vn/bao-hiem/tu-2026-muc-dong-bhxh-bhyt-bhtn-cua-nld-va-nsdld-duoc-tinh-nhu-the-nao-563-106906-article.html
+- Nghị định 374/2025/NĐ-CP về bảo hiểm thất nghiệp, mức đóng (tóm tắt của UBND tỉnh Hà Tĩnh, 01/2026): https://hatinh.gov.vn/vi/bai-viet/quy-dinh-moi-ve-muc-dong-va-huong-bao-hiem-that-nghiep
+- Nghị định 188/2025/NĐ-CP hướng dẫn Luật Bảo hiểm y tế, hiệu lực 15/8/2025 (Thời báo Tài chính Việt Nam, "Mức đóng bảo hiểm y tế vẫn bằng 4,5% lương cơ sở"): https://thoibaotaichinhvietnam.vn/muc-dong-bao-hiem-y-te-van-bang-45-luong-co-so-179879.html
+- Nghị định 58/2020/NĐ-CP về mức đóng quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp: https://caselaw.vn/van-ban-phap-luat/347686-nghi-dinh-so-58-2020-nd-cp-ngay-27-05-2020-cua-chinh-phu-quy-dinh-ve-muc-dong-bao-hiem-xa-hoi-bat-buoc-vao-quy-bao-hiem-tai-nan-lao-dong-benh-nghe-nghiep; RSM Việt Nam: https://www.rsm.global/vietnam/sites/default/files/media/news/newsbriefs/rsm-tax-newsbrief_decree-58-2020_vn.pdf; Tạp chí Luật sư Việt Nam, đề xuất giảm xuống 0,3% (05/2026): https://lsvn.vn/muc-dong-bao-hiem-tai-nan-lao-dong-benh-nghe-nghiep-co-the-giam-xuong-0-3-a172407.html
+- Nghị định 161/2026/NĐ-CP về lương cơ sở (tin UBND tỉnh Hà Tĩnh): https://hatinh.gov.vn/vi/bai-viet/tang-luong-co-so-tu-0172026
+- Nghị định 293/2025/NĐ-CP về lương tối thiểu vùng từ 01/01/2026 (LuatVietnam): https://luatvietnam.vn/lao-dong-tien-luong/muc-luong-toi-thieu-vung-cua-34-tinh-thanh-tu-01-01-2026-562-103349-article.html
 - Luật Công đoàn số 50/2024/QH15, Điều 29 khoản 1 điểm b (Văn bản hợp nhất số 90/VBHN-VPQH, Công báo số 1247+1248 ngày 06/9/2025, đã cập nhật Luật số 97/2025/QH15): https://vnuf.edu.vn/wp-content/uploads/2025/10/VBHN_90-VBHN-VPQH.pdf
 - Nghị định 105/2026/NĐ-CP hướng dẫn Luật Công đoàn về tài chính công đoàn, Điều 4, 5, 6: https://hethongphapluat.com/nghi-dinh-105-2026-nd-cp-huong-dan-luat-cong-doan-ve-tai-chinh-cong-doan/chuong-2

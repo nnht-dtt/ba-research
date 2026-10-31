@@ -4,7 +4,7 @@ Pháp nhân Việt Nam trong tập đoàn nước ngoài thường trả phí qu
 
 ## Tài khoản dùng cho giao dịch với công ty mẹ
 
-Công ty mẹ ở nước ngoài là một pháp nhân khác, không phải đơn vị trực thuộc. TT99 dành TK 136 Phải thu nội bộ và TK 336 Phải trả nội bộ cho quan hệ giữa doanh nghiệp với đơn vị trực thuộc hoặc giữa các đơn vị trực thuộc với nhau. Giao dịch với công ty mẹ, công ty con, công ty cùng tập đoàn vì vậy đi qua các tài khoản thanh toán thông thường:
+Công ty mẹ ở nước ngoài là một pháp nhân khác, không phải đơn vị trực thuộc. TT99 dành TK 136 Phải thu nội bộ và TK 336 Phải trả nội bộ cho quan hệ giữa doanh nghiệp với đơn vị trực thuộc hoặc giữa các đơn vị trực thuộc với nhau; nguyên tắc kế toán TK 336 còn ghi rõ không phản ánh vào tài khoản này các giao dịch thanh toán giữa công ty mẹ với các công ty con và giữa các công ty con với nhau. Giao dịch với công ty mẹ, công ty con, công ty cùng tập đoàn vì vậy đi qua các tài khoản thanh toán thông thường:
 
 | Giao dịch | Tài khoản chính theo TT99 |
 |---|---|
@@ -56,7 +56,7 @@ Mục 3.11.1 phương pháp kế toán TK 333 trong TT99 hướng dẫn trườn
 - Khi trả tiền: Nợ TK 331 / Có TK 111, 112. Đồng thời: Nợ TK 3388 (thuế TNDN), Nợ TK 1388 (thuế GTGT nhà thầu) / Có TK 333 (3339).
 - Khi nộp thuế: như trường hợp a; thuế GTGT không được khấu trừ thì ghi vào TK 627, 642...
 
-**c) Giá hợp đồng gồm thuế GTGT nhưng không gồm thuế TNDN của nhà thầu:** doanh nghiệp chỉ chịu nộp thay thuế TNDN; thuế TNDN nộp thay ghi Có TK 3388 khi nhận dịch vụ, chuyển sang TK 333 (3339) khi trả tiền.
+**c) Giá hợp đồng gồm thuế GTGT nhưng không gồm thuế TNDN của nhà thầu:** doanh nghiệp chỉ chịu nộp thay thuế TNDN; thuế TNDN nộp thay ghi Có TK 3388 khi nhận dịch vụ, chuyển sang TK 333 (3339) khi trả tiền. Bút toán trả tiền trong TT99 ở trường hợp này vẫn kèm Nợ TK 1388 (thuế GTGT nhà thầu) / Có TK 333 (3339), và khi nộp thuế xử lý thuế GTGT như trường hợp b.
 
 TT99 cũng lưu ý: nếu thời điểm ghi nhận chi phí kế toán và chi phí được trừ khi tính thuế TNDN khác nhau đối với khoản thuế nhà thầu thì xử lý theo VAS 17.
 
@@ -67,9 +67,9 @@ TT99 cũng lưu ý: nếu thời điểm ghi nhận chi phí kế toán và chi 
 Thông tư 103/2014/TT-BTC từng là văn bản riêng hướng dẫn thuế GTGT, TNDN cho nhà thầu nước ngoài. Đến 31/10/2026, các nguồn đã đọc cho thấy:
 
 - Thông tư 20/2026/TT-BTC (hướng dẫn Luật Thuế TNDN, hiệu lực từ 12/03/2026, áp dụng từ kỳ tính thuế 2025) bãi bỏ một số quy định về thuế TNDN tại Thông tư 103; hợp đồng nhà thầu theo phương pháp hỗn hợp ký trước ngày Thông tư 20 có hiệu lực tiếp tục theo văn bản có hiệu lực lúc ký (Tạp chí Kinh tế Tài chính, theo văn bản hướng dẫn của Thuế tỉnh Hưng Yên).
-- Thông tư 89/2026/TT-BTC (quy định chi tiết Luật Quản lý thuế 108/2025/QH15 và Nghị định 252/2026/NĐ-CP, hiệu lực từ 01/07/2026) được nêu là bãi bỏ Thông tư 103 và có Điều 30 về khai thuế của nhà thầu nước ngoài, trong đó bên Việt Nam khấu trừ, nộp thay và khai thuế theo lần thanh toán.
+- Thông tư 89/2026/TT-BTC ngày 30/06/2026 (quy định chi tiết Luật Quản lý thuế 108/2025/QH15 và Nghị định 252/2026/NĐ-CP) bãi bỏ Thông tư 103/2014 từ 01/07/2026, tại khoản 3 Điều 99, cùng 9 thông tư thuế khác (Cổng phổ biến giáo dục pháp luật TP Cần Thơ). Bài tổng hợp của một đơn vị tư vấn thuế nêu thêm Thông tư 89 có Điều 30 về khai thuế của nhà thầu nước ngoài, trong đó bên Việt Nam khấu trừ, nộp thay và khai thuế theo lần thanh toán.
 
-> ⚠️ Cần xác nhận: hai điểm về Thông tư 89/2026 ở trên mới đọc qua bài tổng hợp của một đơn vị tư vấn thuế, chưa đọc văn bản gốc; tỷ lệ % tính thuế GTGT, TNDN trên doanh thu theo từng loại dịch vụ (phí dịch vụ, lãi vay, bản quyền) cũng chưa xác nhận được văn bản hiện hành quy định. Không cấu hình tỷ lệ thuế nhà thầu trên hệ thống khi chưa có văn bản gốc.
+> ⚠️ Cần xác nhận: nội dung Điều 30 Thông tư 89/2026 mới đọc qua bài tổng hợp, chưa đọc văn bản gốc. Tỷ lệ % tính thuế GTGT, TNDN trên doanh thu theo từng loại dịch vụ (phí dịch vụ, lãi vay, bản quyền) cũng chưa xác nhận được từ văn bản gốc; các bài tổng hợp dẫn về Điều 9 Thông tư 69/2025/TT-BTC (thuế GTGT) và Điều 7 Thông tư 20/2026/TT-BTC (thuế TNDN). Không cấu hình tỷ lệ thuế nhà thầu trên hệ thống khi chưa có văn bản gốc.
 
 Với hệ thống, điều cần chốt là: hợp đồng nào thuộc diện nộp thay, giá hợp đồng thuộc trường hợp a, b hay c, và tỷ lệ áp dụng cho từng loại thu nhập, để bút toán trả tiền tự tách phần thuế.
 
@@ -136,6 +136,7 @@ Deloitte Việt Nam lưu ý kinh nghiệm chuyển đổi cho thấy thu thập 
 - EY Việt Nam, *Tin nhanh Thuế về Giá giao dịch liên kết*, tháng 7/2026: https://www.ey.com/content/dam/ey-unified-site/ey-com/vi-vn/technical/tax/documents/ey-transfer-pricing-alert-vietnam-new-transfer-pricing-regulatory-developments-vi-1.pdf
 - LuatVietnam, *Cục Thuế giới thiệu điểm mới của Nghị định 255/2026/NĐ-CP về giao dịch liên kết* (Công văn 4697/CT-CS): https://luatvietnam.vn/tin-van-ban-moi/cuc-thue-gioi-thieu-diem-moi-cua-nghi-dinh-so-255-2026-nd-cp-ve-giao-dich-lien-ket-186-110303-article.html
 - Tạp chí Kinh tế Tài chính (Thuế – Hải quan), *Xác định nghĩa vụ thuế thu nhập doanh nghiệp với hợp đồng nhà thầu nước ngoài*: https://thuehaiquan.tapchikinhtetaichinh.vn/xac-dinh-nghia-vu-thue-thu-nhap-doanh-nghiep-voi-hop-dong-nha-thau-nuoc-ngoai-161845.html
+- Cổng phổ biến giáo dục pháp luật TP Cần Thơ, *10 Thông tư về thuế bị bãi bỏ bởi Thông tư số 89/2026/TT-BTC từ 01/7/2026*: https://pbgdpl.cantho.gov.vn/10-thong-tu-ve-thue-bi-bai-bo-boi-thong-tu-so-892026tt-btc-tu-0172026
 - MAN – Master Accountant Network, *So sánh thuế nhà thầu Thông tư 89/2026 và 103/2014* (nguồn đối chiếu, chưa phải văn bản gốc): https://thue.man.net.vn/so-sanh-thue-nha-thau-thong-tu-89-2026-va-103-2014/
 - IFRS Foundation, IAS 24 Related Party Disclosures (tóm tắt chuẩn mực): https://www.ifrs.org/issued-standards/list-of-standards/ias-24-related-party-disclosures/
 - Deloitte Việt Nam, *The conversion of VAS to IFRS – Volume one*, Part 1 "Scoping the effort: A question of priorities": https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/services/audit-assurance/2024/vn-aud-the-conversion-vas-to-ifrs-vol-1-en.pdf

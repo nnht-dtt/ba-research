@@ -68,7 +68,7 @@ Deloitte nêu ví dụ phần mềm: giấy phép sử dụng và dịch vụ h�
 
 - VAS không có chuẩn mực tương đương IFRS 9. Thông tư 210/2009 về trình bày, thuyết minh công cụ tài chính không còn bắt buộc từ năm tài chính 2015 cho tới khi có VAS về công cụ tài chính (KPMG).
 - IFRS 9 ghi nhận công cụ tài chính khi doanh nghiệp trở thành một bên của hợp đồng, đo ban đầu theo giá trị hợp lý (cộng hoặc trừ chi phí giao dịch nếu không đo theo giá trị hợp lý qua lãi lỗ). Tài sản tài chính sau đó phân loại vào giá phân bổ, giá trị hợp lý qua thu nhập toàn diện khác (FVOCI) hoặc qua lãi lỗ (FVTPL), dựa trên mô hình kinh doanh và đặc điểm dòng tiền hợp đồng (chỉ gồm gốc và lãi, SPPI). Phái sinh đo theo giá trị hợp lý.
-- Tổn thất: IFRS 9 dùng tổn thất tín dụng dự kiến (ECL), 12 tháng hoặc toàn thời hạn tuỳ rủi ro tín dụng có tăng đáng kể kể từ ghi nhận ban đầu. TT99 cho trích dự phòng nợ phải thu khó đòi theo tỷ lệ ứng với thời gian quá hạn theo Thông tư 48/2019 (với doanh nghiệp thông thường: quá hạn 6 tháng–1 năm 30%, 1–2 năm 50%, 2–3 năm 70%, trên 3 năm 100%), hoặc phương pháp khác nếu có bằng chứng tin cậy phù hợp hơn.
+- Tổn thất: IFRS 9 dùng tổn thất tín dụng dự kiến (ECL), 12 tháng hoặc toàn thời hạn tuỳ rủi ro tín dụng có tăng đáng kể kể từ ghi nhận ban đầu. TT99 cho trích dự phòng nợ phải thu khó đòi theo tỷ lệ ứng với thời gian quá hạn theo Thông tư 48/2019 (với doanh nghiệp thông thường: quá hạn 6 tháng–1 năm 30%, 1–2 năm 50%, 2–3 năm 70%, trên 3 năm 100%), hoặc phương pháp khác nếu có bằng chứng tin cậy phù hợp hơn. Quyết định 1760/QĐ-BTC công bố Thông tư 48/2019 (và Thông tư 45/2013 về ngưỡng TSCĐ) tiếp tục có hiệu lực nhưng không quá 31/12/2026, nên bảng tỷ lệ này cần kiểm tra lại cho năm 2027.
 
 ### Ảnh hưởng báo cáo
 
@@ -130,6 +130,7 @@ IAS 12 chủ yếu xử lý thuế hoãn lại theo phương pháp dựa trên b
 
 - Lỗ tính thuế được chuyển ngược về kỳ trước theo IAS 12 (nếu luật thuế cho phép) được ghi nhận là tài sản; VAS không có khái niệm chuyển lỗ ngược.
 - IAS 12 có ba ngoại lệ không ghi thuế hoãn lại phải trả (ghi nhận ban đầu lợi thế thương mại; ghi nhận ban đầu tài sản, nợ ngoài hợp nhất kinh doanh không ảnh hưởng lợi nhuận kế toán và thu nhập chịu thuế; khoản đầu tư vào công ty con, chi nhánh, liên kết khi kiểm soát được thời điểm hoàn nhập). VAS chỉ có ngoại lệ thứ hai.
+- Ngoại lệ ghi nhận ban đầu đã bị IASB thu hẹp bằng sửa đổi IAS 12 tháng 5/2021 (*Deferred Tax related to Assets and Liabilities arising from a Single Transaction*, hiệu lực cho kỳ năm bắt đầu từ 01/01/2023): giao dịch tạo ra chênh lệch tạm thời chịu thuế và được khấu trừ bằng nhau, như hợp đồng thuê hay nghĩa vụ hoàn nguyên, không được hưởng ngoại lệ, nên phải ghi thuế hoãn lại. Vì vậy với điều chỉnh IFRS 16 và chi phí hoàn nguyên ở trên, ngoại lệ này không áp dụng.
 - VAS không hướng dẫn đo thuế hoãn lại khi có nhiều mức thuế suất, thuế phát sinh từ hợp nhất kinh doanh, ảnh hưởng thuế của cổ tức.
 
 ### Vì sao IAS 12 đi kèm mọi điều chỉnh khác
@@ -167,4 +168,6 @@ Khi khảo sát một pháp nhân, BA có thể dùng bảng này để hỏi: �
 - KPMG Việt Nam, *Differences between Vietnamese GAAP and IFRS*, tháng 10/2026, các mục Financial instruments, PPE, Lease, Provisions, Revenue: https://assets.kpmg.com/content/dam/kpmgsites/vn/pdf/2026/10/vas-and-ifrs-en.pdf
 - Thông tư 99/2025/TT-BTC, Điều 1; Phụ lục II TK 341 (TK 3412): https://luatvietnam.vn/doanh-nghiep/thong-tu-99-2025-tt-btc-huong-dan-che-do-ke-toan-doanh-nghiep-tu-01-01-2026-417085-d1.html
 - Quyết định 345/QĐ-BTC, mục II.2.1.2: https://luatvietnam.vn/tai-chinh/quyet-dinh-345-qd-btc-2020-de-an-ap-dung-chuan-muc-bao-cao-tai-chinh-181513-d1.html
+- IFRS Foundation, trang IAS 12 (sửa đổi tháng 5/2021 thu hẹp ngoại lệ ghi nhận ban đầu) và IAS Plus, *IASB publishes amendments to IAS 12* (hiệu lực từ 01/01/2023, áp dụng cho thuê và nghĩa vụ hoàn nguyên): https://www.iasplus.com/en/news/2021/05/ias-12
+- Tạp chí Kinh tế Tài chính, *Thông tư số 45/2013/TT-BTC và Thông tư số 48/2019/TT-BTC tiếp tục có hiệu lực* (Quyết định 1760/QĐ-BTC): https://tapchikinhtetaichinh.vn/thong-tu-so-45-2013-tt-btc-va-thong-tu-so-48-2019-tt-btc-tiep-tuc-co-hieu-luc-160845.html
 - Tạp chí Kinh tế Tài chính, bài về Thông tư 118/2026/TT-BTC (điều khoản chuyển tiếp theo IFRS 1): https://tapchikinhtetaichinh.vn/hoan-thien-hanh-lang-phap-ly-cho-chuan-muc-ke-toan-quoc-te-tai-viet-nam-165165.html

@@ -63,7 +63,7 @@ Các trường hợp đặc thù được chấp nhận (khoản 2): thanh toán
 
 > 💡 Với trả chậm, thuế đầu vào phụ thuộc trạng thái thanh toán ở các kỳ sau. Hệ thống cần liên kết hoá đơn mua với lịch thanh toán theo hợp đồng và với chứng từ thanh toán thực tế, để biết khoản nào đã quá hạn mà chưa có thanh toán không dùng tiền mặt.
 
-> ⚠️ Cần xác nhận: Nghị định 181/2025/NĐ-CP đã được sửa đổi bởi Nghị định 359/2025/NĐ-CP và Nghị định 144/2026/NĐ-CP. Luật 48/2024/QH15 cũng đã được sửa đổi bởi Luật 90/2025/QH15 trước Luật 149. Bài này đọc văn bản Nghị định 181 và bản tóm tắt của EY về Nghị định 144, chưa đọc toàn văn Nghị định 359/2025, Nghị định 144/2026 và Luật 90/2025. Trước khi cấu hình quy tắc khấu trừ, đối chiếu với văn bản hợp nhất hiện hành.
+> 📌 Nghị định 181/2025/NĐ-CP đã được sửa đổi bởi Nghị định 359/2025/NĐ-CP (hiệu lực 01/01/2026) và Nghị định 144/2026/NĐ-CP (hiệu lực 20/06/2026). Các điều 23, 24, 25, 26 dẫn trong bài đã đối chiếu với văn bản hợp nhất 18/VBHN-BTC ngày 04/06/2026: trong các điều này chỉ Nghị định 144 có sửa (cách xác định doanh thu phân bổ tại khoản 2 Điều 23 và điểm g khoản 2 Điều 26 về trả chậm, trả góp). Luật 48/2024/QH15 cũng đã được sửa bởi Luật 90/2025/QH15 (chỉ điểm a khoản 1 Điều 9 về thuế suất 0% hàng xuất khẩu) và Luật 149/2025/QH15; theo văn bản hợp nhất 12/VBHN-VPQH, các điều 10, 11, 14 dẫn trong bài không bị sửa, Điều 12 bị bãi bỏ khoản 3.
 
 ## Thuế đầu vào không được khấu trừ
 
@@ -137,7 +137,9 @@ Trên ERP, quy tắc khấu trừ được chuyển thành cấu hình **mã thu
 - Luật Thuế giá trị gia tăng số 48/2024/QH15: Điều 7 khoản 1, Điều 10, Điều 11, Điều 12, Điều 13, Điều 14: https://caselaw.vn/van-ban-phap-luat/411486-luat-thue-gia-tri-gia-tang-so-48-2024-qh15-ngay-26-11-2024-cua-quoc-hoi
 - Luật số 149/2025/QH15 sửa đổi, bổ sung một số điều của Luật Thuế GTGT, Điều 1 và Điều 2: https://legalzone.vn/wp-content/uploads/legal-sources/law-library-2026/docx/luat-149-2025-qh15-sua-doi-bo-sung-mot-so-dieu-cua-luat-thue-gia-tri-gia-tang.docx
 - EY Việt Nam, Tin nhanh về Thuế tháng 12/2025, Luật sửa đổi Luật Thuế GTGT: https://www.ey.com/content/dam/ey-unified-site/ey-com/vi-vn/technical/tax/documents/ey-tax-alert-december-25-amendments-to-the-law-on-value-added-tax-vn.pdf
+- Văn bản hợp nhất 12/VBHN-VPQH Luật Thuế giá trị gia tăng (gồm sửa đổi bởi Luật 90/2025/QH15, Luật 149/2025/QH15 và Nghị quyết 204/2025/QH15): https://datafiles.chinhphu.vn/cpp/files/vbpq/2026/02/12-vbhn-vpqh.pdf
 - Nghị định 181/2025/NĐ-CP quy định chi tiết Luật Thuế GTGT: Điều 23, Điều 24 khoản 4, Điều 25, Điều 26: https://hethongphapluat.com/nghi-dinh-181-2025-nd-cp-huong-dan-luat-thue-gia-tri-gia-tang.html
+- Văn bản hợp nhất 18/VBHN-BTC ngày 04/06/2026 (Nghị định 181/2025, 359/2025, 144/2026): Điều 23, 24, 25, 26: https://luatvietnam.vn/thue/van-ban-hop-nhat-18-vbhn-btc-2026-quy-dinh-chi-tiet-thi-hanh-luat-thue-gia-tri-gia-tang-436641-d5.html
 - EY Việt Nam, Tin nhanh về Thuế tháng 5/2026, Nghị định 144/2026/NĐ-CP (mục 2 phân bổ thuế đầu vào, mục 3 mua trả chậm, trả góp): https://www.ey.com/content/dam/ey-unified-site/ey-com/vi-vn/technical/tax/documents/ey-vietnam-tax-alert_may-2026_decree-144-on-value-added-tax_vn.pdf
 - Thông tư 99/2025/TT-BTC, Phụ lục II: TK 133 (toàn bộ); TK 333 (TK 3331, 33311, 33312; mục 3.1.2, 3.1.3, 3.1.5); TK 152 nguyên tắc b; TK 331 mục 3.1. Bản đăng lại toàn văn: https://expertis.vn/kb/vbpl/phu-luc-ii-thong-tu-99-2025-tt-btc/
 - Thông tư 99/2025/TT-BTC, Phụ lục I: Mẫu 06-VT Bảng kê mua hàng. Bản đăng lại: https://expertis.vn/kb/vbpl/phu-luc-i-thong-tu-99-2025-tt-btc/

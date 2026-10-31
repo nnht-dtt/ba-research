@@ -63,16 +63,14 @@ Khi gói báo cáo đã gửi mà sau đó sổ VAS còn điều chỉnh (bút t
 
 - Luật Kế toán (Điều 12, bản hợp nhất 2019): kỳ kế toán năm là 12 tháng theo năm dương lịch; đơn vị có đặc thù được chọn 12 tháng tròn bắt đầu từ đầu ngày 01 tháng đầu một quý, và phải thông báo cho cơ quan tài chính, cơ quan thuế.
 - TT202 Điều 10 khoản 5: BCTC riêng của công ty mẹ và BCTC của công ty con dùng để hợp nhất phải lập cho cùng một kỳ kế toán. Nếu ngày kết thúc kỳ khác nhau, công ty con lập thêm một bộ BCTC cho mục đích hợp nhất có kỳ trùng với công ty mẹ. Nếu không thể, được dùng BCTC lập vào thời điểm khác với điều kiện chênh lệch không quá 3 tháng, và phải điều chỉnh cho ảnh hưởng của giao dịch, sự kiện quan trọng xảy ra giữa hai ngày kết thúc kỳ; độ dài kỳ báo cáo và chênh lệch thời điểm phải nhất quán qua các kỳ.
-- IFRS (theo PwC): BCTC của công ty mẹ và công ty con dùng để hợp nhất phải có cùng ngày báo cáo; nếu khác, công ty con lập thêm thông tin tài chính tại cùng ngày với công ty mẹ, trừ khi không thể thực hiện được.
-
-> ⚠️ Cần xác nhận: giới hạn chênh lệch tối đa giữa ngày báo cáo của công ty con và công ty mẹ theo IFRS 10 khi không lập được thông tin bổ sung. Trang tóm tắt đã đọc chỉ nêu giới hạn 3 tháng ở phần US GAAP; cần đối chiếu nguyên văn IFRS 10 (phụ lục B).
+- IFRS 10 đoạn B92–B93: BCTC của công ty mẹ và công ty con dùng để hợp nhất phải có cùng ngày báo cáo; nếu khác, công ty con lập thêm thông tin tài chính tại cùng ngày với công ty mẹ, trừ khi không thể thực hiện được (impracticable). Khi đó công ty mẹ hợp nhất theo BCTC gần nhất của công ty con, điều chỉnh cho giao dịch, sự kiện quan trọng xảy ra giữa hai ngày; trong mọi trường hợp chênh lệch giữa hai ngày không quá ba tháng, và độ dài kỳ báo cáo cùng chênh lệch ngày phải giống nhau qua các kỳ. Quy định này tương tự TT202.
 
 ### Ví dụ giả định
 
 Công ty mẹ kết thúc năm tài chính ngày 31/12. Pháp nhân Việt Nam chọn năm tài chính từ 01/04 đến 31/03 năm sau.
 
 - BCTC VAS năm của pháp nhân kết thúc 31/03; hạn nộp 90 ngày tính từ 31/03.
-- Để hợp nhất năm của tập đoàn kết thúc 31/12, pháp nhân phải lập thêm số liệu cho kỳ 01/01–31/12 theo TT202. Chênh lệch giữa 31/03 và 31/12 là 9 tháng, vượt giới hạn 3 tháng, nên không dùng được BCTC năm 31/03.
+- Để hợp nhất năm của tập đoàn kết thúc 31/12/N, pháp nhân phải lập thêm số liệu cho kỳ 01/01–31/12/N theo TT202. BCTC năm gần nhất đã có của pháp nhân kết thúc 31/03/N, lệch 9 tháng, vượt giới hạn 3 tháng, nên không dùng thay được.
 - Hệ thống phải tính được số liệu theo hai kỳ năm khác nhau trên cùng một sổ, hoặc dùng sổ phụ có năm tài chính khác (SAP cho non-leading ledger dùng fiscal year variant khác sổ chính). Odoo 19 cho đặt ngày cuối năm tài chính và tạo năm tài chính dài hoặc ngắn hơn 12 tháng trong phần thiết lập.
 
 Kỳ đầu tiên và kỳ cuối cùng có thể dài tối đa 15 tháng theo Luật Kế toán (KPMG), trong khi IFRS yêu cầu báo cáo ít nhất hằng năm và chỉ cho kỳ dài hoặc ngắn hơn khi đổi ngày kết thúc kỳ; đây là một nguồn lệch khác khi pháp nhân mới thành lập hoặc giải thể.
@@ -137,6 +135,7 @@ Hai bảng khớp nhau: chênh lệch vốn chủ cuối năm 1 (−21,52) bằn
 - Tạp chí Kinh tế Tài chính, *Quy định mới về phương pháp lập và trình bày BCTC hợp nhất theo Thông tư số 43/2026/TT-BTC: một số hàm ý quản trị*: https://tapchikinhtetaichinh.vn/quy-dinh-moi-ve-phuong-phap-lap-va-trinh-bay-bao-cao-tai-chinh-hop-nhat-theo-thong-tu-so-43-2026-tt-btc-mot-so-ham-y-quan-tri-161827.html
 - Luật Kế toán 88/2015/QH13, Điều 12 (Văn bản hợp nhất, Công báo số 709+710 ngày 03/09/2019)
 - IFRS Foundation, IFRS 10 và IFRS 1 (tóm tắt chuẩn mực): https://www.ifrs.org/issued-standards/list-of-standards/ifrs-10-consolidated-financial-statements/ và https://www.ifrs.org/issued-standards/list-of-standards/ifrs-1-first-time-adoption-of-ifrs/
+- AASB 10 *Consolidated Financial Statements* (bản Úc, nguyên văn IFRS 10), đoạn B92–B93: https://www.legislation.gov.au/F2011L01941/asmade/2011-09-26/text/original/epub/OEBPS/document_1/document_1.html
 - PwC Viewpoint, *IFRS and US GAAP: similarities and differences*, mục 12.5 Accounting policies and reporting periods: https://viewpoint.pwc.com/dt/us/en/pwc/accounting_guides/ifrs_and_us_gaap_sim/ifrs_and_us_gaap_sim_US/chapter_12_consolida_US/125_accounting_polic_US.html
 - Deloitte Việt Nam, *The conversion of VAS to IFRS – Volume one*, Part 1 (IFRS 1, Example IFRS conversion note) và Part 2 Group 3 (IFRS 10 – What must be done): https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/services/audit-assurance/2024/vn-aud-the-conversion-vas-to-ifrs-vol-1-en.pdf
 - Deloitte Việt Nam, *Strategic choices on the conversion to IFRS – Volume 2: Beyond compliance*, Part 9: https://www.deloitte.com/content/dam/assets-zone1/southeast-asia/en/docs/services/audit-assurance/2024/vn-vas-to-ifrs-vol2-en.pdf

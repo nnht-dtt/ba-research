@@ -28,7 +28,7 @@ Ghi chú từng dòng:
 - Thuế TNDN: TT99 quy định TK 3334 gồm cả thuế TNDN bổ sung theo quy định về thuế tối thiểu toàn cầu, và yêu cầu thuyết minh kỳ phát sinh, kỳ kê khai, tiêu thức phân bổ nghĩa vụ giữa đơn vị hợp thành chịu trách nhiệm kê khai và các đơn vị hợp thành khác (Phụ lục II, TK 333, mục 1 điểm e). Đây là điểm mà dữ liệu của một pháp nhân phụ thuộc vào tập đoàn.
 - Thuế do sàn khấu trừ ở Việt Nam: Nghị định 117/2025/NĐ-CP, hiệu lực 01/07/2025, áp cho hộ, cá nhân kinh doanh trên nền tảng thương mại điện tử và nền tảng số. Sàn có chức năng thanh toán khấu trừ và nộp thay thuế GTGT, TNCN ngay khi giao dịch được xác nhận thành công và chấp nhận thanh toán; nền tảng không có chức năng thanh toán thì hộ, cá nhân tự khai (EY Việt Nam, 06/2025).
 
-> ⚠️ Cần xác nhận: nguồn đã đọc không nói Nghị định 117/2025 áp cho doanh nghiệp, tổ chức bán trên sàn. Với pháp nhân trong tập đoàn bán trên sàn Việt Nam, cần đối chiếu văn bản gốc trước khi kết luận sàn không khấu trừ. Phạm vi hoá đơn của kênh online xem [[ktqt-16-hoa-don-kenh-online]].
+- Phạm vi: theo văn bản tuyên truyền của cơ quan thuế về Điều 1, Điều 2 Nghị định 117, đối tượng áp dụng là tổ chức quản lý nền tảng, hộ, cá nhân cư trú và cá nhân không cư trú kinh doanh trên nền tảng; doanh nghiệp, tổ chức bán trên sàn không thuộc diện bị sàn khấu trừ, nộp thay. Pháp nhân trong tập đoàn bán trên sàn Việt Nam tự lập hoá đơn, tự kê khai ([[ktqt-16-hoa-don-kenh-online]]).
 
 ## Thu hộ và khấu trừ: hai cơ chế khác nhau
 
@@ -160,6 +160,7 @@ Tra cứu ngày 31/10/2026.
 - Odoo 19 Documentation, EU intra-community distance selling: https://www.odoo.com/documentation/19.0/applications/finance/accounting/taxes/eu_distance_selling.html
 - Odoo 19 Documentation, AvaTax integration: https://www.odoo.com/documentation/19.0/applications/finance/accounting/taxes/avatax.html
 - Thông tư 99/2025/TT-BTC, Phụ lục II, Tài khoản 333: mục 1 điểm c, e, g; mô tả TK 3334, 3338, 3339; mục 3.1.1, 3.11.1.
+- Thuế tỉnh Đắk Lắk, văn bản tuyên truyền Nghị định 117/2025/NĐ-CP (phạm vi, đối tượng áp dụng Điều 1, Điều 2): https://cuordang.daklak.gov.vn/uploads/xa-cuordang/thuedientu/TT%20so%20tay%20huong%20dan%20thuong%20mai%20dien%20tu.pdf
 - EY Việt Nam, Tin nhanh tư vấn thuế nhân sự tháng 6/2025: Nghị định 117/2025/NĐ-CP về quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử, nền tảng số: https://www.ey.com/vi_vn/technical/tax/tax-and-law-updates/tin-nhanh-tu-van-thue-nhan-su-thang-6-nam-2025-nghi-dinh-117-ve-quan-ly-thue-doi-voi-hoat-dong-kinh-doanh-tren-nen-tang-thuong-mai-dien-tu-nen-tang-so
 - European Commission, VAT One Stop Shop portal: https://vat-one-stop-shop.ec.europa.eu/one-stop-shop_en
 - Irish Revenue, Deemed supplier: https://www.revenue.ie/en/vat/vat-ecommerce/deemed-supplier/index.aspx

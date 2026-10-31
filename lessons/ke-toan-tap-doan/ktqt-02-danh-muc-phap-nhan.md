@@ -86,12 +86,13 @@ Công ty con lập BCTC bằng đồng tiền khác với đồng tiền báo c�
 
 - Tài sản, nợ phải trả của công ty con và lợi thế thương mại phát sinh khi mua công ty con ở nước ngoài: tỷ giá giao dịch thực tế cuối kỳ;
 - Giá trị tài sản thuần của công ty con do công ty mẹ nắm giữ tại ngày mua: tỷ giá ghi sổ tại ngày mua;
+- Lợi nhuận sau thuế chưa phân phối phát sinh sau ngày mua: tính theo các khoản mục doanh thu, chi phí của Báo cáo kết quả hoạt động kinh doanh;
 - Cổ tức đã trả: tỷ giá giao dịch thực tế tại ngày trả cổ tức;
 - Khoản mục báo cáo kết quả kinh doanh và lưu chuyển tiền tệ: tỷ giá giao dịch thực tế tại thời điểm phát sinh, hoặc tỷ giá bình quân kỳ nếu xấp xỉ (chênh lệch không vượt biên độ tỷ giá giao ngay của Ngân hàng Nhà nước).
 
 Chi tiết ở [[ktqt-06-don-vi-tien-te-chuyen-doi]]. Với danh mục, BA chỉ cần ghi: đơn vị tiền tệ kế toán của từng pháp nhân, đồng tiền báo cáo của tập đoàn, và nguồn tỷ giá mỗi pháp nhân dùng.
 
-> ⚠️ Cần xác nhận: khi ngân hàng thương mại nơi doanh nghiệp thường giao dịch không công bố tỷ giá của loại ngoại tệ cần quy đổi, TT43/2026 cho chọn một đồng tiền trung gian và phải thuyết minh căn cứ chọn. Với tập đoàn có công ty con ở nước dùng đồng tiền ít phổ biến, cần hỏi kế toán tập đoàn đồng tiền trung gian là gì.
+> 💡 Khi ngân hàng thương mại nơi doanh nghiệp thường xuyên giao dịch không công bố tỷ giá của loại ngoại tệ cần quy đổi, Điều 58 TT202 (sửa bởi TT43/2026) cho chọn một loại tiền tệ trung gian để quy đổi sang đồng tiền báo cáo của công ty mẹ, áp dụng nhất quán, và thuyết minh căn cứ chọn cùng cách quy đổi. Với tập đoàn có công ty con ở nước dùng đồng tiền ít phổ biến, BA hỏi kế toán tập đoàn đồng tiền trung gian là gì và ghi vào cột nguồn tỷ giá của danh mục.
 
 ## Nhóm 5: Năm tài chính và kỳ khoá sổ
 

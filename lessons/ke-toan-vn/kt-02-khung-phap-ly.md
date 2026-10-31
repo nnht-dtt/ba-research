@@ -6,7 +6,7 @@ Bài này sắp các văn bản kế toán doanh nghiệp Việt Nam thành ba t
 
 Luật Kế toán phân biệt rõ ba loại quy định:
 
-- **Luật Kế toán** đặt nguyên tắc, yêu cầu, nội dung công tác kế toán, tổ chức bộ máy và quản lý nhà nước (Điều 1).
+- **Luật Kế toán** quy định nội dung công tác kế toán, tổ chức bộ máy kế toán, người làm kế toán, dịch vụ kế toán, quản lý nhà nước về kế toán (Điều 1); các nguyên tắc và yêu cầu kế toán nằm ở Điều 5, Điều 6.
 - **Chuẩn mực kế toán** gồm những quy định và phương pháp kế toán cơ bản để lập báo cáo tài chính (khoản 1 Điều 7). Bộ Tài chính quy định chuẩn mực kế toán của Việt Nam trên cơ sở chuẩn mực quốc tế phù hợp với điều kiện cụ thể của Việt Nam (khoản 3 Điều 7).
 - **Chế độ kế toán** là những quy định và hướng dẫn về kế toán trong một lĩnh vực hoặc một số công việc cụ thể do cơ quan quản lý nhà nước về kế toán hoặc tổ chức được uỷ quyền ban hành (khoản 2 Điều 3).
 
@@ -90,7 +90,7 @@ Khác biệt VAS – IFRS và cách tổ chức sổ khi một doanh nghiệp ph
 
 ## Nguồn
 
-- Luật Kế toán 88/2015/QH13, văn bản hợp nhất đăng Công báo số 172 ngày 31/3/2026: Điều 1; Điều 3 khoản 2; Điều 7; Điều 11 khoản 1; Điều 12 khoản 4; Điều 13 khoản 5, 10; Điều 16 khoản 1; Điều 19 khoản 4; Điều 27 khoản 4; Điều 49; Điều 54 và chú thích các khoản sửa đổi theo Luật 56/2024/QH15. https://cdn.thuvienphapluat.vn//uploads/Hoidapphapluat/2026/LNMT/Thang_4/260404/172_41_VBHN_VPQH.pdf
+- Luật Kế toán 88/2015/QH13, văn bản hợp nhất đăng Công báo số 172 ngày 31/3/2026: Điều 1; Điều 3 khoản 2; Điều 5; Điều 6; Điều 7; Điều 11 khoản 1; Điều 12 khoản 4; Điều 13 khoản 5, 10; Điều 16 khoản 1; Điều 19 khoản 4; Điều 27 khoản 4; Điều 49; Điều 54 và chú thích các khoản sửa đổi theo Luật 56/2024/QH15. https://cdn.thuvienphapluat.vn//uploads/Hoidapphapluat/2026/LNMT/Thang_4/260404/172_41_VBHN_VPQH.pdf
 - Quyết định 149/2001/QĐ-BTC, Điều 1, Điều 3. https://caselaw.vn/van-ban-phap-luat/236203-quyet-dinh-so-149-2001-qd-btc-ngay-31-12-2001-cua-bo-truong-bo-tai-chinh-ban-hanh-va-cong-bo-bon-04-chuan-muc-ke-toan-viet-nam-dot-1
 - Quyết định 165/2002/QĐ-BTC, Điều 1–3 và VAS 01 đoạn 02. https://caselaw.vn/van-ban-phap-luat/234275-quyet-dinh-so-165-2002-qd-btc-ngay-31-12-2002-ban-hanh-va-cong-bo-sau-06-chuan-muc-ke-toan-viet-nam-cua-bo-truong-bo-tai-chinh
 - Quyết định 234/2003/QĐ-BTC, Điều 1. https://hethongphapluat.com/decision-no-234-2003-qd-btc-of-december-30-2003-on-the-issuance-and-publication-of-six-vietnamese-standards-on-accounting-batch-3.html và https://dulieuphapluat.vn/van-ban/ke-toan-kiem-toan-van-ban/decision-2342003qd-btc-promulgating-and-announcing-six-06-vietnamese-accounting-standards-phase-3-issued-by-the-minister-of-finance-999133.html

@@ -112,7 +112,7 @@ Ba cách tiếp cận theo đề cương Kế toán chi phí: theo chi phí th�
 
 Odoo 19 có các điểm tương ứng:
 
-- **MO cost và real cost**: MO cost là chi phí ước tính theo định mức (BoM: nguyên liệu, công đoạn, đơn giá work center), real cost là chi phí thực tế (lượng nguyên liệu dùng thật, thời gian thực, đơn giá giờ của nhân viên). Trang Overview của lệnh sản xuất hiển thị hai cột cạnh nhau, chênh lệch lớn được tô màu.
+- **MO cost và real cost**: MO cost là chi phí ước tính theo định mức (BoM: nguyên liệu, công đoạn, đơn giá work center), real cost là chi phí thực tế (lượng nguyên liệu dùng thật, thời gian thực, đơn giá giờ của nhân viên). Trang Overview của lệnh sản xuất hiển thị hai cột cạnh nhau; khi lệnh hoàn thành, cột MO cost được cập nhật bằng real cost.
 - **Compute Price from BoM**: đặt lại cost của sản phẩm về chi phí dự kiến theo BoM; tài liệu lưu ý giá này không cố định vĩnh viễn.
 - **Standard Price**: phương pháp tính giá cố định, cập nhật thủ công; khi dùng Perpetual có thể đặt Price Difference Account cho nhóm sản phẩm để ghi chênh lệch giữa giá chuẩn và giá mua thực tế.
 

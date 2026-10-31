@@ -123,9 +123,10 @@ Vì vậy một lô hàng nhập khẩu có thể dùng hai đến ba tỷ giá 
 
 - Cuối kỳ hàng nhập khẩu đã thuộc quyền sở hữu nhưng còn ở cảng, kho ngoại quan hay trên đường vận chuyển thì ghi vào TK 151 ([[kt-12-quy-trinh-mua-hang]]).
 - **Nhập khẩu uỷ thác**: bên giao uỷ thác ghi khoản phải trả người bán như mua thường, chi tiết theo từng đơn vị nhận uỷ thác (TK 331 mục 3.11). Phí uỷ thác tính vào giá trị hàng nhập khẩu: Nợ TK 151, 152, 156, 211…, Nợ TK 133 / Có TK 331. Nghĩa vụ thuế thuộc về bên giao uỷ thác. Chỉ bên giao uỷ thác dùng TK 333; bên nhận uỷ thác ghi khoản nộp hộ vào TK 138, 338 (TK 333 nguyên tắc đ).
-- Thuế TTĐB của hàng nhập khẩu được hướng dẫn riêng tại TK 1383 cho một số mặt hàng (TT99 lấy ví dụ mặt hàng xăng).
-
-> ⚠️ Cần xác nhận: hướng dẫn chi tiết TK 1383 nằm trong mục TK 138 của Phụ lục II, bài này chưa trích. Khi dự án có hàng nhập khẩu chịu thuế TTĐB thì đọc riêng mục này.
+- Thuế TTĐB của hàng nhập khẩu mà **được khấu trừ hoặc được hoàn** theo pháp luật thuế (TT99 lấy ví dụ xăng nhập khẩu) không cộng vào giá hàng mà ghi vào **TK 1383 – Thuế TTĐB của hàng nhập khẩu** (TT99, TK 138 nguyên tắc và mục 3.12). Thuế TTĐB của hàng tạm nhập, tái xuất không thuộc sở hữu doanh nghiệp thì theo dõi ở TK 1388. Bút toán chính:
+  - Xác định số thuế TTĐB phải nộp ở khâu nhập khẩu: Nợ TK 1383 / Có TK 3332; khi nộp: Nợ TK 3332 / Có TK 111, 112.
+  - Trong kỳ, khấu trừ với thuế TTĐB phải nộp ở khâu bán ra: Nợ TK 3332 (phần được khấu trừ), Nợ TK 632 (phần thuế đã nộp ở khâu nhập khẩu lớn hơn số phải nộp ở khâu bán ra, trừ mặt hàng được hoàn) / Có TK 1383.
+  - Được hoàn thuế TTĐB đã nộp ở khâu nhập khẩu: Nợ TK 111, 112 / Có TK 1383.
 
 ## Ảnh hưởng tới báo cáo
 
@@ -137,7 +138,7 @@ Vì vậy một lô hàng nhập khẩu có thể dùng hai đến ba tỷ giá 
 ## Nguồn
 
 - Chuẩn mực kế toán Việt Nam số 02 – Hàng tồn kho (Quyết định 149/2001/QĐ-BTC), đoạn 03, 04, 05, 06, 11: https://cdn.thuvienphapluat.vn//uploads/Hoidapphapluat/2024/TTTT/240912/vas2.doc
-- Thông tư 99/2025/TT-BTC, Phụ lục II: nguyên tắc kế toán hàng tồn kho (mục 6, 7, 10); TK 133 (mục 3.4, 3.5); TK 151; TK 152 (mục 1b, 3.2, 3.4–3.6); TK 153 (mục 3b, 3c, 3e); TK 156 (nguyên tắc c, mục 3.1, 3.3–3.5, 3.17); TK 331 (nguyên tắc d, mục 3.1, 3.6, 3.7, 3.11); TK 333 (nguyên tắc d, đ; mục 3.1.2, 3.2, 3.4). Bản đăng lại toàn văn: https://expertis.vn/kb/vbpl/phu-luc-ii-thong-tu-99-2025-tt-btc/
+- Thông tư 99/2025/TT-BTC, Phụ lục II: nguyên tắc kế toán hàng tồn kho (mục 6, 7, 10); TK 133 (mục 3.4, 3.5); TK 138 (TK 1383, mục 3.12); TK 151; TK 152 (mục 1b, 3.2, 3.4–3.6); TK 153 (mục 3b, 3c, 3e); TK 156 (nguyên tắc c, mục 3.1, 3.3–3.5, 3.17); TK 331 (nguyên tắc d, mục 3.1, 3.6, 3.7, 3.11); TK 333 (nguyên tắc d, đ; mục 3.1.2, 3.2, 3.4). Bản đăng lại toàn văn: https://expertis.vn/kb/vbpl/phu-luc-ii-thong-tu-99-2025-tt-btc/
 - Thông tư 99/2025/TT-BTC, Phụ lục I: Mẫu 03-VT Biên bản kiểm nghiệm. Bản đăng lại: https://expertis.vn/kb/vbpl/phu-luc-i-thong-tu-99-2025-tt-btc/
 - Luật Thuế giá trị gia tăng số 48/2024/QH15, Điều 7 khoản 1 điểm b (giá tính thuế hàng nhập khẩu): https://caselaw.vn/van-ban-phap-luat/411486-luat-thue-gia-tri-gia-tang-so-48-2024-qh15-ngay-26-11-2024-cua-quoc-hoi
 - Odoo 19 Documentation, Inventory – Landed costs: https://www.odoo.com/documentation/19.0/applications/inventory_and_mrp/inventory/inventory_valuation/landed_costs.html

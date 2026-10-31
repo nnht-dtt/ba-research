@@ -115,10 +115,10 @@ Nhiều ERP lưu chiều phân tích thành trường riêng gắn lên từng d
 
 Ví dụ giả định với hoá đơn quảng cáo ở trên, 50 triệu đồng chưa thuế, thuế GTGT 10%:
 
-- `Nợ TK 6417 / Có TK 331`: 50.000.000. Dòng này mang chiều Phòng ban = Marketing, Kênh = Website, Thương hiệu = A, Khu vực = Nam.
+- `Nợ TK 6418 / Có TK 331`: 50.000.000. Dòng này mang chiều Phòng ban = Marketing, Kênh = Website, Thương hiệu = A, Khu vực = Nam.
 - `Nợ TK 133 / Có TK 331`: 5.000.000.
 
-Tài khoản Nợ/Có vẫn là TK 6417 – Chi phí dịch vụ mua ngoài thuộc TK 641 theo TT99. Chiều phân tích chỉ là thông tin đi kèm dòng bút toán, nên BCTC không bị ảnh hưởng.
+Tài khoản Nợ/Có vẫn là TK 6418 – Chi phí bằng tiền khác thuộc TK 641; TT99 xếp quảng cáo, chào hàng vào tài khoản này (xem [[kt-14-mua-dich-vu-tai-san]]). Chiều phân tích chỉ là thông tin đi kèm dòng bút toán, nên BCTC không bị ảnh hưởng.
 
 ### So sánh hai cách
 

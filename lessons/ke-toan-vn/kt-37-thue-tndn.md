@@ -30,7 +30,7 @@ Vì kế toán đi theo chuẩn mực còn thuế đi theo luật thuế, hai co
 - Thuế GTGT đầu vào đã được khấu trừ; thuế TNDN; tiền chậm nộp theo pháp luật quản lý thuế.
 - Khoản tài trợ, trừ các khoản tài trợ được liệt kê là được trừ.
 
-> ⚠️ Cần xác nhận: mức chi, điều kiện chi tiết và hồ sơ của từng khoản do Nghị định 320/2025/NĐ-CP và Thông tư 20/2026/TT-BTC hướng dẫn. Bài này chưa đối chiếu các văn bản đó; khi thiết kế danh mục "chi phí không được trừ" cho khách, lấy danh sách từ kế toán thuế của khách.
+> ⚠️ Cần xác nhận: mức chi, điều kiện chi tiết và hồ sơ của từng khoản do Nghị định 320/2025/NĐ-CP (Điều 9, 10 hướng dẫn Điều 9 Luật) và Thông tư 20/2026/TT-BTC (Điều 3) hướng dẫn. Bài này chưa đối chiếu nội dung các văn bản đó; khi thiết kế danh mục "chi phí không được trừ" cho khách, lấy danh sách từ kế toán thuế của khách.
 
 ### Chênh lệch tạm thời
 
@@ -79,7 +79,7 @@ Không phản ánh vào TK 821 phần thuế hoãn lại phát sinh từ giao d�
 
 Theo Luật 67/2025:
 
-- Thuế suất phổ thông 20% (Điều 10 khoản 1). Doanh nghiệp có tổng doanh thu năm không quá 3 tỷ đồng áp dụng 15%; từ trên 3 tỷ đến không quá 50 tỷ đồng áp dụng 17%. Doanh thu làm căn cứ là tổng doanh thu của kỳ tính thuế trước liền kề (Điều 10 khoản 2, 3). Một số hoạt động (dầu khí, tài nguyên quý hiếm) có thuế suất riêng.
+- Thuế suất phổ thông 20% (Điều 10 khoản 1). Doanh nghiệp có tổng doanh thu năm không quá 3 tỷ đồng áp dụng 15%; từ trên 3 tỷ đến không quá 50 tỷ đồng áp dụng 17%. Doanh thu làm căn cứ là tổng doanh thu của kỳ tính thuế trước liền kề (Điều 10 khoản 2, 3). Mức 15% và 17% không áp dụng cho một số loại thu nhập (ví dụ chuyển nhượng vốn, bất động sản) và cho công ty con hoặc công ty có quan hệ liên kết mà doanh nghiệp liên kết không đáp ứng điều kiện áp dụng hai mức này (Điều 18 khoản 3, 4). Một số hoạt động (dầu khí, tài nguyên quý hiếm) có thuế suất riêng.
 - Kỳ tính thuế theo năm dương lịch hoặc năm tài chính doanh nghiệp chọn; chọn năm tài chính khác năm dương lịch thì thông báo cơ quan thuế trước (Điều 5).
 - Lỗ được chuyển sang năm sau, trừ vào thu nhập chịu thuế, thời gian chuyển lỗ liên tục không quá 5 năm kể từ năm tiếp theo năm phát sinh lỗ (Điều 16).
 
@@ -94,7 +94,7 @@ Hệ quả cho hệ thống: thuế suất không phải tham số cố định 
 | B01-DN | Mã số 314 Thuế và các khoản phải nộp Nhà nước | Dư Có chi tiết TK 333 (có 3334) |
 | B01-DN | Mã số 163 Thuế và các khoản khác phải thu Nhà nước | Dư Nợ chi tiết TK 333 (nộp thừa) |
 | B01-DN | Mã số 272, 342 | Dư Nợ TK 243, dư Có TK 347 |
-| B03-DN | Mã số 05 Thuế TNDN đã nộp | Tiền chi nộp thuế, đối chiếu TK 3334 |
+| B03-DN | Mã số 05 (phương pháp trực tiếp) hoặc Mã số 15 (gián tiếp) Thuế TNDN đã nộp | Tiền chi nộp thuế, đối chiếu TK 3334 |
 
 Bản thuyết minh (B09-DN) có bảng "Chi phí thuế thu nhập doanh nghiệp" đi từ lợi nhuận kế toán trước thuế, nhân thuế suất hiện hành, rồi điều chỉnh các khoản thu nhập không chịu thuế, chi phí không được khấu trừ, dự phòng thiếu hoặc thừa của các năm trước để ra chi phí thuế. Có thêm bảng tài sản thuế thu nhập hoãn lại và thuế hoãn lại phải trả, ghi rõ thuế suất dùng để xác định ([[kt-42-thuyet-minh-bctc]]).
 
@@ -110,7 +110,7 @@ Bản thuyết minh (B09-DN) có bảng "Chi phí thuế thu nhập doanh nghi�
 
 ## Nguồn
 
-- Luật Thuế thu nhập doanh nghiệp số 67/2025/QH15: Điều 5, 6, 7, 8, 9, 10, 11, 16, 19. https://luatvietnam.vn/thue/luat-thue-thu-nhap-doanh-nghiep-2025-so-67-2025-qh15-404386-d1.html
+- Luật Thuế thu nhập doanh nghiệp số 67/2025/QH15: Điều 5, 6, 7, 8, 9, 10, 11, 16, 18, 19 (bản trên luatvietnam có chú thích văn bản hướng dẫn từng điều). https://luatvietnam.vn/thue/luat-thue-thu-nhap-doanh-nghiep-2025-so-67-2025-qh15-404386-d1.html
 - Chuẩn mực kế toán số 17 – Thuế thu nhập doanh nghiệp (Quyết định 12/2005/QĐ-BTC): đoạn 01 đến 05 (định nghĩa, cơ sở tính thuế), 16, 32 đến 34. https://vanban.vcci.com.vn/quyet-dinh-122005qd-btc-cua-bo-tai-chinh-ve-viec-ban-hanh-va-cong-bo-sau-06-chuan-muc-ke-toan-viet-nam-dot-4
 - Thông tư 99/2025/TT-BTC, Phụ lục II: TK 821, TK 3334 (mục 3.5 TK 333), TK 243, TK 421 điểm g. https://cms.luatvietnam.vn/uploaded/Others/2025/11/16/Phu_luc_II._He_thong_tai_khoan_ke_toan_doanh_nghiep_1611132408.docx
 - Thông tư 99/2025/TT-BTC, Phụ lục IV: hướng dẫn chỉ tiêu Mã số 51, 52 (B02-DN), 163, 272, 314, 342 (B01-DN), 05 (B03-DN); mẫu B09-DN phần thông tin bổ sung về chi phí thuế TNDN và thuế hoãn lại. https://luatvietnam.vn/doanh-nghiep/thong-tu-99-2025-tt-btc-huong-dan-che-do-ke-toan-doanh-nghiep-tu-01-01-2026-417085-d1.html

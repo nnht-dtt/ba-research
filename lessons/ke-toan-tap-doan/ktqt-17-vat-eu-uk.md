@@ -117,7 +117,7 @@ Hàng đã ở UK tại thời điểm bán, người bán ở nước ngoài, b
 - Sàn chịu trách nhiệm VAT trên giao dịch bán cho khách, với hàng có giá trị bất kỳ.
 - Người bán nước ngoài vẫn chịu VAT nhập khẩu và thuế hải quan khi đưa hàng vào UK, và được coi là thực hiện một giao dịch bán cho sàn với thuế suất 0% (zero-rated deemed supply).
 
-Khách là doanh nghiệp có mã số VAT UK hợp lệ: người bán (hoặc sàn) thường không tính VAT, khách tự kê khai theo cơ chế đảo ngược (reverse charge), hoá đơn ghi chú "reverse charge: customer to account for VAT to HMRC". Với hàng đã ở UK bán cho khách doanh nghiệp, người bán vẫn chịu trách nhiệm VAT, không phải sàn.
+Khách là doanh nghiệp có mã số VAT UK hợp lệ, với lô từ ngoài UK không quá 135 GBP: người bán (hoặc sàn) không tính VAT, khách tự kê khai theo cơ chế đảo ngược (reverse charge), hoá đơn ghi chú "reverse charge: customer to account for VAT to HMRC". Với hàng đã ở UK bán cho khách doanh nghiệp qua sàn, sàn chuyển thông tin (gồm mã VAT của khách) cho người bán và người bán chịu trách nhiệm VAT trên giao dịch đó, không phải sàn.
 
 Lô trên 135 GBP: áp quy tắc VAT và hải quan thông thường khi nhập khẩu.
 

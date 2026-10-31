@@ -44,7 +44,7 @@ Hệ quả cho thiết kế: một bút toán đã ghi sổ không được sử
 
 ### Hai kỹ thuật điều chỉnh thường gặp
 
-Ví dụ giả định (bỏ qua thuế GTGT): một dịch vụ quảng cáo thuê ngoài 20.000.000 đồng phục vụ bán hàng nhưng bị ghi vào TK 6427 - Chi phí dịch vụ mua ngoài của chi phí quản lý doanh nghiệp. Bút toán gốc là `Nợ TK 6427 / Có TK 331`. Đúng ra phải ghi `Nợ TK 6417 / Có TK 331` (TK 6417 - Chi phí dịch vụ mua ngoài của chi phí bán hàng).
+Ví dụ giả định (bỏ qua thuế GTGT): tiền thuê kho chứa hàng hoá chờ bán 20.000.000 đồng nhưng bị ghi vào TK 6427 - Chi phí dịch vụ mua ngoài của chi phí quản lý doanh nghiệp. Bút toán gốc là `Nợ TK 6427 / Có TK 331`. Đúng ra phải ghi `Nợ TK 6417 / Có TK 331` (TK 6417 - Chi phí dịch vụ mua ngoài của chi phí bán hàng; Phụ lục II TT99 nêu tiền thuê kho, thuê bãi phục vụ bán hàng là ví dụ của tài khoản này).
 
 **Cách 1: bút toán điều chỉnh phần chênh lệch.** Lập chứng từ điều chỉnh, chỉ ghi phần cần chuyển:
 
@@ -116,7 +116,7 @@ Trong ERP như Odoo, hoá đơn điều chỉnh giảm được thể hiện b�
 
 - Luật Kế toán số 88/2015/QH13 (văn bản hợp nhất 41/VBHN-VPQH, Công báo số 172 ngày 31/03/2026): Điều 16, khoản 2 Điều 18, khoản 2 Điều 26, Điều 27. https://cdn.thuvienphapluat.vn//uploads/Hoidapphapluat/2026/LNMT/Thang_4/260404/172_41_VBHN_VPQH.pdf
 - Thông tư 99/2025/TT-BTC: Điều 9, khoản 2 Điều 13, Điều 28. Toàn văn: https://docs.google.com/document/d/1pVNpXGJEpTA1nRM2pM4IzomKqqulmWNz/export?format=pdf
-- Thông tư 99/2025/TT-BTC, Phụ lục I (danh mục chứng từ) và Phụ lục II phần B (TK 112 điểm 1.b; TK 242 điểm 1.c; TK 521 điểm 1.b, 3.a; TK 911 điểm 3). https://luatvietnam.vn/doanh-nghiep/thong-tu-99-2025-tt-btc-huong-dan-che-do-ke-toan-doanh-nghiep-tu-01-01-2026-417085-d1.html; Phụ lục II bản Word: https://cms.luatvietnam.vn/uploaded/Others/2025/11/16/Phu_luc_II._He_thong_tai_khoan_ke_toan_doanh_nghiep_1611132408.docx
+- Thông tư 99/2025/TT-BTC, Phụ lục I (danh mục chứng từ) và Phụ lục II phần B (TK 112 điểm 1.b; TK 242 điểm 1.c; TK 521 điểm 1.b, 3.a; TK 641, 642 tài khoản cấp 2 6417, 6427; TK 911 điểm 3). https://luatvietnam.vn/doanh-nghiep/thong-tu-99-2025-tt-btc-huong-dan-che-do-ke-toan-doanh-nghiep-tu-01-01-2026-417085-d1.html; Phụ lục II bản Word: https://cms.luatvietnam.vn/uploaded/Others/2025/11/16/Phu_luc_II._He_thong_tai_khoan_ke_toan_doanh_nghiep_1611132408.docx
 - Thông tư 91/2026/TT-BTC: Điều 10 (xử lý hoá đơn điện tử đã lập), Điều 25 (hiệu lực). https://luatvietnam.vn/thue/thong-tu-91-2026-tt-btc-quy-dinh-luat-quan-ly-thue-va-hoa-don-dien-tu-439780-d1.html
 - Nghị định 254/2026/NĐ-CP: Điều 43 (hiệu lực, văn bản hết hiệu lực). https://luatvietnam.vn/thue/nghi-dinh-254-2026-nd-cp-huong-dan-thi-hanh-luat-quan-ly-thue-2025-ve-hoa-don-dien-tu-439381-d1.html
 - EY Việt Nam, Tin nhanh về Thuế tháng 7/2026, mục 6 (Thông tư 91 và kê khai hoá đơn điều chỉnh, thay thế): https://www.ey.com/content/dam/ey-unified-site/ey-com/vi-vn/technical/tax/documents/ey-vn-decree-254-on-electronic-invoices-and-electronic-documents.pdf

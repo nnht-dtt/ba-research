@@ -142,7 +142,7 @@ IAS 21 không dùng cách phân loại hai nhóm này. Mỗi đơn vị xác đ�
 
 - **Lợi thế thương mại và điều chỉnh giá trị hợp lý** phát sinh khi mua hoạt động ở nước ngoài được coi là tài sản, nợ phải trả của hoạt động đó: thể hiện bằng đồng tiền chức năng của nó và quy đổi theo tỷ giá cuối kỳ (đoạn 47). VAS 10 đoạn 27 cũng đề cập vấn đề này.
 - **Khoản mục tiền tệ nội bộ** (phải thu, phải trả nội bộ) dù ngắn hạn hay dài hạn không loại trừ được mà không thể hiện ảnh hưởng của biến động tỷ giá. Chênh lệch tỷ giá trên khoản này vẫn vào lãi lỗ hợp nhất (đoạn 45; VAS 10 đoạn 28). Vì vậy khi đối chiếu công nợ nội bộ giữa hai pháp nhân khác đồng tiền, hai bên sẽ lệch nhau đúng bằng phần chênh lệch tỷ giá. Xem [[ktqt-03-giao-dich-noi-bo]].
-- **Khoản cho vay nội bộ là một phần đầu tư thuần**: khoản phải thu, phải trả với hoạt động ở nước ngoài mà việc thanh toán không được lên kế hoạch và khó xảy ra trong tương lai gần (đoạn 15). Chênh lệch tỷ giá vào lãi lỗ trên báo cáo riêng, nhưng trên BCTC hợp nhất thì vào OCI và chuyển sang lãi lỗ khi thanh lý khoản đầu tư thuần (đoạn 32). VAS 10 đoạn 14–15 có quy định tương tự. Hệ thống cần một cờ đánh dấu khoản vay nội bộ thuộc loại này.
+- **Khoản cho vay nội bộ là một phần đầu tư thuần**: khoản phải thu, phải trả với hoạt động ở nước ngoài mà việc thanh toán không được lên kế hoạch và khó xảy ra trong tương lai gần (đoạn 15). Chênh lệch tỷ giá vào lãi lỗ trên báo cáo riêng, nhưng trên BCTC hợp nhất thì vào OCI và chuyển sang lãi lỗ khi thanh lý khoản đầu tư thuần (đoạn 32). VAS 10 đoạn 14–15 cũng coi khoản này là một phần đầu tư thuần, nhưng phân loại chênh lệch tỷ giá vào vốn chủ sở hữu "trong báo cáo tài chính của doanh nghiệp" cho đến khi thanh lý, không tách cách xử lý giữa báo cáo riêng và hợp nhất như IAS 21. Hệ thống cần một cờ đánh dấu khoản vay nội bộ thuộc loại này.
 - **Thanh lý hoạt động ở nước ngoài**: số chênh lệch luỹ kế trong OCI được chuyển từ vốn chủ sở hữu sang lãi lỗ khi ghi nhận lãi lỗ thanh lý (đoạn 48). Phần đã phân bổ cho lợi ích cổ đông không kiểm soát được dừng ghi nhận, không chuyển sang lãi lỗ (đoạn 48B).
 - **Ngày lập báo cáo khác nhau**: nếu báo cáo của hoạt động ở nước ngoài lập vào ngày khác với đơn vị báo cáo, chênh lệch không quá ba tháng thì tài sản, nợ phải trả quy đổi theo tỷ giá tại ngày báo cáo của hoạt động ở nước ngoài, có điều chỉnh cho biến động tỷ giá đáng kể (đoạn 46; VAS 10 đoạn 29).
 
@@ -156,7 +156,9 @@ IAS 21 không dùng cách phân loại hai nhóm này. Mỗi đơn vị xác đ�
 
 Ví dụ Odoo 19: tiền tệ chính được xác định theo công ty, mặc định theo quốc gia của công ty và đổi được trong phần cài đặt kế toán. Sổ nhật ký hoặc tài khoản có thể gắn một tiền tệ riêng; khi đó chỉ nhận giao dịch bằng tiền tệ đó.
 
-> ⚠️ Cần xác nhận: tài liệu Odoo 19 về đa tiền tệ không mô tả việc Odoo chuyển đổi BCTC theo các nhóm tỷ giá của TT99 Điều 6 hoặc IAS 21 đoạn 39. Cần kiểm tra tính năng hợp nhất, báo cáo của phiên bản cụ thể trước khi kết luận.
+Khi hợp nhất các company khác đồng tiền, tài liệu Consolidation của Odoo 19 mô tả cách quy đổi: tài khoản vốn chủ sở hữu theo tỷ giá lịch sử, tài khoản lãi lỗ theo tỷ giá bình quân gia quyền, tài khoản bảng cân đối (trừ vốn chủ sở hữu) theo tỷ giá cuối kỳ; tỷ giá lấy theo company đang được chọn.
+
+> ⚠️ Cần xác nhận: tài liệu Odoo 19 không nói cách quy đổi trên tách được chênh lệch đánh giá lại tài sản (tỷ giá ngày đánh giá) và lợi nhuận chưa phân phối luỹ kế (tỷ giá ghi sổ) như TT99 Điều 6, hay tự lập bộ BCTC bằng VND cho một pháp nhân ghi sổ bằng ngoại tệ. Cần kiểm tra trên phiên bản cụ thể trước khi kết luận.
 
 Lịch khoá sổ và tỷ giá dùng chung cho gói báo cáo tập đoàn xem [[ktqt-12-bao-cao-cho-tap-doan]].
 
@@ -168,3 +170,4 @@ Lịch khoá sổ và tỷ giá dùng chung cho gói báo cáo tập đoàn xem 
 - IAS 21 The Effects of Changes in Foreign Exchange Rates (IFRS Foundation), đoạn 8–19, 35–48B. Trang chuẩn mực: https://www.ifrs.org/issued-standards/list-of-standards/ias-21-the-effects-of-changes-in-foreign-exchange-rates/. Văn bản chuẩn mực đã đọc (bản IFRS Foundation trước sửa đổi Lack of Exchangeability năm 2023): https://ktkt.uel.edu.vn/Resources/Docs/SubDomain/ktkt/VanBan/IAS/ias21_en.pdf
 - Forvis Mazars Việt Nam, Góc nhìn chuyên môn – Thông tư 99/2025/TT-BTC, mục 4 "Đơn vị tiền tệ và giao dịch ngoại tệ" (đối chiếu): https://www.forvismazars.com/vn/vi/content/download/1305056/file/%5BVIE%5D%20Forvis%20Mazars%20Vi%E1%BB%87t%20Nam_G%C3%B3c%20nh%C3%ACn%20chuy%C3%AAn%20m%C3%B4n_Th%C3%B4ng%20t%C6%B0%2099.pdf
 - Odoo 19 Documentation, Accounting – Multi-currency system: https://www.odoo.com/documentation/19.0/applications/finance/accounting/get_started/multi_currency.html
+- Odoo 19 Documentation, Consolidation (Cumulative Translation Adjustments): https://www.odoo.com/documentation/19.0/applications/finance/accounting/get_started/consolidation.html

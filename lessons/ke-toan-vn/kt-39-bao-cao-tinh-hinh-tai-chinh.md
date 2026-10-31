@@ -30,7 +30,7 @@ So với mẫu TT200, bài so sánh của MISA (dùng để đối chiếu) ch�
 - **Tài sản ngắn hạn** khi: dự kiến thu hồi, bán hoặc dùng trong một chu kỳ kinh doanh thông thường; nắm giữ chủ yếu để thương mại; dự kiến thu hồi trong 12 tháng trở xuống kể từ ngày kết thúc kỳ; hoặc là tiền, tương đương tiền không bị hạn chế. Còn lại là dài hạn.
 - **Nợ ngắn hạn** khi: dự kiến thanh toán trong một chu kỳ kinh doanh thông thường; nắm giữ chủ yếu vì mục đích kinh doanh; đến hạn trong 12 tháng trở xuống; hoặc doanh nghiệp không có quyền từ chối thanh toán trong 12 tháng tới. Các khoản là một phần vốn lưu động (phải trả nhà cung cấp, chi phí phải trả nhân viên...) xếp ngắn hạn kể cả khi thanh toán sau 12 tháng.
 - Chu kỳ kinh doanh không xác định rõ thì coi là 12 tháng.
-- Khi lập báo cáo phải **tái phân loại** khoản dài hạn kỳ trước thành ngắn hạn nếu nay thoả điều kiện ngắn hạn.
+- Khi lập báo cáo phải **tái phân loại** khoản dài hạn kỳ trước thành ngắn hạn nếu nay thoả điều kiện ngắn hạn, trừ trường hợp TT99 không cho tái phân loại. Ví dụ Phụ lục IV ghi rõ chi phí chờ phân bổ dài hạn (Mã số 271) không tái phân loại thành ngắn hạn.
 
 Hệ quả cho hệ thống: cùng một tài khoản (131, 331, 341, 242, 3387...) có thể rơi vào cả chỉ tiêu ngắn hạn lẫn dài hạn. Muốn tách tự động, số dư phải đi kèm ngày đến hạn hoặc kỳ hạn còn lại (theo hợp đồng vay, theo lịch phân bổ, theo hạn thanh toán của từng khoản công nợ). Nếu hệ thống không giữ dữ liệu này, kế toán sẽ phải tách tay mỗi kỳ.
 

@@ -62,7 +62,7 @@ Bút toán chính (TT99 TK 333 mục 3.1):
 
 - Bán hàng, phương pháp khấu trừ, tách thuế ngay khi xuất hoá đơn: `Nợ TK 111, 112, 131 / Có TK 511, 515, 711 (giá chưa thuế) / Có TK 3331 (33311)`.
 - Phương pháp trực tiếp: hoặc tách ngay như trên, hoặc ghi doanh thu gồm cả thuế rồi định kỳ ghi giảm `Nợ TK 511, 515, 711 / Có TK 3331 (33311)`.
-- Hàng bị trả lại, giảm giá, chiết khấu thương mại: `Nợ TK 521 / Nợ TK 3331 / Có TK 111, 112, 131` (xem [[kt-18-giam-tru-tra-truoc]], [[kt-19-doi-tra-hoan-tien]]).
+- Hàng bị trả lại, giảm giá, chiết khấu thương mại (TT99 TK 521 mục 3): `Nợ TK 521 / Nợ TK 3331 / Có TK 111, 112, 131` (xem [[kt-18-giam-tru-tra-truoc]], [[kt-19-doi-tra-hoan-tien]]).
 
 TT99 (TK 333 mục 1.c) coi thuế gián thu về bản chất là khoản thu hộ bên thứ ba, nên phải loại khỏi doanh thu trên báo cáo tài chính trong mọi trường hợp.
 

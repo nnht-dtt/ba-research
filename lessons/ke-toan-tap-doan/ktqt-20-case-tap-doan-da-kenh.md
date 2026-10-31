@@ -30,7 +30,7 @@ Vài điểm cần đọc đúng từ bảng:
 - Quyền biểu quyết và tỷ lệ lợi ích là hai cột riêng. Ở đây cả hai đều 100% nên không có cổ đông không kiểm soát; nếu M chỉ nắm, ví dụ, 80% A-US thì bước tách lợi ích cổ đông không kiểm soát ở [[ktqt-04-bctc-hop-nhat]] sẽ phát sinh.
 - A-VN ghi sổ bằng VND theo TT99 Điều 4. Kết luận đơn vị tiền tệ kế toán theo VAS và đồng tiền chức năng theo IAS 21 là xét đoán của kế toán và kiểm toán, BA chỉ ghi nhận kết quả. Bài giả định cả hai đều là VND ([[ktqt-06-don-vi-tien-te-chuyen-doi]]).
 - Ba pháp nhân khác chuẩn mực hoặc khác đồng tiền nên trong ERP mỗi pháp nhân là một company riêng. Một đơn vị có đồng tiền kế toán hoặc năm tài chính khác thì không thể dựng thành branch ([[ktqt-02-danh-muc-phap-nhan]]).
-- Cả ba cùng kết thúc năm 31/12 nên không có bài toán năm tài chính lệch. Nếu A-VN chọn năm 01/04–31/03, chênh lệch với 31/12 là 9 tháng, vượt giới hạn 3 tháng, A-VN phải lập thêm số liệu cho kỳ 01/01–31/12 ([[ktqt-12-bao-cao-cho-tap-doan]]).
+- Cả ba cùng kết thúc năm 31/12 nên không có bài toán năm tài chính lệch. Nếu A-VN chọn năm 01/04–31/03, BCTC năm gần nhất đã có tại 31/12 (kết thúc 31/03 cùng năm) lệch 9 tháng, vượt giới hạn 3 tháng, A-VN phải lập thêm số liệu cho kỳ 01/01–31/12 ([[ktqt-12-bao-cao-cho-tap-doan]]).
 
 Tỷ giá giả định dùng trong cả bài:
 
@@ -167,9 +167,7 @@ Nếu tích hợp chỉ đẩy "số tiền thực nhận" 1.012.000 đ vào doa
 
 Phí 80.000 đ gắn với đơn nên thuộc tháng 12, kỳ ghi doanh thu, dù quyết toán và hoá đơn phí về trong tháng 1 ([[ktqt-14-phi-san-cong-thanh-toan]]). Không trích trước thì lợi nhuận tháng 12 cao hơn thực tế 80.000 đ và tháng 1 thấp hơn chừng ấy. Dữ liệu phí theo từng đơn từ sàn là bằng chứng cho khoản trích trước trên TK 335.
 
-Hoá đơn dịch vụ của sàn về sau đơn hàng là bình thường: dịch vụ TMĐT thuộc nhóm được lập hoá đơn khi hoàn thành đối soát, chậm nhất ngày 07 của tháng sau tháng phát sinh dịch vụ.
-
-> ⚠️ Cần xác nhận: số khoản, điểm và danh sách đầy đủ tại Điều 9 Nghị định 254/2026/NĐ-CP với văn bản gốc, như đã ghi ở [[ktqt-14-phi-san-cong-thanh-toan]].
+Hoá đơn dịch vụ của sàn về sau đơn hàng là bình thường: dịch vụ TMĐT thuộc nhóm được lập hoá đơn khi hoàn thành đối soát, chậm nhất ngày 07 của tháng sau tháng phát sinh dịch vụ (Nghị định 254/2026/NĐ-CP, Điều 9 khoản 4 điểm a; [[ktqt-14-phi-san-cong-thanh-toan]]).
 
 ### Hoá đơn hai chiều
 
@@ -178,7 +176,7 @@ Hoá đơn dịch vụ của sàn về sau đơn hàng là bình thường: dị
 | Bán hàng | A-VN | Người mua cuối (ghi "Bán cho người tiêu dùng" nếu người mua không cung cấp thông tin) | 30/12 |
 | Phí dịch vụ sàn | Nhà vận hành sàn | A-VN | 07/01 |
 
-Bán hàng hoá qua sàn không nằm trong các trường hợp được lập hoá đơn tổng hợp cuối ngày mà các nguồn của khoá liệt kê, nên A-VN lập theo từng đơn ([[ktqt-16-hoa-don-kenh-online]]). Nếu sau đó khách trả hàng, A-VN lập hoá đơn điều chỉnh, ghi `Nợ TK 521`, `Nợ TK 3331 / Có TK 131` và nhập lại kho; phí sàn được hoàn (nếu có) ghi giảm chi phí bán hàng.
+Bán hàng hoá qua sàn không nằm trong các trường hợp được lập hoá đơn tổng hợp cuối ngày tại khoản 4 Điều 9 Nghị định 254, nên A-VN lập theo từng đơn ([[ktqt-16-hoa-don-kenh-online]]). Nếu sau đó khách trả hàng, A-VN lập hoá đơn điều chỉnh, ghi `Nợ TK 521`, `Nợ TK 3331 / Có TK 131` và nhập lại kho; phí sàn được hoàn (nếu có) ghi giảm chi phí bán hàng.
 
 ### Đối soát ba chiều
 
@@ -244,9 +242,7 @@ Nghĩa vụ thuế gắn với pháp nhân và nơi bán, không gắn với t�
 
 ### Tại Việt Nam
 
-Thuế GTGT là khoản thu hộ, không phải doanh thu, nên đơn sàn ghi 100.000 đ vào TK 33311 chứ không vào TK 511. Cơ chế sàn khấu trừ, nộp thay thuế GTGT và TNCN theo Nghị định 117/2025/NĐ-CP áp cho hộ, cá nhân kinh doanh; nguồn của khoá không nói cơ chế này áp cho doanh nghiệp.
-
-> ⚠️ Cần xác nhận: đối chiếu văn bản gốc trước khi kết luận sàn không khấu trừ thuế với pháp nhân A-VN, như đã ghi ở [[ktqt-19-thue-da-quoc-gia]].
+Thuế GTGT là khoản thu hộ, không phải doanh thu, nên đơn sàn ghi 100.000 đ vào TK 33311 chứ không vào TK 511. Cơ chế sàn khấu trừ, nộp thay thuế GTGT và TNCN theo Nghị định 117/2025/NĐ-CP chỉ áp cho hộ, cá nhân kinh doanh; pháp nhân A-VN không thuộc đối tượng áp dụng nên sàn không khấu trừ thuế của A-VN ([[ktqt-19-thue-da-quoc-gia]]).
 
 ### Tại Mỹ
 
@@ -399,3 +395,4 @@ Ví dụ giả định, tổng hợp từ các bài trong khoá.
 - [[ktqt-18-sales-tax-my]]
 - [[ktqt-19-thue-da-quoc-gia]]
 - [[kt-22-thue-gtgt-dau-ra]], [[kt-33-trung-tam-chi-phi]], [[kt-37-thue-tndn]]
+- Nghị định 254/2026/NĐ-CP, Điều 9 khoản 4 (toàn văn): https://luatvietnam.vn/thue/nghi-dinh-254-2026-nd-cp-huong-dan-thi-hanh-luat-quan-ly-thue-2025-ve-hoa-don-dien-tu-439381-d1.html

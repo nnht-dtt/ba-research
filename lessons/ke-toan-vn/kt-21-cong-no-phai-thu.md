@@ -80,7 +80,7 @@ Với nợ chưa đến hạn nhưng có bằng chứng khách nợ đã phá s�
 
 TT99 cũng cho phép: nếu doanh nghiệp có bằng chứng tin cậy hơn hoặc phương pháp khác phù hợp hơn để xác định giá trị có thể thu hồi thì có thể áp dụng phương pháp đó.
 
-> ⚠️ Cần xác nhận: mức trích lập trên là theo chế độ kế toán TT99. Khoản dự phòng nào được tính vào chi phí được trừ khi tính thuế TNDN do văn bản thuế và văn bản về trích lập dự phòng quy định (Thông tư 48/2019/TT-BTC, sửa đổi bởi Thông tư 24/2022/TT-BTC, theo các nguồn tra cứu). Bài này chưa đọc nguyên văn các thông tư đó nên chưa đối chiếu được điều kiện hồ sơ và tình trạng hiệu lực tại 31/10/2026. Xem [[kt-37-thue-tndn]].
+> ⚠️ Cần xác nhận: mức trích lập trên là theo chế độ kế toán TT99. Khoản dự phòng nào được tính vào chi phí được trừ khi tính thuế TNDN do văn bản thuế và văn bản về trích lập dự phòng quy định (Thông tư 48/2019/TT-BTC, sửa đổi bởi Thông tư 24/2022/TT-BTC). Về hiệu lực: Quyết định 1760/QĐ-BTC ngày 01/7/2026 công bố Thông tư 48/2019 tiếp tục có hiệu lực, áp dụng từ kỳ tính thuế TNDN năm 2025 cho đến khi có văn bản thay thế nhưng không quá 31/12/2026 (theo Thời báo Tài chính Việt Nam). Bài này chưa đọc nguyên văn các thông tư đó nên chưa đối chiếu được điều kiện hồ sơ, và cần kiểm tra văn bản thay thế từ năm 2027. Xem [[kt-37-thue-tndn]].
 
 ### Bút toán
 
@@ -138,4 +138,5 @@ Tổng hợp từ các yêu cầu trên, để kế toán trích lập dự phò
 - Thông tư 99/2025/TT-BTC, Phụ lục II: nguyên tắc kế toán các khoản nợ phải thu (mục 1–4); TK 131 (mục 1, 2, 3.4, 3.5, 3.7, 3.8); TK 229 (mục 1.1.c, 1.4, danh mục tài khoản cấp 2, 3.3). https://expertis.vn/wp-content/uploads/2026/01/Loai-tai-khoan-tai-san-TK-111-⟶-244.pdf
 - Thông tư 99/2025/TT-BTC, Phụ lục II, phần A danh mục tài khoản (TK 229, 2293). https://expertis.vn/van-ban/phu-luc-ii-thong-tu-99-2025-tt-btc/
 - Chuẩn mực kế toán Việt Nam số 14 "Doanh thu và thu nhập khác" (Quyết định 149/2001/QĐ-BTC), đoạn 14, 18, 30, 32. https://cdn.thuvienphapluat.vn//uploads/Hoidapphapluat/2024/TTTT/240830/Chuan-muc-ke-toan-14.doc
+- Thời báo Tài chính Việt Nam, "Thông tư số 45/2013/TT-BTC và Thông tư số 48/2019/TT-BTC tiếp tục có hiệu lực" (Quyết định 1760/QĐ-BTC ngày 01/7/2026). https://thoibaotaichinhvietnam.vn/thong-tu-so-452013tt-btc-va-thong-tu-so-482019tt-btc-tiep-tuc-co-hieu-luc-200058.html
 - Học viện Ngân hàng, Đề cương chi tiết học phần Kế toán tài chính 1 (ACT02A), 2019, nội dung chương "Kế toán vốn bằng tiền, các khoản phải thu và các tài sản ngắn hạn khác", mục 1.2. https://hvnh.edu.vn/medias/acc/vi/05.2022/system/archivedate/795b99b6_25.%202019%20DCCT%20-%20KTTC%201%20ACT02A%20-%20ky.pdf

@@ -84,12 +84,13 @@ Phụ lục IV hướng dẫn B01-DNKLT không phân biệt ngắn hạn, dài h
 
 TT99 có hiệu lực từ 01/01/2026, áp dụng cho năm tài chính bắt đầu từ hoặc sau ngày 01/01/2026, thay thế TT200/2014 (Điều 31). Vì mốc áp dụng gắn với ngày bắt đầu năm tài chính, dự án triển khai giao năm cần làm rõ năm tài chính của khách để biết bộ mẫu nào áp dụng cho kỳ báo cáo đầu tiên trên hệ thống mới.
 
-> ⚠️ Cần xác nhận: với khách có năm tài chính không trùng năm dương lịch (bắt đầu trước 01/01/2026 và kết thúc trong năm 2026), hỏi kế toán trưởng và kiểm toán của khách đang lập BCTC năm đó theo mẫu nào.
+> 📌 Với khách có năm tài chính không trùng năm dương lịch: Cục Quản lý, giám sát kế toán, kiểm toán (Bộ Tài chính) trả lời ngày 14/01/2026 rằng doanh nghiệp có năm tài chính 01/10/2025 đến 30/09/2026 chưa áp dụng TT99 tại thời điểm 01/01/2026; TT99 áp dụng từ năm tài chính bắt đầu 01/10/2026. Nghĩa là năm tài chính bắt đầu trước 01/01/2026 vẫn theo chế độ cũ đến hết năm đó, và hệ thống mới có thể phải chạy song song hai bộ mẫu trong giai đoạn chuyển tiếp.
 
 ## Nguồn
 
 - Luật Kế toán số 88/2015/QH13, văn bản hợp nhất 25/VBHN-VPQH năm 2025: Điều 12, 29, 31, 32. https://luatvietnam.vn/tai-chinh/van-ban-hop-nhat-25-vbhn-vpqh-2025-hop-nhat-luat-ke-toan-397299-d1.html
 - Thông tư 99/2025/TT-BTC: Điều 14 đến 27, Điều 31. https://luatvietnam.vn/doanh-nghiep/thong-tu-99-2025-tt-btc-huong-dan-che-do-ke-toan-doanh-nghiep-tu-01-01-2026-417085-d1.html
+- Cổng hỏi đáp chính sách Bộ Tài chính, câu hỏi 090126-41, Cục Quản lý, giám sát kế toán, kiểm toán trả lời ngày 14/01/2026 (thời điểm áp dụng TT99 với năm tài chính 01/10/2025 đến 30/09/2026). https://portal.mof.gov.vn/hoidapcstc/home/cthoidap/159102
 - Thông tư 99/2025/TT-BTC, Phụ lục IV: Mục 1 (danh mục biểu mẫu), Mục 2 phần A (thông tin chung) và phần B mục 2 (B01-DNKLT); các mẫu B01-DN, B01-DNKLT, B09-DN tải từ trang trên.
 - Chuẩn mực kế toán số 21 – Trình bày báo cáo tài chính (Quyết định 234/2003/QĐ-BTC): đoạn 05 đến 07, 15, 16, 19, 30, 31. https://vanban.vcci.com.vn/quyet-dinh-2342003qd-btc-cua-bo-tai-chinh-ve-viec-ban-hanh-va-cong-bo-sau-06-chuan-muc-ke-toan-viet-nam-dot-3
 - Chuẩn mực kế toán số 27 – Báo cáo tài chính giữa niên độ (Quyết định 12/2005/QĐ-BTC): đoạn 1 đến 9. https://vanban.vcci.com.vn/quyet-dinh-122005qd-btc-cua-bo-tai-chinh-ve-viec-ban-hanh-va-cong-bo-sau-06-chuan-muc-ke-toan-viet-nam-dot-4

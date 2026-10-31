@@ -11,7 +11,7 @@ Với sổ ghi bằng phương tiện điện tử (tức mọi hệ thống ERP
 - Sau khi khoá sổ phải in sổ ra giấy và đóng quyển riêng cho từng kỳ kế toán năm, hoặc nếu lưu trữ trên phương tiện điện tử thì phải bảo đảm an toàn, bảo mật và tra cứu được trong thời hạn lưu trữ.
 - Sổ phải ghi liên tục từ khi mở sổ đến khi khoá sổ; số liệu năm sau phải kế tiếp số liệu năm trước liền kề (khoản 4).
 
-Các tình huống khác buộc khoá sổ giữa chừng cũng có trong TT99: thay đổi kỳ kế toán (Điều 21) và chuyển đổi loại hình doanh nghiệp (Điều 22) đều ghi rõ phải khoá sổ, lập BCTC; khi bị chia, hợp nhất, sáp nhập, giải thể, phá sản thì phải lập BCTC tại thời điểm đó (Điều 15 khoản 3).
+Các tình huống khác buộc khoá sổ giữa chừng cũng có trong TT99: thay đổi kỳ kế toán (Điều 21) và chuyển đổi loại hình doanh nghiệp (Điều 22) đều ghi rõ phải khoá sổ, lập BCTC; khi bị chia, hợp nhất, sáp nhập, giải thể, phá sản thì phải lập BCTC tại thời điểm đó (Điều 15 khoản 3 điểm b).
 
 > 📌 Với BA, "khoá sổ" có hai nghĩa cần tách bạch khi làm việc với khách: (1) nghiệp vụ, tức chạy đủ các bút toán cuối kỳ và kết chuyển xác định kết quả; (2) kỹ thuật, tức chặn không cho ghi hoặc sửa bút toán có ngày thuộc kỳ đã đóng. Luật nói về cả hai nhưng hệ thống thường tách thành hai chức năng.
 
@@ -175,7 +175,7 @@ Chuẩn mực VAS 29 bổ sung góc nhìn báo cáo: sai sót trọng yếu củ
 ## Nguồn
 
 - Luật Kế toán số 88/2015/QH13, văn bản hợp nhất 25/VBHN-VPQH năm 2025: Điều 26 (mở sổ, ghi sổ, khoá sổ), Điều 27 (sửa chữa sổ kế toán), Điều 29 khoản 2 điểm b. https://luatvietnam.vn/tai-chinh/van-ban-hop-nhat-25-vbhn-vpqh-2025-hop-nhat-luat-ke-toan-397299-d1.html
-- Thông tư 99/2025/TT-BTC: Điều 13 khoản 3, Điều 15 khoản 3, Điều 21, 22. https://luatvietnam.vn/doanh-nghiep/thong-tu-99-2025-tt-btc-huong-dan-che-do-ke-toan-doanh-nghiep-tu-01-01-2026-417085-d1.html
+- Thông tư 99/2025/TT-BTC: Điều 13 khoản 3, Điều 15 khoản 3 điểm b, Điều 21, 22. https://luatvietnam.vn/doanh-nghiep/thong-tu-99-2025-tt-btc-huong-dan-che-do-ke-toan-doanh-nghiep-tu-01-01-2026-417085-d1.html
 - Thông tư 99/2025/TT-BTC, Phụ lục II: hướng dẫn TK 154, 214, 229, 242, 335, 413, 421, 521, 821, 911 và mục 3.8 TK 133. https://cms.luatvietnam.vn/uploaded/Others/2025/11/16/Phu_luc_II._He_thong_tai_khoan_ke_toan_doanh_nghiep_1611132408.docx
 - Chuẩn mực kế toán số 29 (Quyết định 12/2005/QĐ-BTC), đoạn 22 đến 29 về sửa chữa sai sót. https://vanban.vcci.com.vn/quyet-dinh-122005qd-btc-cua-bo-tai-chinh-ve-viec-ban-hanh-va-cong-bo-sau-06-chuan-muc-ke-toan-viet-nam-dot-4
 - Odoo 19 Documentation, Year-end closing (lock dates, checklist trước khi đóng năm). https://www.odoo.com/documentation/19.0/applications/finance/accounting/reporting/year_end.html

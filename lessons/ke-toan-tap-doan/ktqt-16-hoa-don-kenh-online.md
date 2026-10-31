@@ -8,7 +8,7 @@ Ngày 30/6/2026, Chính phủ ban hành Nghị định 254/2026/NĐ-CP về hoá
 
 So với Nghị định 123, Nghị định 254 không còn quy định chi tiết về thủ tục đăng ký, ngừng sử dụng hoá đơn, định dạng hoá đơn, thay thế và điều chỉnh hoá đơn; các nội dung này giao Bộ trưởng Bộ Tài chính hướng dẫn (EY). Vì vậy phần xử lý hoá đơn sai, điều chỉnh, thay thế nằm ở Thông tư 91.
 
-> ⚠️ Cần xác nhận: nguồn đã đọc cho phần này là bản tóm tắt của EY, Forvis Mazars và các bài trích dẫn điều khoản của Kế toán Lê Ánh, MISA. Chưa đọc được văn bản gốc Nghị định 254/2026/NĐ-CP và Thông tư 91/2026/TT-BTC. Số điều, khoản dưới đây lấy theo các bài trích dẫn, cần đối chiếu văn bản gốc trước khi đưa vào tài liệu dự án.
+> 📌 Các điều khoản dẫn trong bài (Nghị định 254: Điều 6, Điều 9, Điều 17, Điều 19, Phụ lục về nội dung hoá đơn; Thông tư 91: Điều 10) đã đối chiếu với toàn văn đăng trên LuatVietnam. Những ý chỉ ghi nguồn EY, Forvis Mazars là lấy theo bản tóm tắt.
 
 > ❌ Không dùng tài liệu còn viện dẫn Điều 9 Nghị định 123/2020/NĐ-CP hay Thông tư 32/2025/TT-BTC cho giao dịch từ 01/7/2026.
 
@@ -25,20 +25,20 @@ Trong một đơn bán qua sàn, có hai luồng hoá đơn tách biệt:
 
 Khi doanh nghiệp là đại lý (vận hành nền tảng, bán hộ), doanh nghiệp lập hoá đơn cho phần phí, hoa hồng của mình; phân định bên chính và đại lý xem [[ktqt-13-doanh-thu-kenh-online]]. Luồng hoá đơn dịch vụ sàn và thời điểm sàn được lập hoá đơn sau đối soát xem [[ktqt-14-phi-san-cong-thanh-toan]].
 
-Theo Forvis Mazars, Nghị định 254 quy định chủ sở hữu hoặc đơn vị quản lý nền tảng thương mại điện tử, nền tảng số có trách nhiệm cung cấp thông tin về người mua và thông tin giao dịch để phục vụ việc lập hoá đơn điện tử. Với BA, đây là căn cứ để yêu cầu dữ liệu người mua từ sàn trong thiết kế tích hợp, trong giới hạn sàn cho phép.
+Nghị định 254 (Điều 19 khoản 2; Điều 17 khoản 1 điểm c) quy định chủ quản nền tảng thương mại điện tử, nền tảng số có trách nhiệm cung cấp thông tin người mua, thông tin giao dịch, thời điểm giao hàng và xác nhận trạng thái hoàn tất đơn hàng để người bán lập hoá đơn điện tử; người bán có quyền yêu cầu sàn cung cấp các thông tin này. Với BA, đây là căn cứ để yêu cầu dữ liệu người mua từ sàn trong thiết kế tích hợp, trong giới hạn sàn cho phép.
 
 ## Thời điểm lập hoá đơn
 
-Theo các bài trích Điều 9 Nghị định 254/2026/NĐ-CP:
+Theo Điều 9 Nghị định 254/2026/NĐ-CP:
 
 - **Bán hàng hoá** (khoản 1): thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hoá cho người mua, không phân biệt đã thu được tiền hay chưa.
 - **Cung cấp dịch vụ** (khoản 2): thời điểm hoàn thành việc cung cấp dịch vụ, không phân biệt đã thu tiền hay chưa; nếu thu tiền trước hoặc trong khi cung cấp dịch vụ thì là thời điểm thu tiền.
 - **Giao dịch ban đêm**: người bán không có phần mềm lập hoá đơn tự động, giao dịch trong giờ làm việc ban đêm theo Bộ luật Lao động thì được lập hoá đơn chậm nhất vào ngày làm việc tiếp theo (khoản 5).
-- Thời điểm ký số có thể khác thời điểm lập hoá đơn; khi đó việc ký số và gửi hoá đơn hoặc dữ liệu đến cơ quan thuế phải thực hiện chậm nhất ngày làm việc tiếp theo kể từ thời điểm lập hoá đơn (trừ trường hợp gửi dữ liệu theo bảng tổng hợp). Người bán kê khai theo thời điểm lập hoá đơn.
+- Thời điểm ký số có thể khác thời điểm lập hoá đơn; khi đó việc ký số và gửi hoá đơn hoặc dữ liệu đến cơ quan thuế phải thực hiện chậm nhất ngày làm việc tiếp theo kể từ thời điểm lập hoá đơn (trừ trường hợp gửi dữ liệu theo bảng tổng hợp, bảng thông tin chi tiết giao dịch). Người bán kê khai theo thời điểm lập hoá đơn (quy định ở Phụ lục Nghị định 254, mục 7 về thời điểm ký số).
 
 Với đơn online, "thời điểm chuyển giao quyền sở hữu" phụ thuộc điều kiện giao hàng: khi giao cho đơn vị vận chuyển hay khi người mua nhận hàng. Đây cũng là câu hỏi quyết định thời điểm ghi doanh thu kế toán theo VAS 14 đoạn 10 ([[kt-17-quy-trinh-ban-hang]]).
 
-> ⚠️ Cần xác nhận: với đơn giao qua đơn vị vận chuyển (gồm đơn COD), mốc chuyển giao quyền sở hữu để lập hoá đơn là lúc bàn giao cho đơn vị vận chuyển hay lúc người mua nhận hàng. Nguồn đã đọc không nêu riêng cho bán hàng qua sàn; cần chốt với tư vấn thuế của khách và ghi vào chính sách bán hàng.
+> ⚠️ Cần xác nhận: với đơn giao qua đơn vị vận chuyển (gồm đơn COD), mốc chuyển giao quyền sở hữu để lập hoá đơn là lúc bàn giao cho đơn vị vận chuyển hay lúc người mua nhận hàng. Nghị định 254 buộc sàn cung cấp thời điểm giao hàng và trạng thái hoàn tất đơn cho người bán (Điều 19 khoản 2) nhưng không định nghĩa mốc chuyển giao cho bán hàng qua sàn; cần chốt với tư vấn thuế của khách và ghi vào chính sách bán hàng.
 
 > 💡 Nếu hệ thống lập hoá đơn khi đơn được xác nhận hoặc khi khách thanh toán, còn hàng giao sau, thì thời điểm lập hoá đơn đang đi theo dòng tiền chứ không theo chuyển giao quyền sở hữu như khoản 1. BA nên đưa câu hỏi này vào danh sách cần chốt.
 
@@ -46,30 +46,27 @@ Với đơn online, "thời điểm chuyển giao quyền sở hữu" phụ thu�
 
 ### Nguyên tắc: theo từng giao dịch
 
-Không có cơ chế chung cho phép gộp hoá đơn bán lẻ cuối ngày. Nghị định 254 chỉ cho lập hoá đơn tổng hợp trong một số trường hợp liệt kê riêng (theo bài trích khoản 4 Điều 9 của Kế toán Lê Ánh và MISA), ví dụ:
+Không có cơ chế chung cho phép gộp hoá đơn bán lẻ cuối ngày. Khoản 4 Điều 9 Nghị định 254 liệt kê các trường hợp đặc thù (điểm a đến r), trong đó chỉ một số trường hợp được tổng hợp lập một hoá đơn, ví dụ:
 
-- bán xăng dầu tại cửa hàng bán lẻ cho cá nhân: lập cuối ngày trên cơ sở tổng hợp dữ liệu bán trong ngày theo từng mặt hàng;
-- dịch vụ khám chữa bệnh khi người bệnh không lấy hoá đơn: cuối ngày tổng hợp lập một hoá đơn;
-- thẻ trả trước, cước hoà mạng viễn thông mà khách không yêu cầu hoá đơn: lập chung một hoá đơn cuối ngày hoặc định kỳ trong tháng.
+- dịch vụ khám chữa bệnh khi người bệnh không lấy hoá đơn: cuối ngày tổng hợp lập hoá đơn cho dịch vụ thực hiện trong ngày (điểm m);
+- thẻ trả trước, cước hoà mạng viễn thông mà khách không yêu cầu hoá đơn hoặc không cung cấp thông tin: lập chung một hoá đơn cuối ngày hoặc định kỳ trong tháng (điểm b).
 
-Bán hàng hoá qua sàn hay website không nằm trong các ví dụ trên. Với hoá đơn khởi tạo từ máy tính tiền, thời điểm lập là thời điểm kết thúc từng giao dịch bán hàng (theo Kế toán Lê Ánh).
-
-> ⚠️ Cần xác nhận: danh sách đầy đủ các trường hợp được lập hoá đơn tổng hợp tại khoản 4 Điều 9 Nghị định 254/2026/NĐ-CP, để khẳng định bán hàng hoá cho người tiêu dùng qua sàn không thuộc trường hợp nào được gộp.
+Ngay cả bán lẻ xăng dầu cũng lập hoá đơn theo từng lần bán (điểm h). Không điểm nào trong khoản 4 cho gộp hoá đơn bán hàng hoá cho người tiêu dùng qua sàn hay website. Điểm r có nhắc "dịch vụ thương mại điện tử" cung cấp cho người tiêu dùng, nhưng đó là dịch vụ (của sàn) và là cơ chế chuyển dữ liệu chi tiết giao dịch đến cơ quan thuế, không cho người bán hàng hoá gộp hoá đơn. Với hoá đơn khởi tạo từ máy tính tiền, thời điểm lập là thời điểm kết thúc từng giao dịch bán hàng (theo Kế toán Lê Ánh).
 
 ### Hai trường hợp gộp liên quan tới kênh online
 
-- **Hàng khuyến mại, biếu tặng**: được lập hoá đơn tổng hợp kèm bảng kê theo tháng hoặc theo quý, phù hợp kỳ khai thuế GTGT của người bán (Forvis Mazars, EY). Hàng tặng kèm đơn online thuộc diện nào (bán hay khuyến mại) xem [[kt-20-khuyen-mai-voucher-combo]].
+- **Hàng khuyến mại, biếu tặng**: doanh nghiệp được lập hoá đơn tổng hợp cho các giao dịch trong tháng, quý phù hợp kỳ khai thuế GTGT, lưu danh sách chi tiết; khách yêu cầu hoá đơn theo từng giao dịch thì vẫn phải lập (Phụ lục Nghị định 254; Forvis Mazars, EY). Hàng tặng kèm đơn online thuộc diện nào (bán hay khuyến mại) xem [[kt-20-khuyen-mai-voucher-combo]].
 - **Hoá đơn dịch vụ của sàn cho người bán**: dịch vụ thương mại điện tử, nền tảng số được lập sau đối soát, chậm nhất ngày 07 tháng sau. Đây là gộp theo kỳ ở chiều sàn lập cho doanh nghiệp, không phải chiều doanh nghiệp lập cho người mua.
 
 ### Loại hoá đơn: có mã hay không mã
 
-Theo EY, nguyên tắc chung của Nghị định 254 là tổ chức kinh tế, hộ và cá nhân kinh doanh dùng hoá đơn điện tử có mã của cơ quan thuế. Doanh nghiệp bán hàng hoá, cung cấp dịch vụ trực tiếp cho người tiêu dùng cuối thuộc một số lĩnh vực, trong đó có thương mại điện tử, siêu thị, thương mại, được dùng hoá đơn không có mã nếu đáp ứng yêu cầu kỹ thuật về truyền dữ liệu hoá đơn đến cơ quan thuế. Tổ chức, hộ, cá nhân đã đăng ký hình thức hoá đơn nào được tiếp tục dùng, không bắt buộc chuyển sang hoá đơn khởi tạo từ máy tính tiền. Với BA, loại hoá đơn khách đã đăng ký quyết định cách tích hợp với nhà cung cấp hoá đơn điện tử.
+Theo Điều 6 khoản 1 Nghị định 254, nguyên tắc chung là tổ chức kinh tế, hộ và cá nhân kinh doanh dùng hoá đơn điện tử có mã của cơ quan thuế. Doanh nghiệp kinh doanh ở một số lĩnh vực, trong đó có kinh doanh thương mại điện tử, siêu thị, thương mại, được dùng hoá đơn không có mã nếu có hạ tầng, phần mềm đáp ứng việc lập, tra cứu, lưu trữ và truyền dữ liệu hoá đơn đến người mua và cơ quan thuế (trừ trường hợp rủi ro cao về thuế). Người bán hàng trực tiếp đến người tiêu dùng (bán lẻ, siêu thị, ăn uống...) dùng hoá đơn khởi tạo từ máy tính tiền, nhưng nếu đã đăng ký hoá đơn có mã hoặc không mã thì không bắt buộc đăng ký thêm hoá đơn từ máy tính tiền. Với BA, loại hoá đơn khách đã đăng ký quyết định cách tích hợp với nhà cung cấp hoá đơn điện tử.
 
 ## Thông tin người mua trên hoá đơn
 
-Người mua online thường là cá nhân, nhiều khi không cung cấp mã số thuế hay địa chỉ. Theo Nghị định 254 (EY, Forvis Mazars):
+Người mua online thường là cá nhân, nhiều khi không cung cấp mã số thuế hay địa chỉ. Theo Phụ lục Nghị định 254 (EY, Forvis Mazars tóm tắt cùng nội dung):
 
-- Người mua là người tiêu dùng cá nhân không cung cấp thông tin để lập hoá đơn: người bán vẫn phải lập hoá đơn, ghi cụm từ "Bán cho người tiêu dùng" thay cho thông tin người mua.
+- Người mua là người tiêu dùng cá nhân không cung cấp tên, địa chỉ, số định danh: người bán vẫn phải lập hoá đơn, ghi rõ "Bán cho người tiêu dùng". Hoá đơn không có thông tin người mua không dùng được để hạch toán chi phí hay quyết toán thuế, nên khách B2B phải cung cấp thông tin.
 - Với một số hoạt động đặc thù (siêu thị, trung tâm thương mại, rạp chiếu phim), hoá đơn được phép không thể hiện thông tin người mua khi người mua không cung cấp.
 
 Người mua là doanh nghiệp (đơn B2B qua sàn) cần mã số thuế, tên, địa chỉ đúng. Tài liệu Odoo 19 cho Amazon Connector ghi nhận một giới hạn thực tế: với khách B2B, phải tự lấy mã số thuế từ hệ thống quản trị của Amazon trước khi tạo hoá đơn trong Odoo, và không gửi được hoá đơn trực tiếp cho khách Amazon qua email vì Amazon không chia sẻ email khách; hoá đơn phải tải lên hệ thống quản trị Amazon thủ công. Sàn khác có giới hạn khác; cần hỏi khi khảo sát.
@@ -97,14 +94,14 @@ Nếu hoá đơn lập theo mốc chuyển giao quyền sở hữu, đơn huỷ 
 
 ### Trả hàng sau khi đã lập hoá đơn
 
-Theo bài của Kế toán Lê Ánh trích Thông tư 91/2026/TT-BTC (Điều 10 khoản 5):
+Theo Thông tư 91/2026/TT-BTC, Điều 10 khoản 5 điểm c:
 
 - Người mua trả lại toàn bộ hoặc một phần hàng, kể cả đổi hàng làm thay đổi giá trị: người bán lập **hoá đơn điều chỉnh**. Nếu hai bên thoả thuận người mua lập hoá đơn khi trả hàng thì người mua lập hoá đơn giao cho người bán.
 - Hàng là tài sản phải đăng ký quyền sở hữu (ô tô, xe máy) đã đăng ký tên người mua: người mua lập hoá đơn trả lại hàng.
-- Đã lập hoá đơn khi thu tiền trước rồi huỷ hoặc chấm dứt giao dịch: người bán điều chỉnh hoá đơn đã lập.
+- Đã lập hoá đơn khi thu tiền trước khi cung cấp dịch vụ (hoặc thu tiền theo tiến độ với bất động sản) rồi huỷ hoặc chấm dứt giao dịch: người bán điều chỉnh hoá đơn đã lập.
 - Người bán, người mua lưu chứng từ liên quan đến việc trả hàng.
 
-Với hoá đơn lập sai cần điều chỉnh hoặc thay thế, Thông tư 91 yêu cầu văn bản thoả thuận giữa người bán và người mua trước khi lập hoá đơn điều chỉnh, thay thế, trừ ba trường hợp, trong đó có hoạt động mua bán hàng hoá trên nền tảng thương mại điện tử hoặc nền tảng số khác (theo Kế toán Lê Ánh). Hoá đơn khởi tạo từ máy tính tiền lập sai thì phải lập hoá đơn thay thế, không dùng hoá đơn điều chỉnh. Đã chọn điều chỉnh hay thay thế cho một hoá đơn thì các lần xử lý sau của hoá đơn đó giữ cùng hình thức.
+Với hoá đơn lập sai cần điều chỉnh hoặc thay thế, Thông tư 91 yêu cầu văn bản thoả thuận giữa người bán và người mua trước khi lập hoá đơn điều chỉnh, thay thế, trừ ba trường hợp: chuyển dữ liệu theo bảng tổng hợp, chuyển dữ liệu theo bảng thông tin chi tiết giao dịch, và hoạt động mua bán hàng hoá trên nền tảng thương mại điện tử hoặc nền tảng số khác (Điều 10 khoản 1 điểm b). Hoá đơn khởi tạo từ máy tính tiền lập sai thì phải lập hoá đơn thay thế, không dùng hoá đơn điều chỉnh. Đã chọn điều chỉnh hay thay thế cho một hoá đơn thì các lần xử lý sau của hoá đơn đó giữ cùng hình thức.
 
 Thông tư 91 tiếp tục quy định hoá đơn điều chỉnh cho chiết khấu thương mại, hàng bán bị trả lại được kê khai tại thời điểm lập hoá đơn điều chỉnh (EY).
 
@@ -116,7 +113,7 @@ Thông tư 91 tiếp tục quy định hoá đơn điều chỉnh cho chiết kh
 
 ## Nghị định 117/2025: chỉ cho hộ, cá nhân kinh doanh
 
-Nghị định 117/2025/NĐ-CP (ban hành 09/6/2025, hiệu lực 01/7/2025) quy định quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử, nền tảng số **của hộ, cá nhân**. Nội dung chính theo EY:
+Nghị định 117/2025/NĐ-CP (ban hành 09/6/2025, hiệu lực 01/7/2025) quy định quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử, nền tảng số **của hộ, cá nhân**. Theo văn bản tuyên truyền của cơ quan thuế (Thuế tỉnh Đắk Lắk), đối tượng áp dụng tại Điều 2 gồm tổ chức quản lý nền tảng thuộc diện khấu trừ, nộp thay; hộ, cá nhân cư trú và cá nhân không cư trú kinh doanh trên nền tảng; cơ quan thuế và tổ chức, cá nhân liên quan. Nội dung chính theo EY:
 
 - Tổ chức quản lý nền tảng có chức năng thanh toán (trong và ngoài nước) khấu trừ, nộp thay thuế GTGT và thuế TNCN cho từng giao dịch của hộ, cá nhân kinh doanh trên nền tảng, ngay khi xác nhận giao dịch thành công và chấp nhận thanh toán.
 - Tỷ lệ khấu trừ tính trên số tiền bán hàng của hộ, cá nhân mà nền tảng thu hộ. Với hàng hoá: thuế GTGT 1%; thuế TNCN 0,5% (cá nhân cư trú) hoặc 1% (cá nhân không cư trú). Dịch vụ và vận tải có tỷ lệ khác. Không xác định được là hàng hoá hay dịch vụ thì áp tỷ lệ cao nhất.
@@ -146,10 +143,13 @@ Hai điểm cần BA kiểm tra khi cấu hình: mốc tạo hoá đơn của h�
 
 ## Nguồn
 
+- Nghị định 254/2026/NĐ-CP ngày 30/6/2026 (Điều 6, 9, 17, 19, 43; Phụ lục), toàn văn: https://luatvietnam.vn/thue/nghi-dinh-254-2026-nd-cp-huong-dan-thi-hanh-luat-quan-ly-thue-2025-ve-hoa-don-dien-tu-439381-d1.html
+- Thông tư 91/2026/TT-BTC ngày 30/6/2026 (Điều 10, Điều 25), toàn văn: https://luatvietnam.vn/thue/thong-tu-91-2026-tt-btc-quy-dinh-luat-quan-ly-thue-va-hoa-don-dien-tu-439780-d1.html
+- Thuế tỉnh Đắk Lắk, văn bản tuyên truyền Nghị định 117/2025/NĐ-CP và 04 sổ tay hướng dẫn (phạm vi, đối tượng áp dụng Điều 1, Điều 2): https://cuordang.daklak.gov.vn/uploads/xa-cuordang/thuedientu/TT%20so%20tay%20huong%20dan%20thuong%20mai%20dien%20tu.pdf
 - EY Việt Nam, Tin nhanh về Thuế tháng 7/2026 "Nghị định 254/2026/NĐ-CP về hóa đơn điện tử và chứng từ điện tử" (mục 1, 4, 5, 6): https://www.ey.com/content/dam/ey-unified-site/ey-com/vi-vn/technical/tax/documents/ey-vn-decree-254-on-electronic-invoices-and-electronic-documents.pdf
 - Forvis Mazars Việt Nam, Bản tin "Cập nhật các điểm đáng chú ý trong Nghị định 254/2026/NĐ-CP và Thông tư 91/2026/TT-BTC" (mục 1, 4, 5, 6): https://www.forvismazars.com/vn/vi/n-ph-m-s-ki-n/c-p-nh-t-v-vi-t-nam/b-n-tin-thong-bao-chuyen-mon/b-n-tin-v-thu-va-phap-ly/ngh-d-nh-254-va-thong-t-91
 - Kế toán Lê Ánh, "Thời điểm lập hóa đơn từ 01/7/2026 theo Nghị định 254/2026/NĐ-CP và Thông tư 91/2026/TT-BTC" (trích Điều 9 khoản 1, 2, 4, 5; Thông tư 91 Điều 10; dùng để đối chiếu): https://ketoanleanh.edu.vn/kinh-nghiem-ke-toan/thoi-diem-lap-hoa-don-dien-tu.html
-- MISA AMIS, "Tổng hợp thời điểm xuất hóa đơn theo quy định tại Nghị định 254/2026/NĐ-CP" (điểm h khoản 4 Điều 9; thời điểm ký số; dùng để đối chiếu): https://amis.misa.vn/39192/thoi-diem-xuat-hoa-don/
+- MISA AMIS, "Tổng hợp thời điểm xuất hóa đơn theo quy định tại Nghị định 254/2026/NĐ-CP" (thời điểm ký số; dùng để đối chiếu): https://amis.misa.vn/39192/thoi-diem-xuat-hoa-don/
 - EY Việt Nam, Tin nhanh tháng 6/2025 "Nghị định 117 về quản lý thuế đối với hoạt động kinh doanh trên nền tảng thương mại điện tử, nền tảng số": https://www.ey.com/content/dam/ey-unified-site/ey-com/vi-vn/technical/tax/documents/people-advisory-services-tax-alert-june-2025-decree-117-on-management-for-business-activities-on-e-commerce-and-digital-platforms-vn.pdf
 - Thông tư 99/2025/TT-BTC, Phụ lục II Mục B: nguyên tắc kế toán các khoản doanh thu (điểm 5); TK 511 mục 1.4; TK 131 mục 3.2. Toàn văn: https://luatvietnam.vn/linh-vuc-khac/tai-thong-tu-99-2025-tt-btc-huong-dan-che-do-ke-toan-doanh-nghiep-186-105034-article.html
 - Chuẩn mực kế toán Việt Nam số 14, đoạn 10: https://cdn.thuvienphapluat.vn//uploads/Hoidapphapluat/2024/TTTT/240830/Chuan-muc-ke-toan-14.doc

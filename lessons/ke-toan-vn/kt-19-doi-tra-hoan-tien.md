@@ -52,7 +52,7 @@ Từ 01/07/2026, xử lý hoá đơn điện tử đã lập theo Điều 10 Th�
 
 - **c.1) Trả lại hàng hoá:** người mua trả lại toàn bộ hoặc một phần hàng hoá, **bao gồm cả trường hợp đổi hàng làm thay đổi giá trị** của hàng đã mua, thì **người bán lập hoá đơn điều chỉnh**. Ngoại lệ: nếu hai bên thoả thuận người mua lập hoá đơn khi trả hàng thì người mua lập hoá đơn điện tử giao cho người bán.
 - **c.2)** Hàng là tài sản phải đăng ký quyền sở hữu, quyền sử dụng và đã đăng ký theo tên người mua: nếu người mua là đối tượng sử dụng hoá đơn điện tử thì người mua lập hoá đơn trả lại hàng cho người bán.
-- **c.4)** Người bán đã lập hoá đơn khi thu tiền trước khi cung cấp dịch vụ, sau đó huỷ hoặc chấm dứt giao dịch, huỷ một phần việc cung cấp dịch vụ: người bán điều chỉnh hoá đơn đã lập theo điểm c.1 nêu trên (lập hoá đơn điều chỉnh). Điểm này áp dụng cả cho hoá đơn thu tiền theo tiến độ của kinh doanh bất động sản, xây dựng nhà để bán.
+- **c.4)** Người bán đã lập hoá đơn khi thu tiền trước khi cung cấp dịch vụ, sau đó huỷ hoặc chấm dứt giao dịch, huỷ một phần việc cung cấp dịch vụ: người bán điều chỉnh hoá đơn đã lập theo điểm c.1 nêu trên (lập hoá đơn điều chỉnh). Điểm này áp dụng cả cho hoá đơn thu tiền của hoạt động kinh doanh bất động sản, xây dựng cơ sở hạ tầng, xây dựng nhà để bán, chuyển nhượng.
 - Các trường hợp c.1 đến c.3: người bán, người mua phải có đầy đủ hồ sơ, chứng từ liên quan tới việc trả lại hàng, xuất trình khi được yêu cầu.
 
 Về kỳ kê khai, khoản 6 điểm d Điều 10 TT91: hoá đơn điều chỉnh cho các trường hợp ở khoản 5 (gồm trả hàng) thì người bán kê khai vào **kỳ phát sinh hoá đơn điều chỉnh**, người mua kê khai vào kỳ nhận được hoá đơn điều chỉnh. Trên hoá đơn điều chỉnh, điều chỉnh tăng ghi số dương, điều chỉnh giảm ghi số âm (khoản 6 điểm c).

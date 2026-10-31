@@ -1675,7 +1675,7 @@ const curatedQuestions: Question[] = [
     question: "Hệ thống kho chỉ cấu hình một địa điểm điều chỉnh tồn kho với một tài khoản lỗ duy nhất. Vì sao BA cần bổ sung thiết kế?",
     options: ["Vì TT99 hạch toán chênh lệch kiểm kê theo nguyên nhân (632, 1388, 334, 1381, 3381), nên cần ghi lý do chênh lệch và quy trình chuyển khi có quyết định xử lý", "Vì chênh lệch kiểm kê luôn phải ghi vào chi phí khác TK 811", "Vì điều chỉnh tồn kho không được làm thay đổi giá trị hàng tồn kho", "Vì dự phòng giảm giá phải được ghi chung với chênh lệch kiểm kê trên cùng tài khoản"],
     correctIndices: [0],
-    explanation: "Một tài khoản lỗ duy nhất không phản ánh được các nhánh xử lý theo nguyên nhân của TT99.\n✓ TT99 hạch toán theo nguyên nhân nên cần lý do và quy trình xử lý: đúng điểm thiết kế bài nêu.\n✗ Chênh lệch kiểm kê luôn ghi TK 811: hàng tồn kho thiếu đi vào 632 hoặc phải thu, 811 chỉ cho TSCĐ thiếu.\n✗ Điều chỉnh không được làm thay đổi giá trị: điều chỉnh kiểm kê thay đổi cả số lượng lẫn giá trị.\n✗ Dự phòng ghi chung với chênh lệch kiểm kê: dự phòng dùng TK 2294 riêng, không trộn với chênh lệch.",
+    explanation: "Một tài khoản lỗ duy nhất không phản ánh được các nhánh xử lý theo nguyên nhân của TT99.\n✓ TT99 hạch toán theo nguyên nhân nên cần lý do và quy trình xử lý: đúng điểm thiết kế bài nêu.\n✗ Chênh lệch kiểm kê luôn ghi TK 811: hàng tồn kho thiếu đi vào 632 hoặc phải thu; TT99 chỉ dùng 811 cho tiền thiếu và giá trị còn lại của TSCĐ thiếu.\n✗ Điều chỉnh không được làm thay đổi giá trị: điều chỉnh kiểm kê thay đổi cả số lượng lẫn giá trị.\n✗ Dự phòng ghi chung với chênh lệch kiểm kê: dự phòng dùng TK 2294 riêng, không trộn với chênh lệch.",
   },
   // ============================================================
   // KT-VN — kt-25-kho-thue-ngoai-kho-san
@@ -2836,7 +2836,7 @@ const curatedQuestions: Question[] = [
     question: "Với bán hàng hoá, thời điểm lập hoá đơn theo Nghị định 254/2026 là khi nào?",
     options: ["Thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hoá cho người mua, không phân biệt đã thu tiền", "Thời điểm người mua thanh toán trên sàn", "Thời điểm sàn quyết toán tiền cho người bán", "Cuối ngày, gộp tất cả đơn bán lẻ trong ngày"],
     correctIndices: [0],
-    explanation: "Khoản 1 Điều 9 lấy mốc chuyển giao quyền sở hữu, quyền sử dụng, không phụ thuộc dòng tiền.\n✓ Chuyển giao quyền sở hữu, quyền sử dụng: nguyên tắc gốc cho bán hàng hoá.\n✗ Lúc người mua thanh toán: mốc thu tiền áp cho dịch vụ thu tiền trước, không phải hàng hoá.\n✗ Lúc sàn quyết toán: là sự kiện thanh toán giữa sàn và người bán, không liên quan người mua.\n✗ Gộp cuối ngày: chỉ áp cho một số trường hợp liệt kê riêng như bán lẻ xăng dầu.",
+    explanation: "Khoản 1 Điều 9 lấy mốc chuyển giao quyền sở hữu, quyền sử dụng, không phụ thuộc dòng tiền.\n✓ Chuyển giao quyền sở hữu, quyền sử dụng: nguyên tắc gốc cho bán hàng hoá.\n✗ Lúc người mua thanh toán: mốc thu tiền áp cho dịch vụ thu tiền trước, không phải hàng hoá.\n✗ Lúc sàn quyết toán: là sự kiện thanh toán giữa sàn và người bán, không liên quan người mua.\n✗ Gộp cuối ngày: khoản 4 Điều 9 chỉ cho tổng hợp ở vài trường hợp như khám chữa bệnh, thẻ trả trước viễn thông; bán hàng hoá qua sàn không thuộc trường hợp nào.",
   },
   {
     id: "ktqt-16-003",
@@ -2932,10 +2932,10 @@ const curatedQuestions: Question[] = [
     certifications: ["KT-VN"],
     difficulty: "hard",
     type: "single",
-    question: "Doanh nghiệp đã nộp BCTC năm 2026 thì phát hiện sổ năm 2026 có sai sót. Doanh nghiệp ghi sổ bằng phần mềm. Theo Luật Kế toán, sửa thế nào?",
-    options: ["Sửa trên sổ của năm phát hiện bằng chứng từ điều chỉnh và thuyết minh việc sửa chữa", "Mở lại sổ năm 2026, xoá bút toán sai và ghi lại", "Sửa trên sổ năm 2026 bằng cách gạch đường thẳng vào chỗ sai", "Không cần sửa vì BCTC đã nộp"],
+    question: "Doanh nghiệp đã nộp BCTC năm 2025 thì phát hiện sổ năm 2025 có sai sót. Doanh nghiệp ghi sổ bằng phần mềm. Theo Luật Kế toán, sửa thế nào?",
+    options: ["Sửa trên sổ của năm phát hiện bằng chứng từ điều chỉnh và thuyết minh việc sửa chữa", "Mở lại sổ năm 2025, xoá bút toán sai và ghi lại", "Sửa trên sổ năm 2025 bằng cách gạch đường thẳng vào chỗ sai", "Không cần sửa vì BCTC đã nộp"],
     correctIndices: [0],
-    explanation: "Điều 27 Luật Kế toán: sai sót phát hiện sau khi đã nộp BCTC năm thì sửa trên sổ năm phát hiện và thuyết minh; sổ điện tử chỉ sửa bằng ghi điều chỉnh.\n✓ Sửa trên sổ của năm phát hiện bằng chứng từ điều chỉnh và thuyết minh việc sửa chữa: đúng cả thời điểm (năm phát hiện) lẫn phương pháp (chứng từ điều chỉnh) với sổ điện tử\n✗ Mở lại sổ năm 2026, xoá bút toán sai và ghi lại: không được tẩy xoá làm mất dấu vết; sổ điện tử chỉ dùng phương pháp ghi điều chỉnh\n✗ Sửa trên sổ năm 2026 bằng cách gạch đường thẳng vào chỗ sai: ghi cải chính bằng gạch thẳng không áp dụng cho sổ điện tử, và sổ phải sửa là năm phát hiện\n✗ Không cần sửa vì BCTC đã nộp: luật bắt buộc sửa chữa và thuyết minh",
+    explanation: "Điều 27 Luật Kế toán: sai sót phát hiện sau khi đã nộp BCTC năm thì sửa trên sổ năm phát hiện và thuyết minh; sổ điện tử chỉ sửa bằng ghi điều chỉnh.\n✓ Sửa trên sổ của năm phát hiện bằng chứng từ điều chỉnh và thuyết minh việc sửa chữa: đúng cả thời điểm (năm phát hiện) lẫn phương pháp (chứng từ điều chỉnh) với sổ điện tử\n✗ Mở lại sổ năm 2025, xoá bút toán sai và ghi lại: không được tẩy xoá làm mất dấu vết; sổ điện tử chỉ dùng phương pháp ghi điều chỉnh\n✗ Sửa trên sổ năm 2025 bằng cách gạch đường thẳng vào chỗ sai: ghi cải chính bằng gạch thẳng không áp dụng cho sổ điện tử, và sổ phải sửa là năm phát hiện\n✗ Không cần sửa vì BCTC đã nộp: luật bắt buộc sửa chữa và thuyết minh",
   },
   // ============================================================
   // KT-VN — kt-37-thue-tndn
@@ -2950,7 +2950,7 @@ const curatedQuestions: Question[] = [
     question: "Theo VAS 17, chi phí thuế thu nhập doanh nghiệp gồm những gì?",
     options: ["Chi phí thuế thu nhập hiện hành và chi phí thuế thu nhập hoãn lại", "Chỉ số thuế TNDN thực nộp trong năm", "Thuế TNDN và thuế GTGT phải nộp", "Số thuế tạm nộp hàng quý"],
     correctIndices: [0],
-    explanation: "VAS 17 định nghĩa chi phí thuế TNDN gồm phần hiện hành và phần hoãn lại; TT99 tách thành TK 8211 và 8212.\n✓ Chi phí thuế thu nhập hiện hành và chi phí thuế thu nhập hoãn lại: đúng định nghĩa VAS 17, tương ứng TK 8211 và TK 8212\n✗ Chỉ số thuế TNDN thực nộp trong năm: số thực nộp là luồng tiền (B03 Mã số 05), không phải chi phí thuế\n✗ Thuế TNDN và thuế GTGT phải nộp: thuế GTGT là thuế gián thu, không thuộc chi phí thuế TNDN\n✗ Số thuế tạm nộp hàng quý: tạm nộp hàng quý chỉ là một phần, cuối năm còn điều chỉnh theo quyết toán",
+    explanation: "VAS 17 định nghĩa chi phí thuế TNDN gồm phần hiện hành và phần hoãn lại; TT99 tách thành TK 8211 và 8212.\n✓ Chi phí thuế thu nhập hiện hành và chi phí thuế thu nhập hoãn lại: đúng định nghĩa VAS 17, tương ứng TK 8211 và TK 8212\n✗ Chỉ số thuế TNDN thực nộp trong năm: số thực nộp là luồng tiền (B03-DN Mã số 05 trực tiếp hoặc 15 gián tiếp), không phải chi phí thuế\n✗ Thuế TNDN và thuế GTGT phải nộp: thuế GTGT là thuế gián thu, không thuộc chi phí thuế TNDN\n✗ Số thuế tạm nộp hàng quý: tạm nộp hàng quý chỉ là một phần, cuối năm còn điều chỉnh theo quyết toán",
   },
   {
     id: "kt-37-002",
@@ -2959,10 +2959,10 @@ const curatedQuestions: Question[] = [
     certifications: ["KT-VN"],
     difficulty: "medium",
     type: "single",
-    question: "Theo Luật Thuế TNDN 67/2025/QH15, doanh nghiệp có tổng doanh thu năm trước liền kề 30 tỷ đồng (không thuộc diện ưu đãi hay ngành đặc thù) áp dụng thuế suất bao nhiêu?",
+    question: "Theo Luật Thuế TNDN 67/2025/QH15, doanh nghiệp có tổng doanh thu năm trước liền kề 30 tỷ đồng (không thuộc diện ưu đãi, ngành đặc thù, và không phải công ty con hay công ty liên kết thuộc diện loại trừ) áp dụng thuế suất bao nhiêu?",
     options: ["17%", "15%", "20%", "22%"],
     correctIndices: [0],
-    explanation: "Điều 10: 15% cho doanh thu không quá 3 tỷ, 17% cho trên 3 tỷ đến không quá 50 tỷ, phổ thông 20%; doanh thu căn cứ là kỳ tính thuế trước liền kề.\n✓ 17%: 30 tỷ nằm trong khoảng trên 3 tỷ đến không quá 50 tỷ đồng\n✗ 15%: 15% chỉ cho doanh nghiệp doanh thu năm không quá 3 tỷ đồng\n✗ 20%: 20% là thuế suất phổ thông khi không thuộc các khoản 2, 3, 4\n✗ 22%: 22% không có trong Luật 67/2025",
+    explanation: "Điều 10: 15% cho doanh thu không quá 3 tỷ, 17% cho trên 3 tỷ đến không quá 50 tỷ, phổ thông 20%; doanh thu căn cứ là kỳ tính thuế trước liền kề. Điều 18 khoản 4 loại trừ 15%, 17% với công ty con, công ty liên kết có doanh nghiệp liên kết không đủ điều kiện.\n✓ 17%: 30 tỷ nằm trong khoảng trên 3 tỷ đến không quá 50 tỷ đồng\n✗ 15%: 15% chỉ cho doanh nghiệp doanh thu năm không quá 3 tỷ đồng\n✗ 20%: 20% là thuế suất phổ thông khi không thuộc các khoản 2, 3, 4 Điều 10 hoặc khi bị loại trừ theo Điều 18\n✗ 22%: 22% không có trong Luật 67/2025",
   },
   {
     id: "kt-37-003",

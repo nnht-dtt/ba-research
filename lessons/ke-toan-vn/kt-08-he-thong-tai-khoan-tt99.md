@@ -82,6 +82,8 @@ TK 611 và 631 trong TT200 phục vụ phương pháp kiểm kê định kỳ h�
 | 244 | Cầm cố, thế chấp, ký quỹ, ký cược | Ký quỹ, ký cược |
 | 419 | Cổ phiếu quỹ | Cổ phiếu mua lại của chính mình |
 | 2413 | Sửa chữa lớn TSCĐ | Sửa chữa, bảo dưỡng định kỳ TSCĐ |
+| 3562 | Quỹ phát triển khoa học và công nghệ đã hình thành TSCĐ | Quỹ phát triển khoa học và công nghệ đã hình thành tài sản |
+| 4112 | Thặng dư vốn cổ phần | Thặng dư vốn |
 | 3387 | Doanh thu chưa thực hiện | Doanh thu chờ phân bổ |
 | 4211 | Lợi nhuận sau thuế chưa phân phối năm trước | Lợi nhuận sau thuế chưa phân phối lũy kế đến cuối năm trước |
 

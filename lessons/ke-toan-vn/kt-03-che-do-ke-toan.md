@@ -9,7 +9,7 @@ Bài này giúp xác định khách hàng thuộc chế độ kế toán nào, T
 | Tên | Hướng dẫn chế độ kế toán doanh nghiệp | Hướng dẫn chế độ kế toán doanh nghiệp nhỏ và vừa | Hướng dẫn chế độ kế toán cho doanh nghiệp siêu nhỏ |
 | Hiệu lực | 01/01/2026, cho năm tài chính bắt đầu từ hoặc sau ngày này | Năm tài chính bắt đầu từ hoặc sau 01/01/2017 | 01/7/2026, cho năm tài chính bắt đầu từ hoặc sau ngày này |
 | Thay thế | TT200/2014 (trừ phần cổ phần hoá DNNN), TT75/2015, TT53/2016, TT195/2012 | Phần áp dụng cho DNNVV của QĐ 48/2006 và TT138/2011 | TT132/2018 |
-| Đối tượng | Doanh nghiệp thuộc mọi lĩnh vực, mọi thành phần kinh tế; tổ chức tín dụng theo hướng dẫn của Ngân hàng Nhà nước | DNNVV (kể cả siêu nhỏ) theo pháp luật hỗ trợ DNNVV, trừ DNNN, doanh nghiệp Nhà nước sở hữu trên 50% vốn điều lệ, công ty đại chúng, hợp tác xã, liên hiệp hợp tác xã | Doanh nghiệp siêu nhỏ theo tiêu chí của pháp luật hỗ trợ DNNVV; hộ kinh doanh, cá nhân kinh doanh được tự nguyện áp dụng |
+| Đối tượng | Doanh nghiệp thuộc mọi lĩnh vực, mọi thành phần kinh tế; tổ chức tín dụng, chi nhánh ngân hàng nước ngoài thì theo hướng dẫn của Ngân hàng Nhà nước (khoản 2 Điều 2) | DNNVV (kể cả siêu nhỏ) theo pháp luật hỗ trợ DNNVV, trừ DNNN, doanh nghiệp Nhà nước sở hữu trên 50% vốn điều lệ, công ty đại chúng, hợp tác xã, liên hiệp hợp tác xã | Doanh nghiệp siêu nhỏ theo tiêu chí của pháp luật hỗ trợ DNNVV; hộ kinh doanh, cá nhân kinh doanh được tự nguyện áp dụng |
 | Ghi sổ | Hệ thống tài khoản Phụ lục II, ghi sổ kép | Hệ thống tài khoản Phụ lục 1 của TT133, ghi sổ kép | Danh mục sổ theo phương pháp nộp thuế GTGT và TNDN (4 trường hợp, Điều 5–8) |
 
 ### Quyền lựa chọn giữa các chế độ
@@ -51,7 +51,7 @@ So với TT133 (vẫn áp dụng cho DNNVV không chọn TT99), khác biệt l�
 Theo bản tóm tắt của Grant Thornton Việt Nam và KPMG Việt Nam, đối chiếu với Phụ lục II TT99:
 
 - **Bỏ** một số tài khoản, ví dụ TK 1385, 161, 441, 461, 466, 611, 631 (đã đối chiếu: không còn trong Phụ lục II).
-- **Thêm** một số tài khoản, ví dụ TK 1383 (Thuế TTĐB của hàng nhập khẩu), 215 (Tài sản sinh học), 2295 (Dự phòng tổn thất tài sản sinh học), 332 (Phải trả cổ tức, lợi nhuận), 2413, 2414, 82111, 82112.
+- **Thêm** một số tài khoản, ví dụ TK 1383 (Thuế TTĐB của hàng nhập khẩu), 215 (Tài sản sinh học), 2295 (Dự phòng tổn thất tài sản sinh học), 332 (Phải trả cổ tức, lợi nhuận), 2414 (Nâng cấp, cải tạo TSCĐ), 82111, 82112. Grant Thornton xếp cả TK 2413 vào nhóm bổ sung, nhưng TK 2413 đã có trong TT200 với tên "Sửa chữa lớn TSCĐ" (Điều 29 TT99 còn dẫn tên cũ này); TT99 đổi tên thành "Sửa chữa, bảo dưỡng định kỳ TSCĐ".
 - **Đổi tên** một số tài khoản, ví dụ TK 112 thành "Tiền gửi không kỳ hạn", TK 242 thành "Chi phí chờ phân bổ", TK 3387 thành "Doanh thu chờ phân bổ".
 - **Không còn quy định tài khoản chi tiết** cho một số tài khoản như 111, 112, 113, 121, 153, 156, 211, 213; doanh nghiệp tự chi tiết theo yêu cầu quản lý.
 
@@ -105,7 +105,7 @@ TT58 cũng có quy định về bộ máy: doanh nghiệp siêu nhỏ được b
 ## Nguồn
 
 - Thông tư 99/2025/TT-BTC (toàn văn phần quy định): Điều 1–7, 9, 11, 12, 16, 17, 18, 25, 28, 29, 30, 31. https://docs.google.com/document/d/1pVNpXGJEpTA1nRM2pM4IzomKqqulmWNz/export?format=pdf
-- Thông tư 99/2025/TT-BTC, Phụ lục II – Hệ thống tài khoản kế toán doanh nghiệp (đối chiếu TK 112, 1383, 215, 2295, 242, 332, 3387; không có TK 161, 441, 611, 631, 1385). https://docs.google.com/document/d/14NeM16EEKMINCoSraTafe0w_iySTX1Ub/export?format=pdf
+- Thông tư 99/2025/TT-BTC, Phụ lục II – Hệ thống tài khoản kế toán doanh nghiệp (đối chiếu TK 112, 1383, 215, 2295, 2413, 2414, 242, 332, 3387; không có TK 161, 441, 611, 631, 1385). https://docs.google.com/document/d/14NeM16EEKMINCoSraTafe0w_iySTX1Ub/export?format=pdf
 - Thông tư 133/2016/TT-BTC: Điều 2, 3, 4, 10, 93. https://ketoananpha.vn/uploads/files/Van-ban-luat/Ke-toan-Kiem-toan/Thong-tu-133_2016_TT-BTC.doc
 - Thông tư 58/2026/TT-BTC, bản dịch tiếng Anh của Thư viện Pháp luật: Điều 1–8, 10, 11, 12. https://hrspring.vn/wp-content/uploads/2026/07/58_2026_TT-BTC_709489.docx
 - Grant Thornton Việt Nam, "Hướng dẫn chế độ kế toán doanh nghiệp Việt Nam – Những thay đổi chính, Thông tư số 99/2025/TT-BTC". https://www.grantthornton.com.vn/contentassets/2453c36bf5094e8b82a9da0fb262b505/decree-99---vie-version.pdf

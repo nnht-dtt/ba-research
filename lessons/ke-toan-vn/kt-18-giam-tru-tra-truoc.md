@@ -85,7 +85,7 @@ TT99 TK 511 mục 1.5.2: tiền đã thu nhưng đến cuối kỳ chưa giao h�
 - Nhận tiền ứng trước theo hợp đồng: `Nợ TK 111, 112 / Có TK 131` (TT99 TK 131 mục 3.5).
 - Khi giao hàng: `Nợ TK 131 / Có TK 511 / Có TK 3331`.
 
-Vì vậy TK 131 **có thể có số dư Có**: số tiền nhận trước hoặc số đã thu nhiều hơn số phải thu, chi tiết theo từng khách. TT99 TK 131 mục 2 yêu cầu khi lập Báo cáo tình hình tài chính, lấy **số dư chi tiết theo từng đối tượng** để ghi vào cả hai chỉ tiêu bên "Tài sản" (phải thu) và bên "Nguồn vốn" (người mua trả tiền trước). Không được bù trừ số dư Nợ của khách này với số dư Có của khách khác.
+Vì vậy TK 131 **có thể có số dư Có**: số tiền nhận trước hoặc số đã thu nhiều hơn số phải thu, chi tiết theo từng khách. TT99 TK 131 mục 2 yêu cầu khi lập Báo cáo tình hình tài chính, lấy **số dư chi tiết theo từng đối tượng** để ghi vào cả hai chỉ tiêu bên "Tài sản" (phải thu) và bên "Nguồn vốn" (người mua trả tiền trước), tức là không bù trừ số dư Nợ của khách này với số dư Có của khách khác.
 
 Khoản đặt cọc của khách để bảo đảm thực hiện hợp đồng có thể có bản chất khác tiền ứng trước. Cách tách đặt cọc, tạm ứng và cấn trừ công nợ được trình bày ở [[kt-15-tam-ung-dat-coc-can-tru]].
 
