@@ -98,7 +98,7 @@ const ktvnLessons: Lesson[] = [
     description: "Thành phần, kỳ lập, thời hạn nộp, công khai, mẫu cho DN không hoạt động liên tục.", file: "ke-toan-vn/kt-38-he-thong-bctc.md" },
   { slug: "kt-39-bao-cao-tinh-hinh-tai-chinh", courseId: "KT-VN", title: "Báo cáo tình hình tài chính (B01-DN) và mapping tài khoản", shortTitle: "B01-DN", chapter: "kt-ch8", order: 39, available: true,
     description: "Kết cấu chỉ tiêu, ngắn hạn và dài hạn, chỉ tiêu lấy từ tài khoản nào, chi tiết đối tượng để tách dư Nợ, dư Có.", file: "ke-toan-vn/kt-39-bao-cao-tinh-hinh-tai-chinh.md" },
-  { slug: "kt-40-bao-cao-ket-qua-kinh-doanh", courseId: "KT-VN", title: "Báo cáo kết quả hoạt động kinh doanh (B02-DN)", shortTitle: "B02-DN", chapter: "kt-ch8", order: 40, available: false,
+  { slug: "kt-40-bao-cao-ket-qua-kinh-doanh", courseId: "KT-VN", title: "Báo cáo kết quả hoạt động kinh doanh (B02-DN)", shortTitle: "B02-DN", chapter: "kt-ch8", order: 40, available: true,
     description: "Các chỉ tiêu từ doanh thu đến lợi nhuận sau thuế và tài khoản nguồn.", file: "ke-toan-vn/kt-40-bao-cao-ket-qua-kinh-doanh.md" },
   { slug: "kt-41-luu-chuyen-tien-te", courseId: "KT-VN", title: "Báo cáo lưu chuyển tiền tệ (B03-DN): hệ thống cần dữ liệu gì", shortTitle: "B03-DN", chapter: "kt-ch8", order: 41, available: false,
     description: "Ba nhóm hoạt động, trực tiếp và gián tiếp, gắn mã dòng tiền cho giao dịch tiền.", file: "ke-toan-vn/kt-41-luu-chuyen-tien-te.md" },
