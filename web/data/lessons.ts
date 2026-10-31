@@ -66,7 +66,7 @@ const ktvnLessons: Lesson[] = [
     description: "VAT theo thuế suất, bù trừ đầu vào, báo cáo hệ thống cần cung cấp cho kê khai.", file: "ke-toan-vn/kt-22-thue-gtgt-dau-ra.md" },
   { slug: "kt-23-dinh-gia-ton-kho", courseId: "KT-VN", title: "Định giá hàng tồn kho và giá vốn trong hệ thống", shortTitle: "Định giá tồn kho", chapter: "kt-ch5", order: 23, available: true,
     description: "FIFO, bình quân, đích danh; kê khai thường xuyên và kiểm kê định kỳ; định giá tự động và xuất âm kho.", file: "ke-toan-vn/kt-23-dinh-gia-ton-kho.md" },
-  { slug: "kt-24-kiem-ke-du-phong", courseId: "KT-VN", title: "Kiểm kê, điều chỉnh tồn kho và dự phòng giảm giá", shortTitle: "Kiểm kê, dự phòng", chapter: "kt-ch5", order: 24, available: false,
+  { slug: "kt-24-kiem-ke-du-phong", courseId: "KT-VN", title: "Kiểm kê, điều chỉnh tồn kho và dự phòng giảm giá", shortTitle: "Kiểm kê, dự phòng", chapter: "kt-ch5", order: 24, available: true,
     description: "Chênh lệch kiểm kê, xuất huỷ, giá trị thuần có thể thực hiện, dữ liệu để trích dự phòng.", file: "ke-toan-vn/kt-24-kiem-ke-du-phong.md" },
   { slug: "kt-25-kho-thue-ngoai-kho-san", courseId: "KT-VN", title: "Kho thuê ngoài, kho trên sàn, kho ảo và hàng gửi đi", shortTitle: "Kho thuê ngoài, kho sàn", chapter: "kt-ch5", order: 25, available: false,
     description: "Hàng nằm ở kho bên thứ ba vẫn thuộc doanh nghiệp, hàng gửi bán, kho ảo để quản lý; pháp nhân sở hữu kho.", file: "ke-toan-vn/kt-25-kho-thue-ngoai-kho-san.md" },
