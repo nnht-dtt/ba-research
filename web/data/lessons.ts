@@ -72,7 +72,7 @@ const ktvnLessons: Lesson[] = [
     description: "Hàng nằm ở kho bên thứ ba vẫn thuộc doanh nghiệp, hàng gửi bán, kho ảo để quản lý; pháp nhân sở hữu kho.", file: "ke-toan-vn/kt-25-kho-thue-ngoai-kho-san.md" },
   { slug: "kt-26-gia-cong", courseId: "KT-VN", title: "Gia công: thuê ngoài gia công và nhận gia công", shortTitle: "Gia công", chapter: "kt-ch5", order: 26, available: true,
     description: "Xuất nguyên liệu đi gia công, phí gia công vào giá thành, nhận lại thành phẩm; nhận gia công cho bên khác.", file: "ke-toan-vn/kt-26-gia-cong.md" },
-  { slug: "kt-27-chi-phi-san-xuat", courseId: "KT-VN", title: "Luồng chi phí sản xuất: từ lệnh sản xuất đến thành phẩm", shortTitle: "Chi phí sản xuất", chapter: "kt-ch5", order: 27, available: false,
+  { slug: "kt-27-chi-phi-san-xuat", courseId: "KT-VN", title: "Luồng chi phí sản xuất: từ lệnh sản xuất đến thành phẩm", shortTitle: "Chi phí sản xuất", chapter: "kt-ch5", order: 27, available: true,
     description: "Chi phí NVL, nhân công, sản xuất chung tập hợp vào 154, nhập kho thành phẩm, bút toán từng bước.", file: "ke-toan-vn/kt-27-chi-phi-san-xuat.md" },
   { slug: "kt-28-gia-thanh", courseId: "KT-VN", title: "Tính giá thành: các phương án cần chốt với khách", shortTitle: "Giá thành", chapter: "kt-ch5", order: 28, available: false,
     description: "Đối tượng tính giá thành, phân bổ sản xuất chung, dở dang, giá định mức và thực tế.", file: "ke-toan-vn/kt-28-gia-thanh.md" },
