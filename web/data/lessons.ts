@@ -122,7 +122,7 @@ const ktvnChapters: Chapter[] = [
 const ktqtLessons: Lesson[] = [
   { slug: "ktqt-01-mo-hinh-da-cong-ty", courseId: "KT-QT", title: "Mô hình đa công ty và loại báo cáo tương ứng", shortTitle: "Mô hình đa công ty", chapter: "ktqt-ch1", order: 1, available: true,
     description: "Chi nhánh phụ thuộc, công ty con, liên doanh, liên kết; BCTC riêng, tổng hợp, hợp nhất; hệ quả lên thiết kế công ty trong ERP.", file: "ke-toan-tap-doan/ktqt-01-mo-hinh-da-cong-ty.md" },
-  { slug: "ktqt-02-danh-muc-phap-nhan", courseId: "KT-QT", title: "Danh mục pháp nhân đa quốc gia: chuẩn mực, tiền tệ, năm tài chính, kỳ khoá sổ", shortTitle: "Danh mục pháp nhân", chapter: "ktqt-ch1", order: 2, available: false,
+  { slug: "ktqt-02-danh-muc-phap-nhan", courseId: "KT-QT", title: "Danh mục pháp nhân đa quốc gia: chuẩn mực, tiền tệ, năm tài chính, kỳ khoá sổ", shortTitle: "Danh mục pháp nhân", chapter: "ktqt-ch1", order: 2, available: true,
     description: "Thông tin cần thu thập cho từng pháp nhân, quan hệ sở hữu, chuẩn mực địa phương, đơn vị tiền tệ hạch toán, năm tài chính khác nhau.", file: "ke-toan-tap-doan/ktqt-02-danh-muc-phap-nhan.md" },
   { slug: "ktqt-03-giao-dich-noi-bo", courseId: "KT-QT", title: "Giao dịch nội bộ: mua bán, chi hộ thu hộ, cho vay nội bộ", shortTitle: "Giao dịch nội bộ", chapter: "ktqt-ch1", order: 3, available: false,
     description: "Các loại giao dịch giữa pháp nhân, tài khoản dùng (136/336 với đơn vị phụ thuộc, 131/331/1283/341 giữa pháp nhân độc lập), đối chiếu số dư nội bộ.", file: "ke-toan-tap-doan/ktqt-03-giao-dich-noi-bo.md" },
