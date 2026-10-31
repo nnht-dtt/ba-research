@@ -140,7 +140,7 @@ const ktqtLessons: Lesson[] = [
     description: "Mapping 1-1, nhiều-1, 1-nhiều; tách bằng đối tác, analytic hay tài khoản chi tiết; cấu trúc bảng mapping, kiểm tra đầy đủ, quản lý thay đổi.", file: "ke-toan-tap-doan/ktqt-09-mapping-coa-tap-doan.md" },
   { slug: "ktqt-10-kien-truc-so-hai-chuan", courseId: "KT-QT", title: "Kiến trúc sổ: một sổ và mapping, sổ song song, hay COA tập đoàn làm chính", shortTitle: "Kiến trúc sổ", chapter: "ktqt-ch3", order: 10, available: true,
     description: "Ba phương án, đánh đổi về vận hành, kiểm soát, đối chiếu; khả năng của ERP.", file: "ke-toan-tap-doan/ktqt-10-kien-truc-so-hai-chuan.md" },
-  { slug: "ktqt-11-giao-dich-cong-ty-me", courseId: "KT-QT", title: "Giao dịch với công ty mẹ và bên liên kết ở nước ngoài", shortTitle: "Giao dịch với mẹ", chapter: "ktqt-ch3", order: 11, available: false,
+  { slug: "ktqt-11-giao-dich-cong-ty-me", courseId: "KT-QT", title: "Giao dịch với công ty mẹ và bên liên kết ở nước ngoài", shortTitle: "Giao dịch với mẹ", chapter: "ktqt-ch3", order: 11, available: true,
     description: "Phí quản lý, bản quyền, vay mẹ; thuế nhà thầu nước ngoài; giao dịch liên kết; đối chiếu liên công ty xuyên biên giới.", file: "ke-toan-tap-doan/ktqt-11-giao-dich-cong-ty-me.md" },
   { slug: "ktqt-12-bao-cao-cho-tap-doan", courseId: "KT-QT", title: "Gói báo cáo tập đoàn, lịch khoá sổ và đối chiếu lợi nhuận VAS – IFRS", shortTitle: "Báo cáo cho tập đoàn", chapter: "ktqt-ch3", order: 12, available: false,
     description: "Gói báo cáo gửi công ty mẹ, khoá sổ theo lịch tập đoàn, năm tài chính lệch nhau, bảng đối chiếu lợi nhuận và vốn chủ.", file: "ke-toan-tap-doan/ktqt-12-bao-cao-cho-tap-doan.md" },
