@@ -80,7 +80,7 @@ const ktvnLessons: Lesson[] = [
     description: "Ghi nhận, nguyên giá, XDCB dở dang, khấu hao, nâng cấp, điều chuyển, thanh lý, nhượng bán.", file: "ke-toan-vn/kt-29-vong-doi-tscd.md" },
   { slug: "kt-30-ccdc-tra-truoc-trich-truoc", courseId: "KT-VN", title: "Công cụ dụng cụ, chi phí trả trước, chi phí phải trả và phân bổ tự động", shortTitle: "CCDC và phân bổ", chapter: "kt-ch6", order: 30, available: true,
     description: "Ghi tăng, phân bổ, thanh lý CCDC; chi phí trả trước; trích trước chi phí chưa có hoá đơn; lịch phân bổ.", file: "ke-toan-vn/kt-30-ccdc-tra-truoc-trich-truoc.md" },
-  { slug: "kt-31-tien-luong", courseId: "KT-VN", title: "Tiền lương và các khoản trích theo lương: điểm nối HRM với kế toán", shortTitle: "Tiền lương", chapter: "kt-ch6", order: 31, available: false,
+  { slug: "kt-31-tien-luong", courseId: "KT-VN", title: "Tiền lương và các khoản trích theo lương: điểm nối HRM với kế toán", shortTitle: "Tiền lương", chapter: "kt-ch6", order: 31, available: true,
     description: "Bút toán lương theo bộ phận, bảo hiểm, KPCĐ, thuế TNCN khấu trừ, dữ liệu từ hệ thống nhân sự.", file: "ke-toan-vn/kt-31-tien-luong.md" },
   { slug: "kt-32-tien-ngan-hang-vay", courseId: "KT-VN", title: "Tiền, quỹ, đối soát ngân hàng và khoản vay", shortTitle: "Tiền và vay", chapter: "kt-ch6", order: 32, available: false,
     description: "Tiền mặt, tiền gửi, tiền đang chuyển, đối soát sao kê, khế ước vay, chi phí đi vay.", file: "ke-toan-vn/kt-32-tien-ngan-hang-vay.md" },
