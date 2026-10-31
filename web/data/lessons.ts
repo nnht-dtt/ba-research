@@ -82,7 +82,7 @@ const ktvnLessons: Lesson[] = [
     description: "Ghi tăng, phân bổ, thanh lý CCDC; chi phí trả trước; trích trước chi phí chưa có hoá đơn; lịch phân bổ.", file: "ke-toan-vn/kt-30-ccdc-tra-truoc-trich-truoc.md" },
   { slug: "kt-31-tien-luong", courseId: "KT-VN", title: "Tiền lương và các khoản trích theo lương: điểm nối HRM với kế toán", shortTitle: "Tiền lương", chapter: "kt-ch6", order: 31, available: true,
     description: "Bút toán lương theo bộ phận, bảo hiểm, KPCĐ, thuế TNCN khấu trừ, dữ liệu từ hệ thống nhân sự.", file: "ke-toan-vn/kt-31-tien-luong.md" },
-  { slug: "kt-32-tien-ngan-hang-vay", courseId: "KT-VN", title: "Tiền, quỹ, đối soát ngân hàng và khoản vay", shortTitle: "Tiền và vay", chapter: "kt-ch6", order: 32, available: false,
+  { slug: "kt-32-tien-ngan-hang-vay", courseId: "KT-VN", title: "Tiền, quỹ, đối soát ngân hàng và khoản vay", shortTitle: "Tiền và vay", chapter: "kt-ch6", order: 32, available: true,
     description: "Tiền mặt, tiền gửi, tiền đang chuyển, đối soát sao kê, khế ước vay, chi phí đi vay.", file: "ke-toan-vn/kt-32-tien-ngan-hang-vay.md" },
   { slug: "kt-33-trung-tam-chi-phi", courseId: "KT-VN", title: "Trung tâm chi phí và chiều phân tích quản trị", shortTitle: "Trung tâm chi phí", chapter: "kt-ch7", order: 33, available: true,
     description: "Kế toán quản trị khác kế toán tài chính, trung tâm chi phí, lợi nhuận, chiều phân tích (phòng ban, kênh, thương hiệu, khu vực).", file: "ke-toan-vn/kt-33-trung-tam-chi-phi.md" },
