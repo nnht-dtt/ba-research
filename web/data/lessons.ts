@@ -146,7 +146,7 @@ const ktqtLessons: Lesson[] = [
     description: "Gói báo cáo gửi công ty mẹ, khoá sổ theo lịch tập đoàn, năm tài chính lệch nhau, bảng đối chiếu lợi nhuận và vốn chủ.", file: "ke-toan-tap-doan/ktqt-12-bao-cao-cho-tap-doan.md" },
   { slug: "ktqt-13-doanh-thu-kenh-online", courseId: "KT-QT", title: "Bán hàng qua sàn và kênh online: doanh thu gộp hay thuần", shortTitle: "Doanh thu kênh online", chapter: "ktqt-ch4", order: 13, available: true,
     description: "Doanh nghiệp là bên chính hay đại lý, ghi nhận doanh thu theo giá khách trả hay số sàn chuyển về, pháp nhân sở hữu shop.", file: "ke-toan-tap-doan/ktqt-13-doanh-thu-kenh-online.md" },
-  { slug: "ktqt-14-phi-san-cong-thanh-toan", courseId: "KT-QT", title: "Phí sàn, cổng thanh toán, vận chuyển: ghi nhận lúc nào", shortTitle: "Phí sàn và cổng TT", chapter: "ktqt-ch4", order: 14, available: false,
+  { slug: "ktqt-14-phi-san-cong-thanh-toan", courseId: "KT-QT", title: "Phí sàn, cổng thanh toán, vận chuyển: ghi nhận lúc nào", shortTitle: "Phí sàn và cổng TT", chapter: "ktqt-ch4", order: 14, available: true,
     description: "Phí trừ theo đơn và phí cuối kỳ, ghi nhận khi phát sinh đơn hay khi quyết toán, tài khoản chi phí, hoá đơn của sàn.", file: "ke-toan-tap-doan/ktqt-14-phi-san-cong-thanh-toan.md" },
   { slug: "ktqt-15-doi-soat-san-cod", courseId: "KT-QT", title: "Đối soát quyết toán sàn, cổng thanh toán, COD và sao kê ngân hàng", shortTitle: "Đối soát sàn, COD", chapter: "ktqt-ch4", order: 15, available: false,
     description: "Phải thu sàn và tiền đang chuyển, đối chiếu đơn – quyết toán – sao kê, chênh lệch thường gặp, tự động hoá đối soát.", file: "ke-toan-tap-doan/ktqt-15-doi-soat-san-cod.md" },
