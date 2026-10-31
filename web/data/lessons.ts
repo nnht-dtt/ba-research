@@ -40,7 +40,7 @@ const ktvnLessons: Lesson[] = [
     description: "Nội dung bắt buộc của chứng từ, chứng từ hệ thống phải in hoặc lưu, hoá đơn điện tử và điểm tích hợp với nhà cung cấp hoá đơn.", file: "ke-toan-vn/kt-09-chung-tu-hoa-don.md" },
   { slug: "kt-10-so-con-so-cai", courseId: "KT-VN", title: "Sổ con, sổ cái và đối tượng theo dõi: dữ liệu đi từ phân hệ lên sổ cái", shortTitle: "Sổ con và sổ cái", chapter: "kt-ch2", order: 10, available: true,
     description: "Sổ chi tiết theo khách hàng, nhà cung cấp, vật tư, tài sản; đối chiếu sổ con với sổ cái; mẫu sổ TT99.", file: "ke-toan-vn/kt-10-so-con-so-cai.md" },
-  { slug: "kt-11-but-toan-tong-hop-dieu-chinh", courseId: "KT-VN", title: "Bút toán tổng hợp, huỷ và điều chỉnh chứng từ", shortTitle: "Điều chỉnh chứng từ", chapter: "kt-ch2", order: 11, available: false,
+  { slug: "kt-11-but-toan-tong-hop-dieu-chinh", courseId: "KT-VN", title: "Bút toán tổng hợp, huỷ và điều chỉnh chứng từ", shortTitle: "Điều chỉnh chứng từ", chapter: "kt-ch2", order: 11, available: true,
     description: "Bút toán nhập tay trên sổ cái, sửa sai bằng bút toán đảo hay điều chỉnh, hoá đơn điều chỉnh, quy định sửa sổ.", file: "ke-toan-vn/kt-11-but-toan-tong-hop-dieu-chinh.md" },
   { slug: "kt-12-quy-trinh-mua-hang", courseId: "KT-VN", title: "Quy trình mua hàng: bước nào sinh bút toán", shortTitle: "Quy trình mua hàng", chapter: "kt-ch3", order: 12, available: true,
     description: "Đề nghị mua, đơn mua, nhận hàng, hoá đơn, thanh toán; thời điểm ghi nhận; đối chiếu ba chiều.", file: "ke-toan-vn/kt-12-quy-trinh-mua-hang.md" },
