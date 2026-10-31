@@ -52,7 +52,7 @@ const ktvnLessons: Lesson[] = [
     description: "Tạm ứng và hoàn ứng, ứng trước cho nhà cung cấp, bù trừ công nợ phải thu phải trả cùng đối tượng, chứng từ cần có.", file: "ke-toan-vn/kt-15-tam-ung-dat-coc-can-tru.md" },
   { slug: "kt-16-thue-gtgt-dau-vao", courseId: "KT-VN", title: "Thuế GTGT đầu vào và quy tắc khấu trừ", shortTitle: "VAT đầu vào", chapter: "kt-ch3", order: 16, available: true,
     description: "Phương pháp khấu trừ và trực tiếp, điều kiện khấu trừ, VAT không được khấu trừ, cấu hình mã thuế.", file: "ke-toan-vn/kt-16-thue-gtgt-dau-vao.md" },
-  { slug: "kt-17-quy-trinh-ban-hang", courseId: "KT-VN", title: "Quy trình bán hàng: thời điểm ghi nhận doanh thu và giá vốn", shortTitle: "Quy trình bán hàng", chapter: "kt-ch4", order: 17, available: false,
+  { slug: "kt-17-quy-trinh-ban-hang", courseId: "KT-VN", title: "Quy trình bán hàng: thời điểm ghi nhận doanh thu và giá vốn", shortTitle: "Quy trình bán hàng", chapter: "kt-ch4", order: 17, available: true,
     description: "Báo giá, đơn bán, giao hàng, hoá đơn, thu tiền; điều kiện ghi nhận doanh thu; lệch kỳ giữa giao hàng và hoá đơn.", file: "ke-toan-vn/kt-17-quy-trinh-ban-hang.md" },
   { slug: "kt-18-giam-tru-tra-truoc", courseId: "KT-VN", title: "Giảm trừ doanh thu, khách trả trước và doanh thu nhận trước", shortTitle: "Giảm trừ, trả trước", chapter: "kt-ch4", order: 18, available: false,
     description: "Chiết khấu thương mại, giảm giá, tiền khách đặt cọc, doanh thu chưa thực hiện.", file: "ke-toan-vn/kt-18-giam-tru-tra-truoc.md" },

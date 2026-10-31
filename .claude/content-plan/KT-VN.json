@@ -227,7 +227,7 @@
         "Odoo 19 Documentation (odoo.com/documentation/19.0), Purchase"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: TT99 không hướng dẫn riêng hàng về trước hoá đơn"
     },
     {
       "slug": "kt-13-mua-hang-nhap-khau",
@@ -253,7 +253,7 @@
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 211, 242, 153, 641, 642"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: hiệu lực TT45/2013 và ngưỡng 30 triệu"
     },
     {
       "slug": "kt-15-tam-ung-dat-coc-can-tru",
@@ -265,7 +265,7 @@
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 141, 331, 131"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: bù trừ 131-331; đặt cọc TK 331 hay 244"
     },
     {
       "slug": "kt-16-thue-gtgt-dau-vao",
@@ -278,7 +278,7 @@
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 133"
       ],
       "status": "done",
-      "note": ""
+      "note": "Cần xác nhận: chưa đọc toàn văn NĐ 359/2025, NĐ 144/2026, Luật 90/2025"
     },
     {
       "slug": "kt-17-quy-trinh-ban-hang",
@@ -290,7 +290,7 @@
         "VAS 14",
         "Thông tư 99/2025/TT-BTC, Phụ lục II TK 131, 157, 511, 632"
       ],
-      "status": "in-progress",
+      "status": "done",
       "note": ""
     },
     {
