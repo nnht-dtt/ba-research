@@ -46,7 +46,7 @@ const ktvnLessons: Lesson[] = [
     description: "Đề nghị mua, đơn mua, nhận hàng, hoá đơn, thanh toán; thời điểm ghi nhận; đối chiếu ba chiều.", file: "ke-toan-vn/kt-12-quy-trinh-mua-hang.md" },
   { slug: "kt-13-mua-hang-nhap-khau", courseId: "KT-VN", title: "Chi phí mua, trả hàng, chiết khấu và hàng nhập khẩu", shortTitle: "Tình huống mua hàng", chapter: "kt-ch3", order: 13, available: true,
     description: "Chi phí mua phân bổ vào giá nhập (landed cost), chiết khấu, trả hàng, thuế nhập khẩu, VAT hàng nhập khẩu.", file: "ke-toan-vn/kt-13-mua-hang-nhap-khau.md" },
-  { slug: "kt-14-mua-dich-vu-tai-san", courseId: "KT-VN", title: "Mua dịch vụ, tài sản và phân loại chi phí", shortTitle: "Mua dịch vụ, tài sản", chapter: "kt-ch3", order: 14, available: false,
+  { slug: "kt-14-mua-dich-vu-tai-san", courseId: "KT-VN", title: "Mua dịch vụ, tài sản và phân loại chi phí", shortTitle: "Mua dịch vụ, tài sản", chapter: "kt-ch3", order: 14, available: true,
     description: "Khi nào khoản mua là chi phí, tài sản cố định, công cụ dụng cụ hay chi phí trả trước; hạng mục chi phí và luồng duyệt.", file: "ke-toan-vn/kt-14-mua-dich-vu-tai-san.md" },
   { slug: "kt-15-tam-ung-dat-coc-can-tru", courseId: "KT-VN", title: "Tạm ứng nhân viên, đặt cọc nhà cung cấp và cấn trừ công nợ", shortTitle: "Tạm ứng và cấn trừ", chapter: "kt-ch3", order: 15, available: false,
     description: "Tạm ứng và hoàn ứng, ứng trước cho nhà cung cấp, bù trừ công nợ phải thu phải trả cùng đối tượng, chứng từ cần có.", file: "ke-toan-vn/kt-15-tam-ung-dat-coc-can-tru.md" },
