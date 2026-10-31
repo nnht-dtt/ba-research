@@ -58,7 +58,7 @@ const ktvnLessons: Lesson[] = [
     description: "Chiết khấu thương mại, giảm giá, tiền khách đặt cọc, doanh thu chưa thực hiện.", file: "ke-toan-vn/kt-18-giam-tru-tra-truoc.md" },
   { slug: "kt-19-doi-tra-hoan-tien", courseId: "KT-VN", title: "Đổi trả, hoàn tiền và các tình huống sau khi khách đã thanh toán", shortTitle: "Đổi trả, hoàn tiền", chapter: "kt-ch4", order: 19, available: true,
     description: "Hàng bán bị trả lại, đổi hàng, hoàn tiền một phần hoặc toàn bộ, hoá đơn điều chỉnh, nhập lại kho và giá vốn.", file: "ke-toan-vn/kt-19-doi-tra-hoan-tien.md" },
-  { slug: "kt-20-khuyen-mai-voucher-combo", courseId: "KT-VN", title: "Khuyến mại, voucher, quà tặng và combo", shortTitle: "Khuyến mại và combo", chapter: "kt-ch4", order: 20, available: false,
+  { slug: "kt-20-khuyen-mai-voucher-combo", courseId: "KT-VN", title: "Khuyến mại, voucher, quà tặng và combo", shortTitle: "Khuyến mại và combo", chapter: "kt-ch4", order: 20, available: true,
     description: "Hàng khuyến mại có và không thu tiền, voucher, quà tặng, combo nhiều SKU: hạch toán, phân bổ doanh thu, hoá đơn.", file: "ke-toan-vn/kt-20-khuyen-mai-voucher-combo.md" },
   { slug: "kt-21-cong-no-phai-thu", courseId: "KT-VN", title: "Công nợ phải thu và dự phòng phải thu khó đòi", shortTitle: "Công nợ phải thu", chapter: "kt-ch4", order: 21, available: false,
     description: "Theo dõi theo khách và hoá đơn, tuổi nợ, đối trừ, trích dự phòng và dữ liệu cần có.", file: "ke-toan-vn/kt-21-cong-no-phai-thu.md" },
