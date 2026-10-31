@@ -60,7 +60,7 @@ const ktvnLessons: Lesson[] = [
     description: "Hàng bán bị trả lại, đổi hàng, hoàn tiền một phần hoặc toàn bộ, hoá đơn điều chỉnh, nhập lại kho và giá vốn.", file: "ke-toan-vn/kt-19-doi-tra-hoan-tien.md" },
   { slug: "kt-20-khuyen-mai-voucher-combo", courseId: "KT-VN", title: "Khuyến mại, voucher, quà tặng và combo", shortTitle: "Khuyến mại và combo", chapter: "kt-ch4", order: 20, available: true,
     description: "Hàng khuyến mại có và không thu tiền, voucher, quà tặng, combo nhiều SKU: hạch toán, phân bổ doanh thu, hoá đơn.", file: "ke-toan-vn/kt-20-khuyen-mai-voucher-combo.md" },
-  { slug: "kt-21-cong-no-phai-thu", courseId: "KT-VN", title: "Công nợ phải thu và dự phòng phải thu khó đòi", shortTitle: "Công nợ phải thu", chapter: "kt-ch4", order: 21, available: false,
+  { slug: "kt-21-cong-no-phai-thu", courseId: "KT-VN", title: "Công nợ phải thu và dự phòng phải thu khó đòi", shortTitle: "Công nợ phải thu", chapter: "kt-ch4", order: 21, available: true,
     description: "Theo dõi theo khách và hoá đơn, tuổi nợ, đối trừ, trích dự phòng và dữ liệu cần có.", file: "ke-toan-vn/kt-21-cong-no-phai-thu.md" },
   { slug: "kt-22-thue-gtgt-dau-ra", courseId: "KT-VN", title: "Thuế GTGT đầu ra và quyết toán VAT cuối kỳ", shortTitle: "VAT đầu ra", chapter: "kt-ch4", order: 22, available: false,
     description: "VAT theo thuế suất, bù trừ đầu vào, báo cáo hệ thống cần cung cấp cho kê khai.", file: "ke-toan-vn/kt-22-thue-gtgt-dau-ra.md" },
