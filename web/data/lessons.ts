@@ -78,7 +78,7 @@ const ktvnLessons: Lesson[] = [
     description: "Đối tượng tính giá thành, phân bổ sản xuất chung, dở dang, giá định mức và thực tế.", file: "ke-toan-vn/kt-28-gia-thanh.md" },
   { slug: "kt-29-vong-doi-tscd", courseId: "KT-VN", title: "Vòng đời tài sản cố định: ghi nhận, khấu hao, thanh lý", shortTitle: "Vòng đời TSCĐ", chapter: "kt-ch6", order: 29, available: true,
     description: "Ghi nhận, nguyên giá, XDCB dở dang, khấu hao, nâng cấp, điều chuyển, thanh lý, nhượng bán.", file: "ke-toan-vn/kt-29-vong-doi-tscd.md" },
-  { slug: "kt-30-ccdc-tra-truoc-trich-truoc", courseId: "KT-VN", title: "Công cụ dụng cụ, chi phí trả trước, chi phí phải trả và phân bổ tự động", shortTitle: "CCDC và phân bổ", chapter: "kt-ch6", order: 30, available: false,
+  { slug: "kt-30-ccdc-tra-truoc-trich-truoc", courseId: "KT-VN", title: "Công cụ dụng cụ, chi phí trả trước, chi phí phải trả và phân bổ tự động", shortTitle: "CCDC và phân bổ", chapter: "kt-ch6", order: 30, available: true,
     description: "Ghi tăng, phân bổ, thanh lý CCDC; chi phí trả trước; trích trước chi phí chưa có hoá đơn; lịch phân bổ.", file: "ke-toan-vn/kt-30-ccdc-tra-truoc-trich-truoc.md" },
   { slug: "kt-31-tien-luong", courseId: "KT-VN", title: "Tiền lương và các khoản trích theo lương: điểm nối HRM với kế toán", shortTitle: "Tiền lương", chapter: "kt-ch6", order: 31, available: false,
     description: "Bút toán lương theo bộ phận, bảo hiểm, KPCĐ, thuế TNCN khấu trừ, dữ liệu từ hệ thống nhân sự.", file: "ke-toan-vn/kt-31-tien-luong.md" },
