@@ -88,7 +88,7 @@ const ktvnLessons: Lesson[] = [
     description: "Kế toán quản trị khác kế toán tài chính, trung tâm chi phí, lợi nhuận, chiều phân tích (phòng ban, kênh, thương hiệu, khu vực).", file: "ke-toan-vn/kt-33-trung-tam-chi-phi.md" },
   { slug: "kt-34-phan-bo-chi-phi", courseId: "KT-VN", title: "Tập hợp và phân bổ chi phí theo tiêu thức", shortTitle: "Phân bổ chi phí", chapter: "kt-ch7", order: 34, available: true,
     description: "Chi phí trực tiếp và gián tiếp, tiêu thức phân bổ, phân bổ một bước và nhiều bước, dữ liệu cần để phân bổ tự động.", file: "ke-toan-vn/kt-34-phan-bo-chi-phi.md" },
-  { slug: "kt-35-ngan-sach", courseId: "KT-VN", title: "Ngân sách và kiểm soát ngân sách", shortTitle: "Ngân sách", chapter: "kt-ch7", order: 35, available: false,
+  { slug: "kt-35-ngan-sach", courseId: "KT-VN", title: "Ngân sách và kiểm soát ngân sách", shortTitle: "Ngân sách", chapter: "kt-ch7", order: 35, available: true,
     description: "Lập ngân sách theo chiều phân tích, so sánh thực tế và kế hoạch, cảnh báo và chặn khi vượt ngân sách.", file: "ke-toan-vn/kt-35-ngan-sach.md" },
   { slug: "kt-36-quy-trinh-khoa-so", courseId: "KT-VN", title: "Quy trình khoá sổ cuối kỳ và checklist đóng sổ", shortTitle: "Khoá sổ", chapter: "kt-ch8", order: 36, available: false,
     description: "Bút toán cuối kỳ (phân bổ, khấu hao, đánh giá lại, trích trước, giá vốn), kết chuyển 911, khoá kỳ, thứ tự phụ thuộc.", file: "ke-toan-vn/kt-36-quy-trinh-khoa-so.md" },
