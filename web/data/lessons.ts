@@ -44,7 +44,7 @@ const ktvnLessons: Lesson[] = [
     description: "Bút toán nhập tay trên sổ cái, sửa sai bằng bút toán đảo hay điều chỉnh, hoá đơn điều chỉnh, quy định sửa sổ.", file: "ke-toan-vn/kt-11-but-toan-tong-hop-dieu-chinh.md" },
   { slug: "kt-12-quy-trinh-mua-hang", courseId: "KT-VN", title: "Quy trình mua hàng: bước nào sinh bút toán", shortTitle: "Quy trình mua hàng", chapter: "kt-ch3", order: 12, available: true,
     description: "Đề nghị mua, đơn mua, nhận hàng, hoá đơn, thanh toán; thời điểm ghi nhận; đối chiếu ba chiều.", file: "ke-toan-vn/kt-12-quy-trinh-mua-hang.md" },
-  { slug: "kt-13-mua-hang-nhap-khau", courseId: "KT-VN", title: "Chi phí mua, trả hàng, chiết khấu và hàng nhập khẩu", shortTitle: "Tình huống mua hàng", chapter: "kt-ch3", order: 13, available: false,
+  { slug: "kt-13-mua-hang-nhap-khau", courseId: "KT-VN", title: "Chi phí mua, trả hàng, chiết khấu và hàng nhập khẩu", shortTitle: "Tình huống mua hàng", chapter: "kt-ch3", order: 13, available: true,
     description: "Chi phí mua phân bổ vào giá nhập (landed cost), chiết khấu, trả hàng, thuế nhập khẩu, VAT hàng nhập khẩu.", file: "ke-toan-vn/kt-13-mua-hang-nhap-khau.md" },
   { slug: "kt-14-mua-dich-vu-tai-san", courseId: "KT-VN", title: "Mua dịch vụ, tài sản và phân loại chi phí", shortTitle: "Mua dịch vụ, tài sản", chapter: "kt-ch3", order: 14, available: false,
     description: "Khi nào khoản mua là chi phí, tài sản cố định, công cụ dụng cụ hay chi phí trả trước; hạng mục chi phí và luồng duyệt.", file: "ke-toan-vn/kt-14-mua-dich-vu-tai-san.md" },
